@@ -1,0 +1,7 @@
+@conference{deman2014omtb,
+	Author = {De Man, Brecht and Mora-Mcginity, Mariano and Fazekas, Gy{\"o}rgy and Reiss, Joshua D.},
+	Booktitle = {137th Convention of the Audio Engineering Society},
+	Date-Modified = {2016-04-18 13:32:41 +0000},
+	Month = {October},
+	Title = {{T}he {O}pen {M}ultitrack {T}estbed},
+	Year = {2014}}

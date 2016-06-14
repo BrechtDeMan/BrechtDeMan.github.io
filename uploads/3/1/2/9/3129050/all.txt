@@ -1,0 +1,70 @@
+
+@conference{deman2013a,
+	Author = {De Man, Brecht and Reiss, Joshua D.},
+	Booktitle = {134th Convention of the Audio Engineering Society},
+	Title = {A Pairwise and Multiple Stimuli Approach to Perceptual Evaluation of Microphone Types},
+	Month = {May},
+	Year = {2013}
+}
+
+
+@article{deman2013b,
+	Author = {De Man, Brecht and Reiss, Joshua D.},
+	Journal = {Journal of the Art of Record Production},
+	Title = {A Semantic Approach to Autonomous Mixing},
+	Year = {2013}
+}
+
+
+@conference{deman2013c,
+	Author = {De Man, Brecht and Reiss, Joshua D.},
+	Booktitle = {135th Convention of the Audio Engineering Society},
+	Title = {A Knowledge-Engineered Autonomous Mixing System},
+	Month = {October},
+	Year = {2013}
+}
+
+
+@conference{deman2014a,
+	Author = {De Man, Brecht and Reiss, Joshua D.},
+	Booktitle = {53rd Conference of the Audio Engineering Society},
+	Title = {Adaptive Control of Amplitude Distortion Effects},
+	Month = {January},
+	Year = {2014}
+}
+
+
+@conference{deman2014b,
+	Author = {De Man, Brecht and Reiss, Joshua D.},
+	Booktitle = {136th Convention of the Audio Engineering Society},
+	Title = {{APE}: Audio Perceptual Evaluation toolbox for MATLAB},
+	Month = {April},
+	Year = {2014}
+}
+
+
+@conference{deman2014c,
+	Author = {De Man, Brecht and Mora-Mcginity, Mariano and Fazekas, Gyorgy and Reiss, Joshua D.},
+	Booktitle = {137th Convention of the Audio Engineering Society},
+	Title = {The Open Multitrack Testbed},
+	Month = {October},
+	Year = {2014}
+}
+
+
+@conference{deman2014d,
+	Author = {De Man, Brecht and Leonard, Brett and King, Richard and Reiss, Joshua D.},
+	Booktitle = {15th International Society for Music Information Retrieval Conference (ISMIR 2014)},
+	Title = {An Analysis and Evaluation of Audio Features for Multitrack Music Mixtures},
+	Month = {October},
+	Year = {2014}
+}
+
+
+@conference{stables2014,
+	Author = {Stables, Ryan and Enderby, Sean and De Man, Brecht and Fazekas, Gyorgy and Reiss, Joshua D.},
+	Booktitle = {15th International Society for Music Information Retrieval Conference (ISMIR 2014)},
+	Title = {{SAFE}: A System for the Extraction and Retrieval of Semantic Audio Descriptors},
+	Month = {October},
+	Year = {2014}
+}

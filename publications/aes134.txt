@@ -1,0 +1,7 @@
+@conference{deman2013a,
+	Author = {De Man, Brecht and Reiss, Joshua D.},
+	Booktitle = {134th Convention of the Audio Engineering Society},
+	Title = {A Pairwise and Multiple Stimuli Approach to Perceptual Evaluation of Microphone Types},
+	Month = {May},
+	Year = {2013}
+}

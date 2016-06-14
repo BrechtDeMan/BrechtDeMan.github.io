@@ -1,0 +1,9 @@
+@conference{jillings2016waet,
+	Author = {Nicholas Jillings and De Man, Brecht and Moffat, David and Reiss, Joshua D.},
+	Booktitle = {2nd Web Audio Conference},
+	Date-Added = {2016-04-18 13:44:24 +0000},
+	Date-Modified = {2016-04-18 13:45:28 +0000},
+	Month = {April},
+	Read = {1},
+	Title = {{W}eb {A}udio {E}valuation {T}ool: {A} framework for subjective assessment of audio},
+	Year = {2016}}

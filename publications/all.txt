@@ -1,0 +1,113 @@
+@conference{jillings2016waet,
+	Author = {Nicholas Jillings and De Man, Brecht and Moffat, David and Reiss, Joshua D.},
+	Booktitle = {2nd Web Audio Conference},
+	Date-Added = {2016-04-18 13:44:24 +0000},
+	Date-Modified = {2016-04-18 13:45:28 +0000},
+	Month = {April},
+	Read = {1},
+	Title = {{W}eb {A}udio {E}valuation {T}ool: {A} framework for subjective assessment of audio},
+	Year = {2016}}
+
+@conference{deman2013a,
+	Author = {De Man, Brecht and Reiss, Joshua D.},
+	Booktitle = {134th Convention of the Audio Engineering Society},
+	Month = {May},
+	Title = {A Pairwise and Multiple Stimuli Approach to Perceptual Evaluation of Microphone Types},
+	Year = {2013}}
+
+@conference{deman2013b,
+	Author = {De Man, Brecht and Reiss, Joshua D.},
+	Booktitle = {135th Convention of the Audio Engineering Society},
+	Month = {October},
+	Title = {A Knowledge-Engineered Autonomous Mixing System},
+	Year = {2013}}
+
+@article{deman2013c,
+	Author = {De Man, Brecht and Reiss, Joshua D.},
+	Journal = {Journal of the Art of Record Production},
+	Month = {December},
+	Title = {A Semantic Approach to Autonomous Mixing},
+	Volume = {8},
+	Year = {2013}}
+
+@conference{deman2014adaptive,
+	Author = {De Man, Brecht and Reiss, Joshua D.},
+	Booktitle = {53rd Conference of the Audio Engineering Society},
+	Date-Modified = {2016-04-18 13:31:47 +0000},
+	Month = {January},
+	Title = {Adaptive Control of Amplitude Distortion Effects},
+	Year = {2014}}
+
+@conference{deman2014ape,
+	Author = {De Man, Brecht and Reiss, Joshua D.},
+	Booktitle = {136th Convention of the Audio Engineering Society},
+	Date-Modified = {2016-04-18 13:31:28 +0000},
+	Month = {April},
+	Title = {{APE}: Audio Perceptual Evaluation toolbox for {MATLAB}},
+	Year = {2014}}
+
+@conference{deman2014omtb,
+	Author = {De Man, Brecht and Mora-Mcginity, Mariano and Fazekas, Gy{\"o}rgy and Reiss, Joshua D.},
+	Booktitle = {137th Convention of the Audio Engineering Society},
+	Date-Modified = {2016-04-18 13:32:41 +0000},
+	Month = {October},
+	Title = {{T}he {O}pen {M}ultitrack {T}estbed},
+	Year = {2014}}
+
+@conference{deman2014analysis,
+	Author = {De Man, Brecht and Leonard, Brett and King, Richard and Reiss, Joshua D.},
+	Booktitle = {15th International Society for Music Information Retrieval Conference (ISMIR 2014)},
+	Date-Modified = {2016-04-18 13:32:06 +0000},
+	Month = {October},
+	Title = {An Analysis and Evaluation of Audio Features for Multitrack Music Mixtures},
+	Year = {2014}}
+
+@conference{stables2014safe,
+	Author = {Stables, Ryan and Enderby, Sean and De Man, Brecht and Fazekas, Gy{\"o}rgy and Reiss, Joshua D.},
+	Booktitle = {15th International Society for Music Information Retrieval Conference (ISMIR 2014)},
+	Date-Modified = {2016-04-18 13:31:06 +0000},
+	Month = {October},
+	Title = {{SAFE}: A System for the Extraction and Retrieval of Semantic Audio Descriptors},
+	Year = {2014}}
+
+@conference{deman2015perceptual,
+	Author = {De Man, Brecht and Boerum, Matthew and Leonard, Brett and King, Richard and Massenburg, George and Reiss, Joshua D.},
+	Booktitle = {138th Convention of the Audio Engineering Society},
+	Date-Modified = {2016-04-18 13:32:20 +0000},
+	Month = {May},
+	Title = {Perceptual evaluation of music mixing practices},
+	Year = {2015}}
+
+@article{ma2015compression,
+	Author = {Ma, Zheng and De Man, Brecht and Pestana, Pedro Duarte and Black, Dawn A. A. and Reiss, Joshua D.},
+	Date-Modified = {2016-04-18 13:46:54 +0000},
+	Journal = {Journal of the Audio Engineering Society},
+	Month = {June},
+	Number = {6},
+	Pages = {412--426},
+	Title = {Intelligent Multitrack Dynamic Range Compression},
+	Volume = {63},
+	Year = {2015}}
+
+@article{deman2015analysis,
+	Author = {De Man, Brecht and Reiss, Joshua D.},
+	Date-Modified = {2016-04-18 13:32:11 +0000},
+	Journal = {Journal of the Art of Record Production},
+	Month = {July},
+	Title = {Analysis of peer reviews in music production},
+	Volume = {10},
+	Year = {2015}}
+
+@conference{jillings2015waet,
+	Author = {Nicholas Jillings and David Moffat and De Man, Brecht and Joshua D. Reiss},
+	Booktitle = {12th Sound and Music Computing Conference},
+	Month = {July},
+	Title = {Web {A}udio {E}valuation {T}ool: {A} browser-based listening test environment},
+	Year = {2015}}
+
+@conference{ronan2015subgrouping,
+	Author = {Ronan, David M. and De Man, Brecht and Gunes, Hatice and Reiss, Joshua D.},
+	Booktitle = {139th Convention of the Audio Engineering Society},
+	Month = {October},
+	Title = {The impact of subgrouping practices on the perception of multitrack mixes},
+	Year = {2015}}

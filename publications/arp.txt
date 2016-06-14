@@ -1,0 +1,16 @@
+@article{deman2013c,
+	Author = {De Man, Brecht and Reiss, Joshua D.},
+	Journal = {Journal of the Art of Record Production},
+	Month = {December},
+	Title = {A Semantic Approach to Autonomous Mixing},
+	Volume = {8},
+	Year = {2013}}
+
+@article{deman2015analysis,
+	Author = {De Man, Brecht and Reiss, Joshua D.},
+	Date-Modified = {2016-04-18 13:32:11 +0000},
+	Journal = {Journal of the Art of Record Production},
+	Month = {July},
+	Title = {Analysis of peer reviews in music production},
+	Volume = {10},
+	Year = {2015}}

@@ -1,0 +1,7 @@
+@conference{stables2014safe,
+	Author = {Stables, Ryan and Enderby, Sean and De Man, Brecht and Fazekas, Gy{\"o}rgy and Reiss, Joshua D.},
+	Booktitle = {15th International Society for Music Information Retrieval Conference (ISMIR 2014)},
+	Date-Modified = {2016-04-18 13:37:38 +0000},
+	Month = {October},
+	Title = {{SAFE}: {A} System for the Extraction and Retrieval of Semantic Audio Descriptors},
+	Year = {2014}}

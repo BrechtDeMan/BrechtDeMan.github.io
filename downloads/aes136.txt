@@ -1,0 +1,7 @@
+@conference{deman2014b,
+	Author = {De Man, Brecht and Reiss, Joshua D.},
+	Booktitle = {136th Convention of the Audio Engineering Society},
+	Title = {{APE}: Audio Perceptual Evaluation toolbox for MATLAB},
+	Month = {April},
+	Year = {2014}
+}

@@ -1,0 +1,7 @@
+@conference{deman2013b,
+	Author = {De Man, Brecht and Reiss, Joshua D.},
+	Booktitle = {135th Convention of the Audio Engineering Society},
+	Title = {A Knowledge-Engineered Autonomous Mixing System},
+	Month = {October},
+	Year = {2013}
+}

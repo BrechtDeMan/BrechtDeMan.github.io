@@ -1,0 +1,7 @@
+@conference{deman2015a,
+	Author = {De Man, Brecht and Boerum, Matthew and Leonard, Brett and King, Richard and Massenburg, George and Reiss, Joshua D.},
+	Booktitle = {138th Convention of the Audio Engineering Society},
+	Title = {Perceptual evaluation of music mixing practices},
+	Month = {May},
+	Year = {2015}
+}
