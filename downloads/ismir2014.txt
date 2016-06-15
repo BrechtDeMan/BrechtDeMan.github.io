@@ -1,7 +1,0 @@
-@conference{deman2014d,
-	Author = {De Man, Brecht and Leonard, Brett and King, Richard and Reiss, Joshua D.},
-	Booktitle = {15th International Society for Music Information Retrieval Conference (ISMIR 2014)},
-	Title = {An Analysis and Evaluation of Audio Features for Multitrack Music Mixtures},
-	Month = {October},
-	Year = {2014}
-}

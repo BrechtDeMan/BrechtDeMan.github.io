@@ -1,0 +1,25 @@
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# See https://jekyllrb.com/docs/configuration/
+
+# Global configuration
+timezone: Europe/Brussels
+
+# Site settings
+title: Brecht De Man
+email: info@brechtdeman.com
+description: > # this means to ignore newlines until "baseurl:"
+  Welcome to the personal website of Brecht De Man, audio researcher, 
+  developer, recording engineer and musician. 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://brechtdeman.com" # the base hostname & protocol for your site
+twitter_username: BrechtDeMan
+github_username:  BrechtDeMan
+linkedin_username: BrechtDeMan
+facebook_username: BrechtDeMan
+
+# Build settings
+markdown: kramdown

@@ -1,7 +1,0 @@
-@conference{deman2014c,
-	Author = {De Man, Brecht and Mora-Mcginity, Mariano and Fazekas, György and Reiss, Joshua D.},
-	Booktitle = {137th Convention of the Audio Engineering Society},
-	Title = {The Open Multitrack Testbed},
-	Month = {October},
-	Year = {2014}
-}

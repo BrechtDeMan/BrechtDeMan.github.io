@@ -1,6 +1,0 @@
-
-@article{macompression,
-	Author = {Ma, Zheng and De Man, Brecht and Pestana, Pedro Duarte and Black, Dawn A. A. and Reiss, Joshua D.},
-	Journal = {Journal of the Audio Engineering Society},
-	Title = {Intelligent Multitrack Dynamic Range Compression},
-	Year = {2015}}

@@ -1,7 +1,0 @@
-
-@conference{jillings2015waet,
-	Author = {Nicholas Jillings and David Moffat and De Man, Brecht and Joshua D. Reiss},
-	Booktitle = {12th Sound and Music Computing Conference},
-	Month = {July},
-	Title = {Web {A}udio {E}valuation {T}ool: {A} browser-based listening test environment},
-	Year = {2015}}

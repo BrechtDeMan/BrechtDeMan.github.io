@@ -1,6 +1,0 @@
-@conference{ronan2015subgrouping,
-	Author = {Ronan, David M. and De Man, Brecht and Gunes, Hatice and Reiss, Joshua D.},
-	Booktitle = {139th Convention of the Audio Engineering Society},
-	Month = {October},
-	Title = {The impact of subgrouping practices on the perception of multitrack mixes},
-	Year = {2015}}

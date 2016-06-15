@@ -1,7 +1,0 @@
-@conference{deman2014a,
-	Author = {De Man, Brecht and Reiss, Joshua D.},
-	Booktitle = {53rd Conference of the Audio Engineering Society},
-	Title = {Adaptive Control of Amplitude Distortion Effects},
-	Month = {January},
-	Year = {2014}
-}
