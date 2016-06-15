@@ -1,6 +1,115 @@
 ---
 layout: post
 title: Fall 2015 USA trip
+date:   2015-10-24 13:57:01 +0200
+categories: research
+excerpt_separator: <!--more-->
 ---
 
- In the interest of scheduling meetings and advertising events I'm involved in or which I just highly recommend, here's a schedule of this Autumn's&nbsp;(or 'Fall' as they say there)&nbsp;trip to the US. Already looking very busy and I don't doubt every last minute of it will be filled. Looking forward!&nbsp;  Timelines created with the Google Chart API (see this JSFiddle) and subject to change.&nbsp;   New York City &nbsp;&nbsp;28 October - 2 November   Main event: 139th Convention of the Audio [...] 
+ <div class="paragraph" style="text-align:left;"> In the interest of scheduling meetings and advertising events I'm involved in or which I just highly recommend, here's a schedule of this Autumn's&nbsp;(or 'Fall' as they say there)&nbsp;trip to the US. Already looking very busy and I don't doubt every last minute of it will be filled. Looking forward!&nbsp;
+    <br>
+    <br> Timelines created with the <a href="https://developers.google.com/chart/interactive/docs/gallery/timeline" target="_blank" title="">Google Chart API</a> (see <a href="https://jsfiddle.net/BrechtDeMan/73xgj00a/" target="_blank" title="">this JSFiddle</a>) and subject to change.&nbsp; </div>
+<h2 style="text-align:left;">New York City &nbsp;&nbsp;<em>28 October - 2 November</em></h2>
+<div class="paragraph" style="text-align:left;"> Main event: <a href="http://www.aes.org/events/139/" target="_blank" title="">139th Convention of the Audio Engineering Society</a>&nbsp;at Javits Convention Center </div>
+<div>
+    <div id="582795725453295452" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml">
+        <script type="text/javascript" src="https://www.google.com/jsapi?autoload={'modules':[{'name':'visualization','version':'1.1','packages':['timeline']}]}">
+        </script>
+        <script type="text/javascript">
+            google.setOnLoadCallback(drawChart);
+
+            function drawChart() {
+                var container = document.getElementById('timeline');
+                var chart = new google.visualization.Timeline(container);
+                var dataTable = new google.visualization.DataTable();
+                dataTable.addColumn({
+                    type: 'string',
+                    id: 'Day'
+                });
+                dataTable.addColumn({
+                    type: 'string',
+                    id: 'Event'
+                });
+                dataTable.addColumn({
+                    type: 'date',
+                    id: 'Start'
+                });
+                dataTable.addColumn({
+                    type: 'date',
+                    id: 'End'
+                });
+                dataTable.addRows([
+                    ['Wednesday 28 October 2015', 'Arrival JFK', new Date(0, 0, 0, 17, 0), new Date(0, 0, 0, 19, 0)],
+                    ['Thursday 29 October 2015', 'Student Delegate Assembly 1', new Date(0, 0, 0, 14, 15), new Date(0, 0, 0, 15, 30)],
+                    ['Thursday 29 October 2015', 'Registration Student Recording Critiques', new Date(0, 0, 0, 15, 30), new Date(0, 0, 0, 16, 0)],
+                    ['Thursday 29 October 2015', 'Unofficial party, TBC', new Date(0, 0, 0, 22, 0), new Date(0, 0, 0, 23, 0)],
+                    ['Thursday 29 October 2015', 'Official Student Party, NYU', new Date(0, 0, 0, 20, 0), new Date(0, 0, 0, 22, 0)],
+                    ['Friday 30 October 2015', 'Paper P7-6 "101 Mixes: A Statistical Analysis of Mix-Variation in a Dataset of Multi-Track Music Mixes"', new Date(0, 0, 0, 11, 30), new Date(0, 0, 0, 12, 0)],
+                    ['Friday 30 October 2015', 'Mixing Meets Mastering: Where the Line becomes Blurred', new Date(0, 0, 0, 15, 0), new Date(0, 0, 0, 17, 0)],
+                    ['Friday 30 October 2015', 'Student Recording Competition 1', new Date(0, 0, 0, 17, 30), new Date(0, 0, 0, 19, 30)],
+                    ['Friday 30 October 2015', 'Prism Sound party (Sterling Sound)', new Date(0, 0, 0, 19, 30), new Date(0, 0, 0, 22, 30)],
+                    ['Saturday 31 October 2015', 'Student Design Competition', new Date(0, 0, 0, 9, 0), new Date(0, 0, 0, 10, 30)],
+                    ['Saturday 31 October 2015', 'Education/Career Fair', new Date(0, 0, 0, 11, 0), new Date(0, 0, 0, 12, 30)],
+                    ['Saturday 31 October 2015', 'Regions and Sections meeting', new Date(0, 0, 0, 14, 15), new Date(0, 0, 0, 15, 45)],
+                    ['Saturday 31 October 2015', 'Poster P17-3 "Audio Effects Data on the Semantic Web"', new Date(0, 0, 0, 14, 15), new Date(0, 0, 0, 15, 45)],
+                    ['Saturday 31 October 2015', 'Poster "The Impact of Subgrouping Practices on the Perception of Multitrack Music Mixes"', new Date(0, 0, 0, 16, 15), new Date(0, 0, 0, 17, 45)],
+                    ['Saturday 31 October 2015', 'Student Recording Competition 2', new Date(0, 0, 0, 17, 30), new Date(0, 0, 0, 19, 30)],
+                    ['Saturday 31 October 2015', 'Perceptual Evaluation of High Resolution Audio', new Date(0, 0, 0, 15, 30), new Date(0, 0, 0, 17, 30)],
+                    ['Sunday 1 November 2015', 'Tutorial T21 "Advances in Semantic Audio and Intelligent Music Production"', new Date(0, 0, 0, 9, 0), new Date(0, 0, 0, 10, 30)],
+                    ['Sunday 1 November 2015', 'Workshop W26: "Application of Semantic Audio Analysis to the Music Production Workflow"', new Date(0, 0, 0, 10, 30), new Date(0, 0, 0, 12, 30)],
+                    ['Sunday 1 November 2015', 'Student Delegate Assembly 2', new Date(0, 0, 0, 11, 30), new Date(0, 0, 0, 13, 30)],
+                    ['Monday 2 November 2015', 'Meeting', new Date(0, 0, 0, 11, 0), new Date(0, 0, 0, 13, 0)]
+                ]);
+                chart.draw(dataTable, {
+                    width: 1500,
+                    height: 350,
+                    legend: 'none',
+                    colors: ['black', 'blue', 'lightblue', 'blue', 'green', 'orange', 'orange', 'blue', 'black', 'blue', 'blue', 'grey', 'red', 'orange', 'blue', 'orange', 'orange', 'red', 'blue', 'black', 'black']
+                });
+            }
+        </script>
+        <div id="timeline" style="height: 340px;"></div>
+    </div>
+</div>
+<div class="paragraph" style="text-align:left;">
+    <ul style="">
+        <li style=""><font color="#0F00FB"><strong>Student events</strong> as Chair of the Student Delegate Assembly (Europe and International Regions) [<a href="http://www.aes.org/events/139/students/" target="_blank" title="">link</a>]</font>
+        </li>
+        <li style=""><font color="#FB0000">Poster: D. Ronan, B. De Man, H. Gunes and&nbsp;J. D. Reiss,&nbsp;"<strong>The Impact of Subgrouping Practices on the Perception of Multitrack Music Mixes</strong>" [<a href="http://www.aes.org/events/139/papers/?ID=4553" target="_blank" title="">link</a> | <a href="http://www.aes.org/e-lib/browse.cfm?elib=17998" target="_blank" title="">paper</a>]</font>
+        </li>
+        <li style=""><font color="#FD0000">Panelist on Tutorial&nbsp;T21: "<strong>Advances in Semantic Audio and Intelligent Music Production</strong>"</font> <font color="#FB0000">(Chair: Ryan Stables) [<a href="http://www.aes.org/events/139/tutorials/?ID=4724" target="_blank" title="">link</a>]</font>
+        </li>
+    </ul>
+    <br> Recommended:&nbsp;
+    <br>
+    <ul>
+        <li><font color="#FA8200">Paper 7-3 A. Wilson and B. Fazenda, "<strong>101 Mixes: A Statistical Analysis of Mix-Variation in a Dataset of Multi-Track Music Mixes</strong>" [<a href="http://www.aes.org/events/139/papers/?ID=4545" target="_blank" title="">link</a> | <a href="http://www.aes.org/e-lib/browse.cfm?elib=17955" target="_blank" title="">paper</a>]</font>
+        </li>
+        <li><font color="#FA8200">Workshop W12: "<strong>Mixing Meets Mastering: Where the Line becomes Blurred</strong>" (George Massenburg, Mandy Parnell, Ronald Prent, Darcy Proper and Michael Romanowski; chaired by Rob Toulson) [<a href="http://www.aes.org/events/139/workshops/?ID=4706" target="_blank" title="">link</a>]</font>
+        </li>
+        <li><font color="#FA8200">Workshop W20: "<strong>Perceptual Evaluation of High Resolution Audio</strong>"&nbsp;(Bob Katz, George Massenburg and Bob Schulein; chaired by Joshua D. Reiss)&nbsp;[<a href="http://www.aes.org/events/139/workshops/?ID=4687" target="_blank" title="">link</a></font><font color="#FA8200">]</font>
+            <br>
+        </li>
+        <li><font color="#FA8200">Workshop W26: "<strong>Application of Semantic Audio Analysis to the Music Production Workflow</strong>"&nbsp;(György Fazekas (co-chair), Ryan Stables (co-chair), Jay LeBoeuf, Bryan Pardo)&nbsp;[<a href="http://www.aes.org/events/139/workshops/?ID=4703" target="_blank" title="">link</a></font><font color="#FA8200">]</font>
+        </li>
+    </ul>
+    <br> </div>
+<div>
+    <div class="wsite-image wsite-image-border-thin" style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+        <a><img src="/uploads/3/4/4/2/34427003/9539095_orig.jpg" alt="Picture" style="width:100%;max-width:500px">
+        </a>
+        <div style="display:block;font-size:90%"></div>
+    </div>
+</div>
+<h2 style="text-align:left;">Chicago &nbsp; <em>2 - 5 November</em></h2>
+<div class="paragraph" style="text-align:left;"> Main event: visiting <a href="http://www.markcartwright.com" target="_blank" title="">Mark Cartwright</a> and <a href="http://www.cs.northwestern.edu/~pardo/" target="_blank" title="">Bryan Pardo</a> at the <a href="http://music.cs.northwestern.edu" target="_blank" title="">Interactive Audio Lab</a>, Northwestern University, Evanston, IL.&nbsp; </div>
+<h2 style="text-align:left;">Philadelphia &nbsp; <em>5 - 9 November</em></h2>
+<div class="paragraph" style="text-align:left;"> Main event: <a href="http://www.artofrecordproduction.com/index.php/28-arp-conference-archive/arp-2015/245-arp-2015-information" target="_blank" title="">10th Art of Record Production Conference</a>&nbsp;at Drexel University
+    <br>
+    <br> Presenting "<strong>Mixed reviews: Evaluation through peer review in international audio education</strong>", Friday 6 November, 14:30 in URBN 128 </div>
+<div>
+    <div class="wsite-image wsite-image-border-thin" style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+        <a><img src="/uploads/3/4/4/2/34427003/8603329_orig.png" alt="Picture" style="width:100%;max-width:1100px">
+        </a>
+    </div>
+</div>

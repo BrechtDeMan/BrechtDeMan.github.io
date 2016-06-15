@@ -1,6 +1,387 @@
 ---
 layout: post
 title: JUCE Summit 2015
+date:   2015-11-22 13:57:01 +0200
+categories: developer, research
+excerpt_separator: <!--more-->
 ---
 
- This is a report / collection of information regarding the first ever JUCE Summit, 19-20 November 2015 at The Proud Archivist in Hoxton, London. I was invited to give a talk, with the title 'Developing multitrack audio effect plugins for music production research'. See below for slides and more info, chronologically where possible.&nbsp;  Besides my own Twitter feed, see also the @JUCELibrary feed and @AbletonDev's feed, and the&nbsp;stream #JUCESummit.&nbsp;  Videos of the talks, workshops and [...] 
+<div class="paragraph" style="text-align:left;"> This is a report / collection of information regarding the first ever <a href="http://www.juce.com/summit" target="_blank" title="">JUCE Summit</a>, 19-20 November 2015 at <a href="http://www.theproudarchivist.co.uk" target="_blank" title="">The Proud Archivist</a> in Hoxton, London. I was invited to give a talk, with the title '<a href="http://www.juce.com/summit/talks-and-sessions#de_man" target="_blank" title="">Developing multitrack audio effect plugins for music production research</a>'. See below for slides and more info, chronologically where possible.&nbsp;
+    <br>
+    <br> Besides my own <a href="https://twitter.com/BrechtDeMan" target="_blank" title="">Twitter feed</a>, see also the <a href="https://twitter.com/JUCElibrary" target="_blank" title="">@JUCELibrary</a> feed and <a href="https://twitter.com/AbletonDev" target="_blank" title="">@AbletonDev</a>'s feed, and the<span style="line-height: 1.5; background-color: transparent;">&nbsp;stream <a href="https://twitter.com/search?q=%23JUCESummit" target="_blank" title="">#JUCESummit</a>.&nbsp;</span>
+    <br>
+    <br> <span style="line-height: 1.5; background-color: transparent;">Videos of the talks, workshops and keynotes should be made available at some point, which I will then add here.&nbsp;</span>
+    <br> <span style="line-height: 1.5; background-color: transparent;">The workshops and morning talks were on two separate tracks in two rooms, so there are two workshops and six talks I haven't seen and can't comment on.&nbsp;</span><span style="line-height: 1.5; background-color: transparent;"><br></span>
+    <br> Speakers and others are very welcome to send me more info and links to resources, and notify of any errors I may have made.&nbsp; </div>
+<h2 style="text-align:left;">Day 1 - Thursday 19 November</h2>
+<div class="paragraph" style="text-align:left;"> <strong style="">8:00 AM: Coffee and breakfast, Registration</strong><span style="background-color: transparent;"><br></span> </div>
+<div>
+    <div id="763815138215084640" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml">
+        <blockquote class="twitter-tweet" lang="en">
+            <p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/JUCESummit?src=hash">#JUCESummit</a> breakfast: juice. Almost too obvious. <a href="https://twitter.com/ProudArchivist">@ProudArchivist</a> <a href="https://t.co/6NtE5KQeba">pic.twitter.com/6NtE5KQeba</a>
+            </p>— Brecht De Man (@BrechtDeMan) <a href="https://twitter.com/BrechtDeMan/status/667272661190471681">November 19, 2015</a> </blockquote>
+        <script async="" src="//platform.twitter.com/widgets.js" charset="utf-8">
+        </script>
+    </div>
+</div>
+<div class="paragraph" style="text-align:left;"> <strong style="">9:00 AM: Welcome address</strong>
+    <br>
+    <br> <strong style="">9:15 AM:&nbsp;</strong>Developing Audio Applications with JUCE (Fabian Renn-Giles and Timur Doumler) /&nbsp;&nbsp;<strong style="">Developing Graphical User Interfaces with JUCE</strong>&nbsp;(Julian Storer)
+    <br> </div>
+<div>
+    <div id="463206266854502685" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml">
+        <blockquote class="twitter-tweet" lang="en">
+            <p lang="en" dir="ltr">We kicked off the workshops! <a href="https://twitter.com/hashtag/JUCESummit?src=hash">#JUCESummit</a> <a href="https://t.co/cm7uh5lCxE">pic.twitter.com/cm7uh5lCxE</a>
+            </p>— JUCE (@JUCElibrary) <a href="https://twitter.com/JUCElibrary/status/667271803103010816">November 19, 2015</a> </blockquote>
+        <script async="" src="//platform.twitter.com/widgets.js" charset="utf-8">
+        </script>
+    </div>
+</div>
+<div class="paragraph" style="text-align:left;"> <strong style="">11:30 AM:&nbsp;</strong>Using the FAUST DSP language and the libfaust JIT compiler in JUCE (Oli Larkin) /&nbsp;<strong style="">Mixing it up: Audio plugin development in C++ and Lua</strong>&nbsp;(Costas Calamvokis)
+    <br>
+    <br> <strong style="">12:00 PM:&nbsp;</strong>Web-based Remote User Interfaces for MIDI Devices (Zoltán Jánosy) /&nbsp;<strong style=""><font color="#DA4444">Developing multitrack audio effect plugins for music production research</font></strong>&nbsp;(Brecht De Man)
+    <br> </div>
+<div>
+    <!--BLOG_SUMMARY_END-->
+</div>
+<div class="paragraph" style="text-align:left;"> <em style="font-weight: bold;">Abstract:</em>&nbsp;
+    <br> Multitrack digital audio effects (Digital Audio Workstation plugins with more than two inputs and/or outputs) are a class of signal processing tools that provide significant opportunities for researchers and artists, as they allow audio features from different tracks to affect processing of others in real-time, within an otherwise conventional digital production environment. However, the development of such plugins comes with many interesting challenges, including the fact that most DAWs do not natively support it. This presentation focuses on both the possibilities of multitrack plugins and obstacles encountered when developing multitrack plugins with JUCE in particular.
+    <br>
+    <br>
+    <br> Some resources referenced in the talk:&nbsp;
+    <br>
+    <ul>
+        <li> <a href="http://www.semanticaudio.co.uk" target="_blank" title="">SAFE Plugins</a> (see also Sean Enderby's talk, Thursday 4:30 PM). </li>
+        <li>'<a href="https://www.crcpress.com/Audio-Effects-Theory-Implementation-and-Application/Reiss-McPherson/9781466560284" target="_blank" title="">Audio Effects: Theory, Implementation and Application</a>' by Joshua D. Reiss and Andrew McPherson (download <a href="https://code.soundsoftware.ac.uk/projects/audio_effects_textbook_code?jump=my" target="_blank" title="">code examples</a> using JUCE <a href="https://code.soundsoftware.ac.uk/projects/audio_effects_textbook_code?jump=my" target="_blank" title="">here</a>) </li>
+        <li> <a href="http://www.eecs.qmul.ac.uk/~andrewm/touchkeys.html" target="_blank" title="">TouchKeys</a> </li>
+        <li>DAWs supporting true 'multitrack' plugins natively (&gt;8 audio inputs and/or outputs): <a href="http://www.reaper.fm" target="_blank" title="">Cockos Reaper</a> and <a href="http://www.audiomulch.com" target="_blank" title="">AudioMulch</a> </li>
+    </ul>
+    <br> See below or <a href="http://brechtdeman.com/downloads/JUCE-summit-handouts.pdf" target="_blank" title="">here</a> for the presentation.&nbsp; </div>
+<div>
+    <div id="140839245370894192" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml">
+        <object data="http://brechtdeman.com/downloads/JUCE-summit-handouts.pdf" type="application/pdf" width="100%" height="420">
+            <p>Download the <a href="http://brechtdeman.com/downloads/JUCE-summit-handouts.pdf">PDF handouts.</a>
+            </p>
+        </object>
+    </div>
+</div>
+<div>
+    <div id="414889228667494958" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml">
+        <blockquote class="twitter-tweet" lang="en">
+            <p lang="en" dir="ltr">"Developing multitrack audio effect plugins for music production research" by <a href="https://twitter.com/BrechtDeMan">@BrechtDeMan</a> at <a href="https://twitter.com/hashtag/JUCESummit?src=hash">#JUCESummit</a> <a href="https://twitter.com/hashtag/dsp?src=hash">#dsp</a> <a href="https://t.co/clcouTqAGv">pic.twitter.com/clcouTqAGv</a>
+            </p>— Ableton Dev (@AbletonDev) <a href="https://twitter.com/AbletonDev/status/667311893346779136">November 19, 2015</a> </blockquote>
+        <script async="" src="//platform.twitter.com/widgets.js" charset="utf-8">
+        </script>
+        <blockquote class="twitter-tweet" lang="en">
+            <p lang="en" dir="ltr">Why multitrack audio plugins? <a href="https://twitter.com/BrechtDeMan">@BrechtDeMan</a> at <a href="https://twitter.com/hashtag/JUCESummit?src=hash">#JUCESummit</a> <a href="https://twitter.com/hashtag/DSP?src=hash">#DSP</a> <a href="https://t.co/mD5lC08cqC">pic.twitter.com/mD5lC08cqC</a>
+            </p>— Ableton Dev (@AbletonDev) <a href="https://twitter.com/AbletonDev/status/667313036022018049">November 19, 2015</a> </blockquote>
+        <script async="" src="//platform.twitter.com/widgets.js" charset="utf-8">
+        </script>
+    </div>
+</div>
+<div class="paragraph" style="text-align:left;"> <strong><em>References:&nbsp;</em></strong>
+    <br> (in order of appearance)
+    <br>
+    <ul>
+        <li><span style="line-height: 1.5; background-color: transparent;">S. Mansbridge, S. Finn, and J. D. Reiss, “Implementation and evaluation of autonomous multi-track fader control,” in 132nd Convention of the Audio Engineering Society, April 2012.</span>
+            <br>
+        </li>
+        <li><span style="line-height: 1.5; background-color: transparent;">E. Perez-Gonzalez and J. D. Reiss, “Automatic gain and fader control for live mixing,” IEEE Workshop on applications of signal processing to audio and acoustics, October 2009.</span>
+            <br>
+        </li>
+        <li><span style="line-height: 1.5; background-color: transparent;">E. Perez-Gonzalez and J. D. Reiss, “Automatic equalization of multi-channel audio using cross-adaptive methods,” 127th Convention of the Audio Engineering Society, October 2009.</span>
+            <br>
+        </li>
+        <li><span style="line-height: 1.5; background-color: transparent;">S. Hafezi and J. D. Reiss, “Autonomous multitrack equalisation based on masking reduction,” to appear in Journal of the Audio Engineering Society, 2015.</span>
+            <br>
+        </li>
+        <li><span style="line-height: 1.5; background-color: transparent;">A. Clifford and J. D. Reiss, “Calculating time delays of multiple active sources in live sound,” in 129th Convention of the Audio Engineering Society, 2010.</span>
+            <br>
+        </li>
+        <li><span style="line-height: 1.5; background-color: transparent;">A. Clifford and J. D. Reiss, “Reducing comb filtering on different musical instruments using time delay estimation,” Journal of the Art of Record Production, vol. Issue 5, July 2011.</span>
+            <br>
+        </li>
+        <li><span style="line-height: 1.5; background-color: transparent;">N. Jillings, A. Clifford, and J. D. Reiss, “Performance optimization of gcc-phat for delay and polarity correction under real world conditions,” in 134th Convention of the Audio Engineering Society, 2013.</span>
+            <br>
+        </li>
+        <li><span style="line-height: 1.5; background-color: transparent;">Z. Ma, B. De Man, P. D. Pestana, D. A. A. Black, and J. D. Reiss, “Intelligent multitrack dynamic range compression,” Journal of the Audio Engineering Society, vol. 63, pp. 412–426, June 2015.</span>
+            <br>
+        </li>
+        <li><span style="line-height: 1.5; background-color: transparent;">T. Wilmering, G. Fazekas, and M. B. Sandler, “High-level semantic metadata for the control of multitrack adaptive digital audio effects,” in Audio Engineering Society Convention 133, 10 2012.</span>
+            <br>
+        </li>
+        <li><span style="line-height: 1.5; background-color: transparent;">A. McPherson, “TouchKeys: Capacitive multi-touch sensing on a physical keyboard,” in Proc. NIME, 2012.</span>
+        </li>
+        <li><span style="line-height: 1.5;">R. Stables, S. Enderby, B. De Man, G. Fazekas, and J. D. Reiss, “SAFE: A system for the extraction and retrieval of semantic audio descriptors,” in 15th International Society for Music Information Retrieval Conference (ISMIR 2014), October 2014.</span>
+        </li>
+        <li><span style="line-height: 1.5;">J. D. Reiss and A. McPherson, Audio Effects: Theory, Implementation and Application. CRC Press, 2015.</span>
+        </li>
+        <li><span style="line-height: 1.5;">S. Mansbridge, S. Finn, and J. D. Reiss, “An autonomous system for multi-track stereo pan positioning,” in 133rd Convention of the Audio Engineering Society, October 2012.</span>
+        </li>
+        <li><span style="line-height: 1.5;">E. Perez-Gonzalez and J. D. Reiss, “Automatic mixing: Live downmixing stereo panner,” in 10th International Conference on Digital Audio Effects (DAFx-10), 2007.</span>
+        </li>
+        <li><span style="line-height: 1.5;">E. Perez Gonzalez and J. D. Reiss, “A real-time semiautonomous audio panning system for music mixing,” EURASIP Journal on Advances in Signal Processing, 2010.</span>
+        </li>
+    </ul>
+</div>
+<div class="paragraph" style="text-align:left;"> <strong style="">12:30 PM:&nbsp;</strong>MIDI control distribution (Richard Foss) /&nbsp;<strong style="">Porting and Expanding the JUCE Host into a Workflow Enhancing Audio Plugin</strong>&nbsp;(Thomas Klebanoff)
+    <br>
+    <br> <strong style="">1:00 PM: Lunch break</strong>
+    <br>
+    <br> <strong style="">2:00 PM: Keynote: Obsessive Coding Disorder</strong>&nbsp;(Julian Storer)
+    <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<em>"Only an idiot would change code that works perfectly well. So I'll be that idiot."</em>
+    <br> &nbsp; &nbsp; &nbsp; &nbsp; Jules took apart <a href="http://zlib.net" target="_blank" title="">zlib</a> and showed many examples of inelegant code and crimes agains best practice. Interestingly, the code didn't get faster, but it was certainly more readable, elegant, and shorter (see below).&nbsp;
+    <br> &nbsp; &nbsp; &nbsp; &nbsp; On the topic of making his improvement public, he wondered at which point completely transformed code is no longer 'plagiarised'. Zlib is freely available and its <a href="http://zlib.net/zlib_license.html" target="_blank" title="">license</a> is fairly liberal.&nbsp; </div>
+<div>
+    <div id="332055459278609873" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml">
+        <blockquote class="twitter-tweet" lang="en">
+            <p lang="en" dir="ltr">Jules' keynote 'Obsessive Coding Disorder' <a href="https://twitter.com/hashtag/JUCESummit?src=hash">#JUCESummit</a> <a href="https://twitter.com/hashtag/cplusplus?src=hash">#cplusplus</a> <a href="https://twitter.com/hashtag/extrememakeover?src=hash">#extrememakeover</a> <a href="https://twitter.com/hashtag/beforeafter?src=hash">#beforeafter</a> <a href="https://twitter.com/hashtag/developer?src=hash">#developer</a> <a href="https://t.co/NLzAYnm6TN">pic.twitter.com/NLzAYnm6TN</a>
+            </p>— Brecht De Man (@BrechtDeMan) <a href="https://twitter.com/BrechtDeMan/status/667351562021429249">November 19, 2015</a> </blockquote>
+        <script async="" src="//platform.twitter.com/widgets.js" charset="utf-8">
+        </script>
+    </div>
+</div>
+<div class="paragraph" style="text-align:left;"> <strong style="">3:00 PM: JUCE for Education C++ and Audio Development&nbsp;</strong>(Martin Robinson)
+    <br> &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href="http://people.uwe.ac.uk/Pages/person.aspx?accountname=campus%5Cmg-robinson" target="_blank" title="" style="">Martin</a>&nbsp;is the author of '<a href="http://www.packtpub.com/getting-started-with-juce/book" target="_blank" title="" style="">Getting Started with JUCE</a>' (<a href="https://twitter.com/0x4d52" target="_blank" title="" style="">Twitter feed</a>)
+    <br> <strong style="">3:30 PM: Squeezing JUCE out of your laptop, and into the Real World</strong>&nbsp;(Ryan McGill)
+    <br> &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href="https://github.com/ryanjamesmcgill/jucesummit2015/blob/master/Juce%20Summit%202015%20-%20RJM.pdf" target="_blank" title="" style="">Presentation</a>&nbsp;(Github)
+    <br> </div>
+<div>
+    <div id="375767760624514552" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml">
+        <div class="github-card" data-user="ryanjamesmcgill"></div>
+        <script src="http://lab.lepture.com/github-cards/widget.js">
+        </script>
+    </div>
+</div>
+<div class="paragraph" style="text-align:left;"> <strong style="">4:00 PM: Combining the JUCE audio engine with a Xamarin/CocosSharp game UI on iOS and Android</strong>&nbsp;(Leo Olivers)
+    <br> &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href="https://github.com/altalogix/CocosJuce" target="_blank" title="" style="">Sample source code on GitHub</a>
+    <br> </div>
+<div class="paragraph" style="text-align:left;"> <strong style="">4:30 PM: The SAFE JUCE module: A System for Managing Music Production Metadata&nbsp;</strong>(Sean Enderby)
+    <br> </div>
+<div class="paragraph" style="text-align:left;"> Sean discussed the <a href="http://www.semanticaudio.co.uk" target="_blank" title="">SAFE</a> Project, a collaboration between researchers at Queen Mary University of London's <a href="http://c4dm.eecs.qmul.ac.uk" target="_blank" title="">Centre for Digital Music</a> and Birmingham City University's <a href="http://www.bcu.ac.uk/digital-technology/research" target="_blank" title="">Digital Media Technology Lab</a>, including Sean and me. Specifically, his talk focussed on the SAFE JUCE class (downloadable <a href="https://github.com/semanticaudio/SAFE/tree/master/JuceModules/SAFE_juce_module" target="_blank" title="">here</a>) that allows data collection about incoming and outgoing features, parameters, and metadata about genre, instrument, background, experience, desired, ..., from your DAW plugin.&nbsp;
+    <br> The plugins can be downloaded for free <a href="http://www.semanticaudio.co.uk/download/" target="_blank" title="">here</a>. Please play around with them, we need more data!&nbsp;
+    <br> </div>
+<div>
+    <div id="634081104475949500" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml">
+        <div class="github-card" data-user="semanticaudio"></div>
+        <script src="http://lab.lepture.com/github-cards/widget.js">
+        </script>
+    </div>
+</div>
+<div>
+    <div id="240065150697519143" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml">
+        <blockquote class="twitter-tweet" lang="en">
+            <p lang="en" dir="ltr">More academic use of JUCE with Sean Enderby <a href="https://twitter.com/hashtag/JUCESummit?src=hash">#JUCESummit</a> <a href="https://t.co/CRhnT4YemG">https://t.co/CRhnT4YemG</a> <a href="https://twitter.com/hashtag/automaticMixing?src=hash">#automaticMixing</a> <a href="https://t.co/huncrJ1w9j">pic.twitter.com/huncrJ1w9j</a>
+            </p>— JUCE (@JUCElibrary) <a href="https://twitter.com/JUCElibrary/status/667381686099947520">November 19, 2015</a> </blockquote>
+        <script async="" src="//platform.twitter.com/widgets.js" charset="utf-8">
+        </script>
+    </div>
+</div>
+<div class="paragraph" style="text-align:left;"> The presentation featured the following video, demonstrating the use of the plugins, which was very well received by the audience.&nbsp;
+    <br> </div>
+<div class="wsite-youtube" style="margin-bottom:10px;margin-top:10px;">
+    <div class="wsite-youtube-wrapper wsite-youtube-size-auto wsite-youtube-align-center">
+        <div class="wsite-youtube-container">
+            <iframe src="http://www.youtube.com/embed/5ye6EJZdV7o?wmode=opaque" frameborder="0" allowfullscreen=""></iframe>
+        </div>
+    </div>
+</div>
+<div class="paragraph" style="text-align:left;"> Another introductory video:&nbsp; </div>
+<div class="wsite-youtube" style="margin-bottom:10px;margin-top:10px;">
+    <div class="wsite-youtube-wrapper wsite-youtube-size-auto wsite-youtube-align-center">
+        <div class="wsite-youtube-container">
+            <iframe src="http://www.youtube.com/embed/7bzLD5TkOGU?wmode=opaque" frameborder="0" allowfullscreen=""></iframe>
+        </div>
+    </div>
+</div>
+<div class="paragraph" style="text-align:left;"> And awaiting the recording of the talk, another similar talk by Sean at the AES Midlands event on Intelligent Music Production:&nbsp; </div>
+<div class="wsite-youtube" style="margin-bottom:10px;margin-top:10px;">
+    <div class="wsite-youtube-wrapper wsite-youtube-size-auto wsite-youtube-align-center">
+        <div class="wsite-youtube-container">
+            <iframe src="http://www.youtube.com/embed/tLo1YRYzHSI?wmode=opaque" frameborder="0" allowfullscreen=""></iframe>
+        </div>
+    </div>
+</div>
+<div class="paragraph" style="text-align:left;"> More about SAFE next week at DAFx!&nbsp; </div>
+<div>
+    <div id="224651633654743976" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml">
+        <blockquote class="twitter-tweet" lang="en">
+            <p lang="en" dir="ltr">Looking forward to learning more about SAFE at <a href="https://twitter.com/DAFxInfo">@DAFxInfo</a> in <a href="https://twitter.com/hashtag/Norway?src=hash">#Norway</a>, <a href="https://twitter.com/MyBCU">@MyBCU</a> <a href="https://twitter.com/c4dm">@c4dm</a>! <a href="https://twitter.com/hashtag/JUCESummit?src=hash">#JUCESummit</a> cc <a href="https://twitter.com/JackSchaedler">@JackSchaedler</a> <a href="https://twitter.com/_hobson_">@_hobson_</a> <a href="https://twitter.com/jackmattson">@jackmattson</a>
+            </p>— Ableton Dev (@AbletonDev) <a href="https://twitter.com/AbletonDev/status/667385281872535553">November 19, 2015</a> </blockquote>
+        <script async="" src="//platform.twitter.com/widgets.js" charset="utf-8">
+        </script>
+    </div>
+</div>
+<div class="paragraph" style="text-align:left;"> <strong style="">5:15 PM: Guest talk: Becoming a Better (Audio) Programmer</strong>&nbsp;(Pete Goodliffe)
+    <br> &nbsp; &nbsp; &nbsp; &nbsp; Spectacularly high-paced talk on how to be a better, more productive coder. It was filled with genius advice like 'Optimise the right thing', 'Less code, more software' (<a href="http://jonjagger.blogspot.co.uk" target="_blank" title="">source</a>), 'Improve code by removing it' and so on, but it was so fast it was impossible to take notes. I'm sure it inspired me though.&nbsp;
+    <br> &nbsp; &nbsp; &nbsp; &nbsp; Pete on Blogspot: '<a href="http://goodliffe.blogspot.co.uk/2015/11/speaking-juce-summit.html" target="_blank" title="">Speaking: JUCE Summit</a>'
+    <br> &nbsp; &nbsp; &nbsp; &nbsp; Pete on <a href="https://twitter.com/petegoodliffe" target="_blank" title="">Twitter</a>
+    <br>
+    <br> <strong style="">6:00 PM: Banquet at ROLI</strong>
+    <br> <strong style="">&nbsp; &nbsp; &nbsp; &nbsp;</strong> ROLI, the company that owns JUCE since over a year and which famously employs two full-time chefs to cater the vegetarian lunch, hosted us in their offices not far from the conference venue, where those very chefs treated speakers and other delegates to an amazing, seven course, vegetarian dinner. Most noteworthy is that the first item on the menu was 'Gin 'n JUCE', with grapefruit juice (Grapefruit is the name of the latest major JUCE release, JUCE 4).&nbsp; </div>
+<div>
+    <div id="794565628816618303" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml">
+        <blockquote class="twitter-tweet" lang="en">
+            <p lang="fr" dir="ltr"><a href="https://twitter.com/hashtag/JUCESummit?src=hash">#JUCESummit</a> banquet <a href="https://twitter.com/WeAreROLI">@WeAreROLI</a>: gin 'n JUCE <a href="https://twitter.com/hashtag/verypunny?src=hash">#verypunny</a> <a href="https://twitter.com/hashtag/7coursemenu?src=hash">#7coursemenu</a> <a href="https://twitter.com/hashtag/cheeseplatterofthecentury?src=hash">#cheeseplatterofthecentury</a> <a href="https://t.co/h5rQsbH6cd">pic.twitter.com/h5rQsbH6cd</a>
+            </p>— Brecht De Man (@BrechtDeMan) <a href="https://twitter.com/BrechtDeMan/status/667470869451640832">November 19, 2015</a> </blockquote>
+        <script async="" src="//platform.twitter.com/widgets.js" charset="utf-8">
+        </script>
+    </div>
+</div>
+<h2 style="text-align:left;">Day 2 - Friday 20 November</h2>
+<div class="paragraph" style="text-align:left;"> <strong style="">8:00 AM: Coffee and breakfast</strong>
+    <br> </div>
+<div>
+    <div id="735959159152598184" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml">
+        <blockquote class="twitter-tweet" lang="en">
+            <p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/JUCESummit?src=hash">#JUCESummit</a> day 2: The early bird catches the croissants. <a href="https://t.co/aBOg37k3SQ">pic.twitter.com/aBOg37k3SQ</a>
+            </p>— Ableton Dev (@AbletonDev) <a href="https://twitter.com/AbletonDev/status/667627738342273025">November 20, 2015</a> </blockquote>
+        <script async="" src="//platform.twitter.com/widgets.js" charset="utf-8">
+        </script>
+    </div>
+</div>
+<div class="paragraph" style="text-align:left;"> <strong>9:00 AM: Opening Day 2</strong> (Julian Storer and Jean-Baptiste Thiebaut)
+    <br>
+    <br> <strong>9:15 AM:</strong> Developing Android Apps with High Performance Audio (Google's <a href="https://twitter.com/donturner" target="_blank" title="">Don Turner</a>, Phil Burk, Ian Ni-Lewis, Glenn Kasten and JUCE's Fabian Renn-Giles) / <strong>Working with the Projucer on Mac</strong> (Timur Doumler and Joshua Gerrard)
+    <br> &nbsp; &nbsp; &nbsp; &nbsp; The Projucer's most impressive feature is the JIT compilation ('live coding'), making it possible to tweak parameters in realtime as you see the interface or hear the audio change. See <a href="https://github.com/OMGtechy/JUCE_SummitExamples" target="_blank" title="">here</a> for <a href="https://github.com/OMGtechy/JUCE_SummitExamples" target="_blank" title="">demo examples</a>. You can get the Projucer (the sequel to the Introjucer, which remains available) from the <a href="http://www.juce.com/get-juce" target="_blank" title="">JUCE website</a>, but the JIT capabilities expire after a while if you don't subscribe/buy a license.&nbsp;
+    <br>
+    <br> <strong>11:30 AM: Mobile development with JUCE and native APIs</strong>&nbsp;(Adam Wilson) / C++ IDE to make you more productive – myth or reality?&nbsp;(Anastasia Kazakova)&nbsp; &nbsp; &nbsp; &nbsp; Download Adam's&nbsp;<a href="http://www.slideshare.net/AdamWilson39/mobile-application-development-with-juce-and-native-apis" target="_blank">slides</a> from Slideshare
+    <br> &nbsp; &nbsp; &nbsp; &nbsp; Code example:&nbsp;<a href="https://github.com/adamski/juce-native-navigation" style="line-height: 1.5;" title="">https://github.com/adamski/juce-native-navigation</a>
+    <br> </div>
+<div>
+    <div id="419537516360222884" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml">
+        <div class="github-card" data-user="adamski"></div>
+        <script src="http://lab.lepture.com/github-cards/widget.js">
+        </script>
+    </div>
+</div>
+<div class="paragraph" style="text-align:left;">
+    <br> <strong style="">12:00 PM: Using C++11 to Improve Code Clarity: Braced Initialisers</strong>&nbsp;(David Rowland) / &nbsp;Integrating Juce-based GUI in Max/MSP, OpenMusic or other computer music environments. (Thibaut Carpentier)
+    <br>
+    <br> <strong style="">12:30 PM:&nbsp;</strong>A FM Synth in Iterations&nbsp;(Casper Ravenhorst) /&nbsp;<strong style="">Introduction to Native Instrument's Native Kontrol Standard (NKS)&nbsp;</strong>(Tim Adnitt and Tobias Baumbach)
+    <br> &nbsp; &nbsp; &nbsp; &nbsp; An introduction of the&nbsp;<a href="http://www.native-instruments.com/en/products/komplete/keyboards/komplete-kontrol-s-series/nks/" target="_blank" title="" style="">Native Kontrol Standard</a>, an extension of the VST standard to enable integration of Native Instruments controller keyboards.&nbsp;
+    <br>
+    <br> &nbsp; &nbsp; &nbsp; &nbsp; Code of the FM synthesiser developed by Casper Ravenhorst can be found on his&nbsp;<a href="https://bitbucket.org/cascassette/jelani/src" target="_blank" title="" style="">Bitbucket page</a>.&nbsp;
+    <br> </div>
+<div>
+    <div id="928998412760127482" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml">
+        <blockquote class="twitter-tweet" lang="en">
+            <p lang="en" dir="ltr">Tim Adnitt &amp; <a href="https://twitter.com/tbaumbac">@tbaumbac</a> from <a href="https://twitter.com/NI_News">@NI_News</a> on the Native Kontrol Standard <a href="https://twitter.com/hashtag/JUCESummit?src=hash">#JUCESummit</a> <a href="https://twitter.com/hashtag/cplusplus?src=hash">#cplusplus</a> <a href="https://twitter.com/hashtag/VST?src=hash">#VST</a> <a href="https://t.co/mDdPdlENzJ">pic.twitter.com/mDdPdlENzJ</a>
+            </p>— Brecht De Man (@BrechtDeMan) <a href="https://twitter.com/BrechtDeMan/status/667683341295030272">November 20, 2015</a> </blockquote>
+        <script async="" src="//platform.twitter.com/widgets.js" charset="utf-8">
+        </script>
+    </div>
+</div>
+<div class="paragraph" style="text-align:left;"> <strong style="">1:00 PM: Lunch break</strong>
+    <br> <strong style=""><br> 2:00 PM: Keynote:&nbsp;Developing Max/MSP with JUCE&nbsp;</strong>(David Zicarelli)
+    <br> &nbsp; &nbsp; &nbsp; &nbsp; Rare insights into the history of Max/MSP from the CEO of Cycling '74, which was one of the 'early adopters' of JUCE.&nbsp;
+    <br> &nbsp; &nbsp; &nbsp; &nbsp; Code example referenced in the keynote:&nbsp;<a href="https://github.com/cycling74/gen-plugin-export" title="" style="">https://github.com/cycling74/gen-plugin-export</a>
+    <br> </div>
+<div>
+    <div id="871171731471926542" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml">
+        <blockquote class="twitter-tweet" lang="en">
+            <p lang="en" dir="ltr">"Developing Max/MSP in <a href="https://twitter.com/hashtag/JUCE?src=hash">#JUCE</a>" with David Zicarelli at <a href="https://twitter.com/hashtag/JUCESummit?src=hash">#JUCESummit</a> <a href="https://t.co/fEZo9EzlSV">pic.twitter.com/fEZo9EzlSV</a>
+            </p>— Ableton Dev (@AbletonDev) <a href="https://twitter.com/AbletonDev/status/667706229515550724">November 20, 2015</a> </blockquote>
+        <script async="" src="//platform.twitter.com/widgets.js" charset="utf-8">
+        </script>
+    </div>
+</div>
+<div>
+    <div id="825875100272833935" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml">
+        <div class="github-card" data-user="cycling74"></div>
+        <script src="http://lab.lepture.com/github-cards/widget.js">
+        </script>
+    </div>
+</div>
+<div class="paragraph" style="text-align:left;"> <strong style="">3:00 PM: C++ in the Audio Industry, Episode II: Floating Atomics&nbsp;</strong>(Timur Doumler)
+    <br> &nbsp; &nbsp; &nbsp; &nbsp; JUCE's Timur Doumler delivered a sequel to his&nbsp;<a href="http://cppcon.org/2015program/" target="_blank" title="" style="">CppCon&nbsp;2015</a>&nbsp;talk, this time on the use of&nbsp;<a href="http://baptiste-wicht.com/posts/2012/07/c11-concurrency-tutorial-part-4-atomic-type.html" target="_blank" title="" style="">atomic</a>&nbsp;types, specifically floats. See below for a summary of why you would use them.&nbsp;
+    <br> </div>
+<div>
+    <div id="361168982787396381" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml">
+        <blockquote class="twitter-tweet" lang="en">
+            <p lang="en" dir="ltr">Why atomics? Timur wrapping up at <a href="https://twitter.com/hashtag/JUCESummit?src=hash">#JUCESummit</a> <a href="https://twitter.com/hashtag/cplusplus?src=hash">#cplusplus</a> <a href="https://t.co/cUOAWMle6x">pic.twitter.com/cUOAWMle6x</a>
+            </p>— Ableton Dev (@AbletonDev) <a href="https://twitter.com/AbletonDev/status/667725331776864256">November 20, 2015</a> </blockquote>
+        <script async="" src="//platform.twitter.com/widgets.js" charset="utf-8">
+        </script>
+    </div>
+</div>
+<div class="paragraph" style="text-align:left;"> <strong style="">3:30 PM: Maximilian Library&nbsp;</strong>(Mick Grierson)
+    <br> &nbsp; &nbsp; &nbsp; &nbsp; Mick started his presentation by saying it might be 'shambolic' (and that as an academic, that was allowed and even expected), and boy was he right. I don't know how many examples he demonstrated and coded live, but there were a LOT.&nbsp;
+    <br> &nbsp; &nbsp; &nbsp; &nbsp; Get Maximilian from his&nbsp;<a href="https://github.com/micknoise/Maximilian" target="_blank" title="" style="">GitHub</a>&nbsp;page.&nbsp;
+    <br> &nbsp; &nbsp; &nbsp; &nbsp; Another interesting project he touched on briefly is&nbsp;<a href="http://txtcircle.meteor.com/" target="_blank" title="" style="">TextCircle</a>, a website that allows 'live coding together', if I understood correctly.&nbsp;
+    <br> </div>
+<div>
+    <div id="729662070762938845" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml">
+        <blockquote class="twitter-tweet" lang="en">
+            <p lang="en" dir="ltr">Mick Grierson from <a href="https://twitter.com/EAVI_Goldsmiths">@EAVI_Goldsmiths</a> presents Maximilian at the <a href="https://twitter.com/hashtag/JUCESummit?src=hash">#JUCESummit</a> and we get to hear sine waves. <a href="https://t.co/q5WLYyK2rX">pic.twitter.com/q5WLYyK2rX</a>
+            </p>— JUCE (@JUCElibrary) <a href="https://twitter.com/JUCElibrary/status/667730082174226432">November 20, 2015</a> </blockquote>
+        <script async="" src="//platform.twitter.com/widgets.js" charset="utf-8">
+        </script>
+    </div>
+</div>
+<div class="paragraph" style="text-align:left;"> <strong style="">4:00 PM: Virtual Analog Audio Effects Simulation with JUCE</strong>&nbsp;(Ivan Cohen)
+    <br> &nbsp; &nbsp; &nbsp; &nbsp; The most impressive aspect of Ivan's presentation was that it was written using JUCE - i.e. it was not a Microsoft PowerPoint, LaTeX Beamer or Prezi presentation, but an actual 'app' that read from a text file and even included a music player with built-in audio effects that allowed a demonstration of his work within the presentation.&nbsp;
+    <br> &nbsp; &nbsp; &nbsp; &nbsp; See also Ivan's&nbsp;<a href="http://musicalentropy.com/" target="_blank" title="" style="">website</a>&nbsp;and&nbsp;<a href="https://twitter.com/MusicalEntropy" target="_blank" title="" style="">Twitter feed</a>.&nbsp;
+    <br> </div>
+<div>
+    <div id="130956535568379734" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml">
+        <blockquote class="twitter-tweet" lang="en">
+            <p lang="en" dir="ltr">This crazy person made his presentation in <a href="https://twitter.com/JUCElibrary">@JUCElibrary</a>. Feeling a lot less smug about using <a href="https://twitter.com/hashtag/LaTeX?src=hash">#LaTeX</a> Beamer now. <a href="https://twitter.com/MusicalEntropy">@MusicalEntropy</a> <a href="https://twitter.com/hashtag/JUCESummit?src=hash">#JUCESummit</a>
+            </p>— Brecht De Man (@BrechtDeMan) <a href="https://twitter.com/BrechtDeMan/status/667736057421701120">November 20, 2015</a> </blockquote>
+        <script async="" src="//platform.twitter.com/widgets.js" charset="utf-8">
+        </script>
+    </div>
+</div>
+<div class="paragraph" style="text-align:left;"> <strong style="">4:30 PM: Evolution of Audio Plugins and Best Usability Practices</strong>&nbsp;(Gebre Waddell)
+    <br> &nbsp; &nbsp; &nbsp; &nbsp; Gebre gave his view on the history and future of audio plugins, from his perspective of mastering engineer and plugin developer. For this, he interviewed renown mixing and mastering engineers at the&nbsp;<a href="http://www.aes.org/events/139/" target="_blank" title="" style="">139th Convention of the Audio Engineering Society</a>&nbsp;earlier this month in New York (see my previous post).&nbsp;
+    <br> &nbsp; &nbsp; &nbsp; &nbsp; He also visited the&nbsp;<a href="http://c4dm.eecs.qmul.ac.uk/" target="_blank" title="" style="">Centre for Digital Music</a>&nbsp;prior to the Summit, and gave a shoutout to the&nbsp;<a href="https://code.soundsoftware.ac.uk/" target="_blank" title="" style="">SoundSoftware</a>&nbsp;projects page for its many interesting pieces of code.&nbsp;
+    <br> </div>
+<div>
+    <div id="836370139568783363" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml">
+        <blockquote class="twitter-tweet" lang="en">
+            <p lang="en" dir="ltr">Underway: "Evolution of Audio Plugins and Best Usability Practices" with <a href="https://twitter.com/GebreWaddell">@GebreWaddell</a> at <a href="https://twitter.com/hashtag/JUCESummit?src=hash">#JUCESummit</a> <a href="https://t.co/gyd2sbOfux">pic.twitter.com/gyd2sbOfux</a>
+            </p>— Ableton Dev (@AbletonDev) <a href="https://twitter.com/AbletonDev/status/667744661474312193">November 20, 2015</a> </blockquote>
+        <script async="" src="//platform.twitter.com/widgets.js" charset="utf-8">
+        </script>
+    </div>
+</div>
+<div class="paragraph" style="text-align:left;"> <strong style="">5:15 PM: Guest talk: Creative Coding in C++</strong>&nbsp;(Andrew Bell)
+    <br> &nbsp; &nbsp; &nbsp; &nbsp; Andrew comes from a primarily visual background, so not so much an audio coder, which made his talk all the more interesting, as he talked about his&nbsp;<a href="https://libcinder.org/" target="_blank" title="" style="">Cinder library</a>&nbsp;(<a href="https://github.com/cinder" target="_blank">GitHub</a>), perhaps the equivalent of JUCE in the parallel creative coding / visuals realm. Many cool examples of projects for multinational corporations and nonprofits.&nbsp;
+    <br> &nbsp; &nbsp; &nbsp; &nbsp; With regards to the modelling of 'groups of organisms' (e.g. a CGI school of fish), he referred to <a href="http://www.cs.toronto.edu/~dt/siggraph97-course/cwr87/" target="_blank">this paper</a>&nbsp;(essentially attraction from a large distance, repulsion when you come too close, neither at a certain distance).&nbsp;
+    <br> &nbsp; &nbsp; &nbsp; &nbsp; Andrew's<a href="https://twitter.com/drawnline" target="_blank">Twitter feed</a> </div>
+<div>
+    <div id="712503522366214728" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml">
+        <blockquote class="twitter-tweet" lang="en">
+            <p lang="en" dir="ltr">We are excited to have Andrew Bell presenting C++ framework Cinder <a href="https://twitter.com/LibcinderTweets">@LibcinderTweets</a> <a href="https://twitter.com/hashtag/JUCESummit?src=hash">#JUCESummit</a> <a href="https://t.co/99ulUhaTXR">pic.twitter.com/99ulUhaTXR</a>
+            </p>— JUCE (@JUCElibrary) <a href="https://twitter.com/JUCElibrary/status/667754471754215424">November 20, 2015</a> </blockquote>
+        <script async="" src="//platform.twitter.com/widgets.js" charset="utf-8">
+        </script>
+    </div>
+</div>
+<div class="paragraph" style="text-align:left;"> <strong style="">6:00 PM: Q&amp;A Session with the JUCE Team</strong>
+    <br> <strong>&nbsp; &nbsp; &nbsp; &nbsp;</strong> The most popular topic was the new licensing model, which among others means
+    <br>
+    <ol>
+        <li>One license per developer, not per company</li>
+        <li>A license for 'desktop' (Windows, OS X, Linux development), 'iOS' and 'Android' - i.e. if you're developing for multiple platforms, you may need to buy more than one and up to three licenses.&nbsp;</li>
+        <li>The Projucer is not freely available (even for personal or academic use, except for a grace period).&nbsp;</li>
+    </ol>
+    <br> More information on&nbsp;the <a href="http://www.juce.com/get-juce" target="_blank" title="">JUCE website</a>.&nbsp;
+    <br> </div>
+<div>
+    <div id="856463817764591050" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml">
+        <blockquote class="twitter-tweet" lang="en">
+            <p lang="en" dir="ltr">Last session for this very first <a href="https://twitter.com/hashtag/JUCESummit?src=hash">#JUCESummit</a>: Q&amp;A with the <a href="https://twitter.com/JUCElibrary">@JUCElibrary</a> team. Thank you, that was pretty awesome! <a href="https://t.co/Rt7K8TGr0w">pic.twitter.com/Rt7K8TGr0w</a>
+            </p>— Ableton Dev (@AbletonDev) <a href="https://twitter.com/AbletonDev/status/667769807459254272">November 20, 2015</a> </blockquote>
+        <script async="" src="//platform.twitter.com/widgets.js" charset="utf-8">
+        </script>
+    </div>
+</div>
+<div class="paragraph" style="text-align:left;"> <strong style="">7:00 PM: Closing and drinks</strong>
+    <br> </div>
+<h2 style="text-align:left;">Epilogue</h2>
+<div class="paragraph" style="text-align:left;"> Following this very enjoyable and inspiring conference, with talks and food invariably of very high quality, I spent part of this Sunday afternoon updating the code for the 'Audio Effects: Theory, Implementation and Application' by Joshua D. Reiss and Andrew McPherson, for which I initially refactored and/or wrote the JUCE code examples.&nbsp;
+    <br> I mainly replaced some deprecated functions (thanks Dr Rob Toulson for flagging this on Friday), homogenised the default dependency paths, and removed some redundant lines like unused variables.&nbsp;
+    <br> I'm sure there's more scope for improvement, but it doesn't currently feature in my list of priorities - I did want it to at least run straight out of the box, though.&nbsp;
+    <br>
+    <br> <a href="https://code.soundsoftware.ac.uk/projects/audio_effects_textbook_code" target="_blank" title="">Download the audio effects examples here, on the SoundSoftware page.&nbsp;</a> </div>

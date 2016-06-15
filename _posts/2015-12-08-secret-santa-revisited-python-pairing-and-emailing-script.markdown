@@ -28,7 +28,8 @@ I also updated the email script so it now works with Hotmail/Outlook as well as 
 
 **Download or pull the source from [this git repository](https://github.com/BrechtDeMan/secretsanta) on [my Github page](https://github.com/BrechtDeMan/). **
 
-
-<div class="github-card" data-user="BrechtDeMan"></div>
-<script src="http://lab.lepture.com/github-cards/widget.js"> </script>
+<div>
+	<div class="github-card" data-user="BrechtDeMan"></div>
+	<script src="http://lab.lepture.com/github-cards/widget.js"> </script>
+</div>
 
