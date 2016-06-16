@@ -21,8 +21,11 @@ github_username:  BrechtDeMan
 linkedin_username: BrechtDeMan
 facebook_username: BrechtDeMan
 paginate: 5
-gems: [jekyll-paginate]
+gems: 
+- jekyll-paginate
+- jekyll-redirect-from
 paginate_path: "/blog/page:num"
+redirects: yes
 
 # Build settings
 markdown: kramdown

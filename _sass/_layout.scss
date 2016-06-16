@@ -240,3 +240,22 @@
         }
     }
 }
+
+// http://david.elbe.me/jekyll/2015/06/20/how-to-link-to-next-and-previous-post-with-jekyll.html
+.PageNavigation {
+  font-size: 14px;
+  display: block;
+  width: auto;
+  overflow: hidden;
+}
+
+.PageNavigation a {
+  display: block;
+  float: left;
+  margin: 1em 0;
+}
+
+.PageNavigation .next {
+  float:right;
+  text-align: right;
+}

@@ -11,16 +11,16 @@
                   <a class="page-scroll" href="/about/">About</a>
                 {% endif %}
 
-                {% if page.url == '/blog/' %}
+                {% if page.url contains '/blog/' %}
                   Blog
                 {% else %}
                   <a class="page-scroll" href="/blog/">Blog</a>
                 {% endif %}
 
-                {% if page.url == '/publications.html' %}
+                {% if page.url == '/publications/' %}
                   Publications
                 {% else %}
-                  <a class="page-scroll" href="/publications.html">Publications</a>
+                  <a class="page-scroll" href="/publications/">Publications</a>
                 {% endif %}
 
                 </li>
