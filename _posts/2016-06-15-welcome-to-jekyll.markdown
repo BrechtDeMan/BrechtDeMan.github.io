@@ -2,7 +2,7 @@
 layout: post
 title:  "Trying out Jekyll"
 date:   2016-06-15 13:57:01 +0200
-categories: developer
+tags: developer
 excerpt_separator: <!--more-->
 ---
 This seems great, it uses *Github*-flavoured markdown and seems geared towards developers with minimalist streak. 

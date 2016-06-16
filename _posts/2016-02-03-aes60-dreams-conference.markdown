@@ -2,7 +2,7 @@
 layout: post
 title: AES60 DREAMS conference
 date:   2016-02-03 13:57:01 +0200
-categories: mix engineering, research
+tags: [mix engineering, research]
 excerpt_separator: <!--more-->
 ---
 

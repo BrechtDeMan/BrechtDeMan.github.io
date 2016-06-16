@@ -2,7 +2,7 @@
 layout: post
 title: 'Contribution to ''Audio Effects: Theory, Implementation and Application'''
 date:   2015-01-15 13:57:01 +0200
-categories: research, developer
+tags: [research, developer]
 excerpt_separator: <!--more-->
 ---
 

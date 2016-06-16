@@ -2,7 +2,7 @@
 layout: post
 title: Getting started with Python/The Secret Santa problem
 date:   2015-02-14 13:57:01 +0200
-categories: developer
+tags: developer
 excerpt_separator: <!--more-->
 ---
 

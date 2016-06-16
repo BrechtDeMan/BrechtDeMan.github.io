@@ -26,6 +26,7 @@ gems:
 - jekyll-redirect-from
 paginate_path: "/blog/page:num"
 redirects: yes
+permalink: /blog/:title.html # custom structure for blog (sans :categories/:year/:month/:day)
 
 # Build settings
 markdown: kramdown

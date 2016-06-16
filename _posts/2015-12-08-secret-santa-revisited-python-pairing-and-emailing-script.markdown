@@ -2,7 +2,7 @@
 layout: post
 title: Secret Santa revisited - Python pairing and emailing script
 date:   2015-12-08 13:57:01 +0200
-categories: developer
+tags: developer
 excerpt_separator: <!--more-->
 ---
 

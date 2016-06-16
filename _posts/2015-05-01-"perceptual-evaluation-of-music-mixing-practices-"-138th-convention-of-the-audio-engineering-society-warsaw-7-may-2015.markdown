@@ -3,7 +3,7 @@ layout: post
 title: '"Perceptual evaluation of music mixing practices," 138th Convention of the
   Audio Engineering Society, Warsaw, 7 May 2015'
 date:   2015-05-01 13:57:01 +0200
-categories: mix engineering, research
+tags: [mix engineering, research]
 excerpt_separator: <!--more-->
 ---
 

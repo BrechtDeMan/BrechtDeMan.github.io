@@ -2,7 +2,7 @@
 layout: post
 title:  'SAFE: Semantic Audio Feature Extraction plug-ins for the digital audio workstation'
 date:   2014-07-16 13:57:01 +0200
-categories: mix engineering, research
+tags: [mix engineering, research]
 excerpt_separator: <!--more-->
 ---
 

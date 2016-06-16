@@ -3,7 +3,7 @@ layout: post
 title: '"Analysis of Peer Reviews in Music Production", Journal on the Art of Record
   Production, Vol. 10, July 2015.'
 date:   2015-07-24 13:57:01 +0200
-categories: mix engineering, research
+tags: [mix engineering, research]
 excerpt_separator: <!--more-->
 ---
 

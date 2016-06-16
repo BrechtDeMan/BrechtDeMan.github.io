@@ -2,7 +2,7 @@
 layout: post
 title:  "Microphone shootout"
 date:   2013-03-11 13:57:01 +0200
-categories: recording engineering
+tags: recording engineering
 excerpt_separator: <!--more-->
 ---
 
