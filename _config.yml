@@ -20,6 +20,9 @@ twitter_username: BrechtDeMan
 github_username:  BrechtDeMan
 linkedin_username: BrechtDeMan
 facebook_username: BrechtDeMan
+paginate: 5
+gems: [jekyll-paginate]
+paginate_path: "/blog/page:num"
 
 # Build settings
 markdown: kramdown

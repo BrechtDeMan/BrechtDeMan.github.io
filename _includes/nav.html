@@ -1,0 +1,32 @@
+<nav id="mainNav" class="site-nav">
+    <div class="container-fluid">
+        <!-- See http://jekyll.tips/guide/navigation-and-includes/ -->
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="trigger">
+            <ul class="nav navbar-nav navbar-right">
+                {% if page.url == '/about/' %}
+                  About
+                {% else %}
+                  <a class="page-scroll" href="/about/">About</a>
+                {% endif %}
+
+                {% if page.url == '/blog/' %}
+                  Blog
+                {% else %}
+                  <a class="page-scroll" href="/blog/">Blog</a>
+                {% endif %}
+
+                {% if page.url == '/publications.html' %}
+                  Publications
+                {% else %}
+                  <a class="page-scroll" href="/publications.html">Publications</a>
+                {% endif %}
+
+                </li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container-fluid -->
+</nav>
