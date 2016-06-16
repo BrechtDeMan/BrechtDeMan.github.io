@@ -4,10 +4,14 @@
 .site-header {
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
-    min-height: 56px;
+    min-height: 25px;
 
     // Positioning context for the mobile navigation icon
-    position: relative;
+    position: fixed;
+    right: 0;
+    top: 0px;
+    width: 100%;
+    background-color: #ffffff;
 }
 
 .site-title {
@@ -22,11 +26,13 @@
     &:visited {
         color: $grey-color-dark;
     }
+
 }
 
 .site-nav {
     float: right;
     line-height: 56px;
+    height: 100%;
 
     .menu-icon {
         display: none;
