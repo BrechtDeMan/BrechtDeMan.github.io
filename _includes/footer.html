@@ -45,11 +45,20 @@
               </a>
             </li>
           {% endif %}
+
+          {% if site.scholar_username %}
+            <li>
+              <a href="https://scholar.google.com/citations?user={{ site.scholar_username }}">
+                <i class="fa fa-google"></i> Google Scholar
+              </a>
+            </li>
+          {% endif %}
         </ul>
       </div>
 
       <div class="footer-col footer-col-3">
         <p>{{ site.description }}</p>
+        <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
       </div>
     </div>
 
