@@ -1,0 +1,7 @@
+@article{deman2015analysis,
+	Author = {De Man, Brecht and Reiss, Joshua D.},
+	Journal = {Journal of the Art of Record Production},
+	Month = {July},
+	Title = {Analysis of peer reviews in music production},
+	Volume = {10},
+	Year = {2015}}

@@ -1,0 +1,7 @@
+@article{deman2013c,
+	Author = {De Man, Brecht and Reiss, Joshua D.},
+	Journal = {Journal of the Art of Record Production},
+	Month = {December},
+	Title = {A Semantic Approach to Autonomous Mixing},
+	Volume = {8},
+	Year = {2013}}
