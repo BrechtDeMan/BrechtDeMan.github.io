@@ -5,7 +5,7 @@ redirect_from:
 - /publications.html
 ---
 
-[Google Scholar](http://scholar.google.co.uk/citations?user=3ndnho0AAAAJ)   &#124;   [Academia.edu](https://qmul.academia.edu/BrechtDeMan)    &#124;   [LinkedIn](http://uk.linkedin.com/in/brechtdeman/)   &#124;   [BibTeX](http://www.brechtdeman.com/publications/all.txt)   &#124;   [ResearchGate](https://www.researchgate.net/profile/Brecht_De_Man)   &#124;    [pdf](http://www.brechtdeman.com/publications/PublicationsList.pdf)
+[Google Scholar](http://scholar.google.co.uk/citations?user=3ndnho0AAAAJ)   &#124;   [Academia.edu](https://qmul.academia.edu/BrechtDeMan)    &#124;   [LinkedIn](http://uk.linkedin.com/in/brechtdeman/)   &#124;   [BibTeX](http://www.brechtdeman.com/publications/bibliography.bib)   &#124;   [ResearchGate](https://www.researchgate.net/profile/Brecht_De_Man)   &#124;    [pdf](http://www.brechtdeman.com/publications/PublicationsList.pdf)
 
 ### Journal papers
 
