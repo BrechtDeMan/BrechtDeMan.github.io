@@ -1,0 +1,351 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Deedy CV/Resume
+% XeLaTeX Template
+% Version 1.0 (5/5/2014)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Debarghya Das (http://www.debarghyadas.com)
+% With extensive modifications by:
+% Vel (vel@latextemplates.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+% Important notes:
+% This template needs to be compiled with XeLaTeX.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[a4paper]{deedy-resume} % Use US Letter paper (letterpaper), change to a4paper for A4 
+
+
+% header and footer
+\usepackage{fancyhdr}
+\fancypagestyle{plain}{
+\fancyhf{}
+\lhead{\textbf{Sollicitatie lector Digitale Audio} - CV}
+\rhead{Brecht\textbf{ De Man}}
+\cfoot{\thepage}
+}
+\pagestyle{plain}
+
+% also on first page
+\makeatletter
+%\let\ps@plain\ps@fancy 
+\let\ps@empty\ps@plain
+\let\ps@firstpage\ps@plain
+\makeatother
+
+\usepackage{enumitem} 			% remove whitespace between items
+
+%\hyphenation{London}
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	TITLE SECTION
+%----------------------------------------------------------------------------------------
+
+%\lastupdated % Print the Last Updated text at the top right
+
+
+\namesection{\href{http://www.google.com/search?q=Brecht+De+Man}{Brecht}}{\href{http://www.google.com/search?q=Brecht+De+Man}{De Man}}{ % Your name
+\urlstyle{same} \href{http://www.brechtdeman.com}{www.brechtdeman.com} \  | \  \href{https://uk.linkedin.com/in/brechtdeman}{linkedin.com/in/brechtdeman} \ | \
+ \href{https://twitter.com/brechtdeman}{@brechtdeman} % Your website, LinkedIn profile or other web address
+\ | \   \href{mailto:mail@brechtdeman.com}{mail@brechtdeman.com} 
+% \  | \ +44 0000 000000 % Your contact information
+}
+
+\flushright
+\scriptsize
+\vspace{-.1cm}
+Klik de verschillende onderdelen aan voor meer info\\
+\vspace{-.1cm}
+
+%----------------------------------------------------------------------------------------
+%	LEFT COLUMN
+%----------------------------------------------------------------------------------------
+
+
+\begin{minipage}[t]{0.34\textwidth} % The left column takes up 33% of the text width of the page
+
+%------------------------------------------------
+% Education
+%------------------------------------------------
+
+\section{Opleiding} 
+
+\subsection{\href{http://www.qmul.ac.uk}{Queen Mary}}
+\subsection{\href{http://www.qmul.ac.uk}{University of London}}
+\descript{PhD in Audio Engineering}
+\location{\emph{Semantic Mixing of Multitrack Audio}\\ 
+		Sep 2012 – ...}
+\sectionspace % Some whitespace after the section
+
+
+\subsection{\href{http://www.mcgill.ca}{McGill University}}
+\descript{Onderzoeksstage}
+\location{Jul – Okt 2013 | Montr\'{e}al, Canada}
+\sectionspace % Some whitespace after the section
+
+\subsection{\href{https://www.ugent.be}{Universiteit Gent}}
+\location{Sep 2007 – Jun 2012 | Gent, Belgi\"{e}}
+\descript{MSc Ingenieurswetenschappen: Elektrotechniek}
+\location{Elektronische circuits en systemen}
+Grote onderscheiding\\
+MSc thesis: \textit{Actieve Compensatie voor Zaalonafhankelijke Geluidsreproductie} \\
+
+%\sectionspace % Some whitespace after the section
+\descript{BSc Ingenieurswetenschappen: Elektrotechniek}
+Onderscheiding\\
+\sectionspace % Some whitespace after the section
+
+\subsection{\href{http://www.ethz.ch/}{Eidgen\"{o}ssische }}
+\subsection{\href{http://www.ethz.ch/}{Technische Hochschule}}
+\descript{MSc, Erasmus uitwisseling}
+\location{Sep 2010 – Aug 2011 | Z\"{u}rich, Zwitserland}
+\sectionspace % Some whitespace after the section
+
+%------------------------------------------------
+% Links
+%------------------------------------------------
+
+%\section{Links} 
+%
+%\begin{tabular}{@{}ll}
+%LinkedIn:// &\href{http://www.linkedin.com/in/BrechtDeMan}{\bf BrechtDeMan} \\
+%Twitter:// &\href{https://twitter.com/BrechtDeMan}{\bf BrechtDeMan} \\
+%Github:// &\href{https://github.com/BrechtDeMan}{\bf BrechtDeMan} \\
+%Academia:// &\href{http://qmul.academia.edu/BrechtDeMan}{\bf BrechtDeMan} \\
+%\end{tabular}
+
+
+%Google+:// \href{https://www.google.com/+BrechtDeMan}{\bf +BrechtDeMan}
+
+
+%------------------------------------------------
+% Coursework
+%------------------------------------------------
+
+%\section{Coursework}
+%
+%\subsection{Graduate}
+%
+%Advanced Machine Learning \\
+%Open Source Software Engineering \\
+%Advanced Interactive Graphics \\
+%Compilers + Practicum \\
+%Cloud Computing
+%
+%\sectionspace % Some whitespace after the section
+%
+%%------------------------------------------------
+%
+%\subsection{Undergraduate}
+%
+%Information Retrieval \\
+%Operating Systems \\
+%Artificial Intelligence + Practicum \\
+%Functional Programming \\
+%Computer Graphics + Practicum \\
+%{\footnotesize \textit{\textbf{(Research Asst. \& Teaching Asst) }}} \\
+%Unix Tools and Scripting
+%
+%\sectionspace % Some whitespace after the section
+
+%------------------------------------------------
+% Skills
+%------------------------------------------------
+
+\sectionspace % Some whitespace after the section
+\section{Vaardigheden} % Competenties?
+
+\subsection{Programmeren}
+
+C++ \textbullet{} C \textbullet{} Python \textbullet{} Java \textbullet{}  MATLAB \textbullet{} 
+ HTML \textbullet{} JavaScript \textbullet{} Shell \textbullet{} Assembly \textbullet{}  LaTeX \\
+
+\sectionspace % Some whitespace after the section
+\subsection{Talen}
+
+\begin{tabular}{@{}ll}
+Nederlands & moedertaal\\
+Engels & vloeiend\\
+Frans & gevorderd\\
+Duits & gevorderd (UZ\"{u}rich: C1)\\
+%German & C1 certificate University of Z\"{u}rich\\
+\end{tabular}
+
+
+\sectionspace % Some whitespace after the section
+\sectionspace % Some whitespace after the section
+
+
+%------------------------------------------------
+% Societies
+%------------------------------------------------
+
+\section{Overige activiteiten} 
+\subsection{\href{http://www.aes.org}{Audio Engineering Society}}
+%\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{itemize}[noitemsep,nolistsep,leftmargin=*]
+\item Voorzitter \href{http://www.aes.org/students/sda/}{Student Delegate Assembly}, vertegenwoordigen en adviseren van 4000 studentenleden
+\item Voorzitter \href{https://www.facebook.com/AESLondonUKStudentSection}{London Student Section}
+\item Voorzitter \href{http://www.aes-uk.org/up/}{\textit{Up Your Output! 2015}, internationaal studentenevenement\\in Londen}
+\item \href{http://www.aes-uk.org/about-the-aes/aes-uk-section-committee/}{Bestuurslid British Section}
+\item Organisatie vele conventies, conferenties, en internationale studentenevents
+\end{itemize}
+
+%----------------------------------------------------------------------------------------
+
+\end{minipage} % The end of the left column
+\hfill
+%
+%----------------------------------------------------------------------------------------
+%	RIGHT COLUMN
+%----------------------------------------------------------------------------------------
+%
+\begin{minipage}[t]{0.65\textwidth} % The right column takes up 66% of the text width of the page
+
+%------------------------------------------------
+% Experience
+%------------------------------------------------
+
+\section{Werkervaring}
+
+\runsubsection{\href{http://www.qmul.ac.uk}{Queen Mary U\lowercase{o}L}}
+\hspace{-0.1cm}\descript{| Postgraduate Teaching Assistant}
+\location{Sep 2012 – Apr 2015 | London, UK}
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightitemize}
+\item Lesassistent Digital Audio Effects, Procedural Programming, Digital Signal Processing, Real-Time DSP, Software Tools for Engineers \& Sound Recording and Production Techniques
+\item Certificaat  \emph{Teaching Skills course} (Queen Mary University of London)
+\end{tightitemize}
+\sectionspace % Some whitespace after the section
+
+%------------------------------------------------
+
+\runsubsection{\href{http://mixgenius.com}{MixGenius}}
+\hspace{-0.1cm}\descript{| Associate Researcher}
+\location{Jul 2013 – Okt 2013 | Montr\'{e}al, Canada}
+%\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightitemize}
+\item Onderzoek naar perceptie van signaalverwerkingsalgoritmes %Investigated perception of music production practices
+\item Ontwikkeling en verbetering intelligente muziekproductietools in C++ %Developed and refactored intelligent audio production tools in C++
+\item Ontwerp, implementatie en \href{http://brechtdeman.com/publications/aes53.pdf}{publicatie intelligente distortion plugin}
+\end{tightitemize}
+\sectionspace % Some whitespace after the section
+
+%------------------------------------------------
+
+%\runsubsection{\href{http://ugent.be}{Universiteit Gent}}
+%\hspace{-0.1cm}\descript{| Softwareontwikkelaar} 
+%\location{Jul 2010 – Aug 2010 | Gent, Belgi\"{e}}
+%\begin{tightitemize}
+%\item Implementeren indoor lokalisatiesysteem voor mobiele robots door middel van IR en dead reckoning - uitbreiding bachelorproef. 
+%\end{tightitemize}
+%
+%\sectionspace % Some whitespace after the section
+
+%------------------------------------------------
+
+\runsubsection{Freelance}
+\hspace{-0.1cm}\descript{| Muziekleraar en Geluidstechnicus}
+\location{Jan 2005 – ...}
+\begin{tightitemize}
+\item Piano, drum, muziektheorie, jazz- en popgeschiedenis, elektronische muziek, ritme, improvisatieworkshop, stijlenworkshop, en band coaching, wekelijks en op 6 zomerkampen \href{http://www.jeugdenmuziekbrussel.be}{\textbf{Jeugd en Muziek Brussel}} en priv\'{e} - 8 tot 21 jaar.
+\item Geluidstechniek voor vele Belgische festivals en concerten, certificaat de Rockfabriek (JES)
+\item Opname soloartiesten, ensembles en bands in Londen
+\end{tightitemize}
+
+\sectionspace % Some whitespace after the section
+
+%------------------------------------------------
+% Projects
+%------------------------------------------------
+
+\section{Projecten}
+
+\runsubsection{\href{https://code.soundsoftware.ac.uk/projects/webaudioevaluationtool}{Web Audio Evaluation Tool}}
+\hspace{-0.1cm}\descript{| Ontwerp en software}
+
+\location{Maa 2015 – Aug 2015}
+Tool voor kritische evaluatie en vergelijking van audio voor onderzoek en onderwijs op basis van de Web Audio API. Oogstte succes omdat het in tegenstelling tot andere software geen programmeerervaring of gespecialiseerde software vereist - werkt in elke browser.\\
+% VOEG TOE: publicatie
+\href{http://www.brechtdeman.com/publications/smc10.pdf}{Publicatie \emph{10\textsuperscript{th} Sound and Music Computing Conference}}. 
+
+\sectionspace % Some whitespace after the section
+
+%------------------------------------------------
+
+
+\runsubsection{\href{http://multitrack.eecs.qmul.ac.uk}{The Open Multitrack Testbed}}
+\hspace{-0.1cm}\descript{| Projectleiding}
+
+\location{Sep 2013 – Maa 2015}
+Uniek platform voor het delen, zoeken en filteren van multitrack audio inclusief mixes, met semantische database op basis van geassocieerde metadata. Antwoord op de hoge nood aan meersporenaudio in onderzoek en onderwijs.\\
+%Led the development of this online repository for multitrack audio and mixes thereof, including a semantic database of metadata associated with the audio to allow searching and filtering. 
+%Currently curating content, testing and maintenance (JavaScript, Python, SPARQL, HTML/CSS).\\
+\href{http://www.brechtdeman.com/publications/aes137.pdf}{Publicatie \emph{137\textsuperscript{th} Convention of the Audio Engineering Society}}. 
+
+\sectionspace % Some whitespace after the section
+
+%------------------------------------------------
+
+\runsubsection{\href{http://www.semanticaudio.co.uk}{SAFE audio plugins}}
+\hspace{-0.1cm}\descript{| Softwareontwikkeling en onderzoek}
+\location{Dec 2013 – Mei 2014}
+Onderzoeksproject met als doel het verzamelen van semantische informatie over muziekproductie vanuit de \emph{Digital Audio Workstation} (DAW). Ik ontwikkelde een reeks effect plugins die naast signaalverwerking ook annotatie door de gebruiker, extractie van geluidseigenschappen en opslaan naar/laden van server toelaten.\\
+%Research project in collaboration with Birmingham City University on capture of musical semantics data from the producer's digital audio workstation. 
+%Developed a suite of semantic audio effects in C++ that allow retrieval and storage of settings based on semantic terms and extracted audio features. \\
+\href{http://www.terasoft.com.tw/conf/ismir2014/LBD/LBD15.pdf}{Publicatie \emph{15\textsuperscript{th} International Society for Music Information Retrieval conference.}}
+
+\sectionspace % Some whitespace after the section
+
+%------------------------------------------------
+% Awards
+%------------------------------------------------
+
+\section{Erkenning en onderscheidingen} 
+
+\begin{tabular}{@{}rll}
+2014	 & \href{http://labrosa.ee.columbia.edu/hamr_ismir2014/proceedings/doku.php?id=intelligent_audio_switch_box}{Best Code} & \href{http://labrosa.ee.columbia.edu/hamr_ismir2014/proceedings/doku.php?id=intelligent_audio_switch_box}{Hacking Audio and Music Research in Taiwan}\\
+2014 & \href{http://www.aes.org/education/foundation/awards.cfm}{HARMAN Scholar} & \href{http://www.aes.org/education/foundation/awards.cfm}{AES Educational Foundation scholarship}\\
+2014 & \href{http://www.abtanet.org.uk/Awards/Detail/6/2014-ABTA-Doctoral-Researcher-Awards/}{Honourable Mention} & \href{http://www.abtanet.org.uk/Awards/Detail/6/2014-ABTA-Doctoral-Researcher-Awards/}{ABTA Doctoral Researcher Awards} \\
+2013 & \href{http://www.aes.org/press/?ID=215}{HARMAN Scholar} & \href{http://www.aes.org/press/?ID=215}{AES Educational Foundation scholarship}\\
+2010 & 1st prize & ETH/Hilti business simulation game\\
+2010 & 2nd prize & ETH Digital Business Model competition
+\end{tabular}
+
+\sectionspace % Some whitespace after the section
+
+%----------------------------------------------------------------------------------------
+
+
+\end{minipage} % The end of the right column
+
+
+%----------------------------------------------------------------------------------------
+%	SECOND PAGE (EXAMPLE)
+%----------------------------------------------------------------------------------------
+
+%\newpage % Start a new page
+
+%\begin{minipage}[t]{0.33\textwidth} % The left column takes up 33% of the text width of the page
+
+%\section{Example Section}
+
+%\end{minipage} % The end of the left column
+%\hfill
+%\begin{minipage}[t]{0.66\textwidth} % The right column takes up 66% of the text width of the page
+
+%\section{Example Section 2}
+
+%\end{minipage} % The end of the right column
+
+%----------------------------------------------------------------------------------------
+
+
+\end{document}
