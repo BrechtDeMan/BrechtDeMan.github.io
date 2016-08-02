@@ -31,3 +31,8 @@ permalink: /blog/:title.html # custom structure for blog (sans :categories/:year
 
 # Build settings
 markdown: kramdown
+
+# Collections
+collections: 
+- software
+- music

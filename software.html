@@ -1,0 +1,15 @@
+---
+layout: page
+title: Software
+permalink: /software/
+redirect_from:
+- /software.html
+---
+
+<i>Note: this section is work in progress. Please refer to my <a href="http://brechtdemancom.ipage.com/software.html">old website</a> for more information on my software projects.</i><br />
+
+{% for project in site.software %}
+	{% if project.projecturl && project.image%}
+        <a class="hovertext" href="{{ project.projecturl }}" title="{{ project.name }}"><img class="hover" src="{{ project.image }}" alt="{{ project.name }}" width="49%" /></a>
+    {% endif %}
+{% endfor %}

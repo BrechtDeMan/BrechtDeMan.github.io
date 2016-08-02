@@ -1,0 +1,7 @@
+---
+name: "Katrina Sheppeard"
+webpage: "http://sheppeard.me/"
+image: "/images/music/kate-sheppeard.jpeg"
+month: "1"
+year: "2012"
+---

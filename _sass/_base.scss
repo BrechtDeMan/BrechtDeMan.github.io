@@ -201,3 +201,46 @@ pre {
         }
     }
 }
+
+/**
+ * Hovertext 
+ * (from http://www.the-art-of-web.com/css/textoverimage/, 
+ *  http://geekgirllife.com/place-text-over-images-on-hover-without-javascript/)
+ */
+a.hovertext {
+    position: relative;
+    width: 50%;
+    text-align: left;
+    vertical-align: bottom;
+}
+  a.hovertext:after {
+    content: attr(title);
+    font-size: 24px;
+    text-transform: lowercase;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    overflow: hidden;
+    display: block;
+    /*background: rgba(256,256,256,1);*/
+    color: #000;
+    opacity: 0.0;
+    /* uncomment for slow transition
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -o-transition: 0.5s;
+    -ms-transition: 0.5s;
+    */
+}
+  a.hovertext:hover:after, a.hovertext:focus:after {
+    opacity: 0.9;
+}
+
+img.hover { /* From http://jsfiddle.net/joshnh/dZFMW/ */
+    opacity: 1; 
+}
+
+img.hover:hover {
+    opacity: .3;
+}

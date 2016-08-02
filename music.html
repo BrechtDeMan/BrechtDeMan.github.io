@@ -1,0 +1,17 @@
+---
+layout: page
+title: Music
+permalink: /music/
+redirect_from:
+- /music.html
+---
+
+<i>Note: this section is work in progress. Please refer to my <a href="http://brechtdemancom.ipage.com/music.html">old website</a> for more information on my music projects.</i><br />
+
+{% for project in site.music %}
+	{% if project.webpage && project.image%}
+        <a class="hovertext" href="{{ project.webpage }}" title="{{ project.name }}"><img class="hover" src="{{ project.image }}" alt="{{ project.name }}" width="49%" /></a>
+    {% elsif project.image %}
+        <a class="hovertext" href="#" title="{{ project.name }}"><img class="hover" src="{{ project.image }}" alt="{{ project.name }}" width="49%" /></a>
+    {% endif %}
+{% endfor %}

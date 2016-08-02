@@ -1,0 +1,6 @@
+---
+name: "Kaija Lukas"
+image: "/images/music/kaija-lukas.jpg"
+month: "1"
+year: "2013"
+---
