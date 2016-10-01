@@ -4,35 +4,50 @@
 
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="trigger">
-            <ul class="nav navbar-nav navbar-right">
-                {% if page.url == '/about/' %}
-                  About
-                {% else %}
+            <!-- http://www.w3schools.com/howto/howto_js_topnav.asp -->
+            <ul class="topnav" id="myTopnav">
+                <li>
                   <a class="page-scroll" href="/about/">About</a>
-                {% endif %}
+                </li>
 
-                <a class="page-scroll" href="/downloads/CV/BrechtDeMan-CV.pdf">CV</a>
+                <li>
+                  <a class="page-scroll" href="/downloads/CV/BrechtDeMan-CV.pdf">CV</a>
+                </li>
 
-                {% if page.url contains '/blog/' %}
-                  Blog
-                {% else %}
+                <li>
                   <a class="page-scroll" href="/blog/">Blog</a>
-                {% endif %}
+                </li>
 
-                <a class="page-scroll" href="/music/">Music</a>
+                <li>
+                  <a class="page-scroll" href="/music/">Music</a>
+                </li>
 
-                {% if page.url == '/publications/' %}
-                  Publications
-                {% else %}
+                <li>
                   <a class="page-scroll" href="/publications/">Publications</a>
-                {% endif %}
+                </li>
 
-                <a class="page-scroll" href="/software/">Software</a>
+                <li>
+                  <a class="page-scroll" href="/software/">Software</a>
+                </li>
 
+                <li class="icon">
+                  <a href="javascript:void(0);" onclick="myFunction()">&#9776;</a>
                 </li>
             </ul>
         </div>
         <!-- /.navbar-collapse -->
     </div>
     <!-- /.container-fluid -->
+
+    <script>
+      /* Toggle between adding and removing the "responsive" class to topnav when the user clicks on the icon */
+      function myFunction() {
+          var x = document.getElementById("myTopnav");
+          if (x.className === "topnav") {
+              x.className += " responsive";
+          } else {
+              x.className = "topnav";
+          }
+      }
+    </script>
 </nav>
