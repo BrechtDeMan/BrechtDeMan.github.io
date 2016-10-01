@@ -10,6 +10,6 @@ redirect_from:
 
 {% for project in site.software %}
 	{% if project.projecturl && project.image%}
-        <a class="hovertext" href="{{ project.projecturl }}" title="{{ project.name }}"><img class="hover" src="{{ project.image }}" alt="{{ project.name }}" width="49%" /></a>
+        <a class="hovertext" href="{{ project.projecturl }}" title="{{ project.name }}"><img class="hover" src="{{ project.image }}" alt="{{ project.name }}" width="150px" /></a>
     {% endif %}
 {% endfor %}
