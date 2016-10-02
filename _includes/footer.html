@@ -41,6 +41,21 @@
                 </td>
               </tr>
           {% endif %}
+
+          {% if site.stackoverflow_username %}
+              <tr>
+                <td>
+                  <a href="http://stackoverflow.com/users/ {{ site.stackoverflow_username }}">
+                    <i class="fa fa-stack-overflow"></i> 
+                  </a>
+                </td>
+                <td>
+                  <a href="http://stackoverflow.com/users/ {{ site.stackoverflow_username }}">
+                    Stack Overflow
+                  </a>
+                </td>
+              </tr>
+          {% endif %}
           
           {% if site.linkedin_username %}
               <tr>
