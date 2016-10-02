@@ -205,6 +205,41 @@ pre {
 /* Icon 4 http://codepen.io/designcouch/pen/Atyop http://wesleytsai.io/2015/06/18/create-a-blog/ */ 
 
 #nav-icon4 {
+  width: 20px;
+  height: 15px;
+  position: relative;
+  margin: 5px auto;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -webkit-transition: .5s ease-in-out;
+  -moz-transition: .5s ease-in-out;
+  -o-transition: .5s ease-in-out;
+  transition: .5s ease-in-out;
+  cursor: pointer;
+}
+
+#nav-icon4 span {
+  display: block;
+  position: absolute;
+  height: 3px;
+  width: 100%;
+  background: $brand-color;
+  border-radius: 3px;
+  opacity: 1;
+  left: 0;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -webkit-transition: .25s ease-in-out;
+  -moz-transition: .25s ease-in-out;
+  -o-transition: .25s ease-in-out;
+  transition: .25s ease-in-out;
+}
+
+#nav-icon4 {
 }
 
 #nav-icon4 span:nth-child(1) {
@@ -216,7 +251,7 @@ pre {
 }
 
 #nav-icon4 span:nth-child(2) {
-  top: 18px;
+  top: 6px;
   -webkit-transform-origin: left center;
   -moz-transform-origin: left center;
   -o-transform-origin: left center;
@@ -224,7 +259,7 @@ pre {
 }
 
 #nav-icon4 span:nth-child(3) {
-  top: 36px;
+  top: 12px;
   -webkit-transform-origin: left center;
   -moz-transform-origin: left center;
   -o-transform-origin: left center;
@@ -236,7 +271,7 @@ pre {
   -moz-transform: rotate(45deg);
   -o-transform: rotate(45deg);
   transform: rotate(45deg);
-  top: -3px;
+  top: -1px;
   left: 8px;
 }
 
@@ -250,7 +285,7 @@ pre {
   -moz-transform: rotate(-45deg);
   -o-transform: rotate(-45deg);
   transform: rotate(-45deg);
-  top: 39px;
+  top: 13px;
   left: 8px;
 }
 
@@ -278,15 +313,17 @@ ul.topnav li a {
     font-size: 17px;
 }
 
-/* Change background color of links on hover */
+/* Change color of links on hover */
 ul.topnav li a:hover {color: lighten($brand-color, 7%); text-decoration: underline;}
 
 /* Hide the list item that contains the link that should open and close the topnav on small screens */
 ul.topnav li.icon {display: none;}
 
-/* When the screen is less than 680 pixels wide, hide all list items, except for the first one ("Home"). Show the list item that contains the link to open and close the topnav (li.icon) */
-@media screen and (max-width:680px) {
-  ul.topnav li:not(:first-child) {display: none;}
+/* When the screen is less than 720 pixels wide, hide all list items. 
+ Show the list item that contains the link to open and close the topnav (li.icon) */
+@media screen and (max-width:720px) {
+  ul.topnav li {display: none;}
+  /* alt: show only first item: ul.topnav li:not(:first-child) {display: none;} */
   ul.topnav li.icon {
     float: right;
     display: inline-block;
@@ -295,7 +332,7 @@ ul.topnav li.icon {display: none;}
 
 /* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. 
  * This class makes the topnav look good on small screens */
-@media screen and (max-width:680px) {
+@media screen and (max-width:720px) {
   ul.topnav.responsive {position: relative;}
   ul.topnav.responsive li.icon {
     position: absolute;
@@ -306,9 +343,10 @@ ul.topnav li.icon {display: none;}
     float: none;
     display: inline;
   }
-  ul.topnav.responsive li a {
+  ul.topnav.responsive li:not(:last-child) a {
     display: block;
-    text-align: left;
+    text-align: right;
+    padding-right: 50px;
   }
 }
 

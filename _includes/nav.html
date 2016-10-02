@@ -30,8 +30,15 @@
                   <a class="page-scroll" href="/software/">Software</a>
                 </li>
 
-                <li class="icon">
-                  <a href="javascript:void(0);" onclick="myFunction()">&#9776;</a>
+                <li class="icon" onclick="hamburgerClicked()">
+                  <a href="javascript:void(0);" onclick="toggleResponsive()">
+                  <!-- &#9776; -->
+                  <div id="nav-icon4">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                  </div>
+                  </a>
                 </li>
             </ul>
         </div>
@@ -41,7 +48,7 @@
 
     <script>
       /* Toggle between adding and removing the "responsive" class to topnav when the user clicks on the icon */
-      function myFunction() {
+      function toggleResponsive() {
           var x = document.getElementById("myTopnav");
           if (x.className === "topnav") {
               x.className += " responsive";
@@ -49,5 +56,16 @@
               x.className = "topnav";
           }
       }
+
+      /* http://codepen.io/designcouch/pen/Atyop */
+      function hamburgerClicked(){
+        x = document.getElementById("nav-icon4");
+        if (x.className == "open") {
+          x.className = ""
+        }
+        else {
+          x.className = "open";
+        }
+      };
     </script>
 </nav>
