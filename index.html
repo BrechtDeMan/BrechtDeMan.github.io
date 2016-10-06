@@ -2,4 +2,17 @@
 layout: default
 ---
 
-This page is work in progress. 
+{% assign post = site.posts.first %}
+<i>Latest blog post:</i>
+<br />
+<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+
+<br />
+<br />
+
+<i>Latest open access publication:</i>
+<br />
+<a href="https://smartech.gatech.edu/bitstream/handle/1853/54595/WAC2016-67.pdf">Web Audio Evaluation Tool: A framework for subjective assessment of audio</a>
+
+<br />
+<br />
