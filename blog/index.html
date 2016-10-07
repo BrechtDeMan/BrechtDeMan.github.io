@@ -25,17 +25,14 @@ redirect_from:
 </div>
 
 <!-- This loops through the paginated posts -->
-<ul class="post-list">
+<table cellpadding="5px">
   {% for post in paginator.posts %}
-    <li>
-      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-      <h2>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </h2>
-    </li>
+    <tr>
+      <td style="white-space: nowrap;" valign="top"><span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span></td>
+      <td valign="top"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></td>
+    </tr>
   {% endfor %}
-</ul>
+</table>
 
 <!-- Pagination links - bottom -->
 <div class="pagination">
