@@ -6,10 +6,10 @@ layout: default
 <div class="PageNavigation">
 <!-- from http://david.elbe.me/jekyll/2015/06/20/how-to-link-to-next-and-previous-post-with-jekyll.html -->
   {% if page.previous.url %}
-    <a class="prev" href="{{page.previous.url}}">&laquo; Previous: {{page.previous.title | truncate: 40}}</a>
+    <a class="prev" target="_self" href="{{page.previous.url}}">&laquo; Previous: {{page.previous.title | truncate: 40}}</a>
   {% endif %}
   {% if page.next.url %}
-    <a class="next" href="{{page.next.url}}">Next: {{page.next.title | truncate: 44}} &raquo;</a>
+    <a class="next" target="_self" href="{{page.next.url}}">Next: {{page.next.title | truncate: 44}} &raquo;</a>
   {% endif %}
 </div>
 
@@ -25,10 +25,10 @@ layout: default
 <div class="PageNavigation">
 <!-- from http://david.elbe.me/jekyll/2015/06/20/how-to-link-to-next-and-previous-post-with-jekyll.html -->
   {% if page.previous.url %}
-    <a class="prev" href="{{page.previous.url}}">&laquo; Previous: {{page.previous.title | truncate: 40}}</a>
+    <a class="prev" target="_self" href="{{page.previous.url}}">&laquo; Previous: {{page.previous.title | truncate: 40}}</a>
   {% endif %}
   {% if page.next.url %}
-    <a class="next" href="{{page.next.url}}">Next: {{page.next.title | truncate: 44}} &raquo;</a>
+    <a class="next" target="_self" href="{{page.next.url}}">Next: {{page.next.title | truncate: 44}} &raquo;</a>
   {% endif %}
 </div>
 

@@ -12,6 +12,6 @@ redirect_from:
 	{% if project.webpage && project.image%}
         <a class="hovertext" href="{{ project.webpage }}" title="{{ project.name }}"><img class="hover" src="{{ project.image }}" alt="{{ project.name }}" width="150px" /></a>
     {% elsif project.image %}
-        <a class="hovertext" href="#" title="{{ project.name }}"><img class="hover" src="{{ project.image }}" alt="{{ project.name }}" width="150px" /></a>
+        <a class="hovertext" href="#" target="_self" title="{{ project.name }}"><img class="hover" src="{{ project.image }}" alt="{{ project.name }}" width="150px" /></a>
     {% endif %}
 {% endfor %}

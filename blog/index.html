@@ -6,19 +6,19 @@ redirect_from:
 - /research.html
 ---
 
-<p class="rss-subscribe"><em>Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></em></p>
+<p class="rss-subscribe"><em>Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}" target="_self">via RSS</a></em></p>
 
 
 <!-- Pagination links - top -->
 <div class="pagination">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous"><< Previous</a>
+    <a href="{{ paginator.previous_page_path }}" target="_self" class="previous"><< Previous</a>
   {% else %}
     <!-- nothing? -->
   {% endif %}
   <span class="page_number ">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next >> </a>
+    <a href="{{ paginator.next_page_path }}" target="_self" class="next">Next >> </a>
   {% else %}
     <!-- nothing? -->
   {% endif %}
@@ -29,7 +29,7 @@ redirect_from:
   {% for post in paginator.posts %}
     <tr>
       <td style="white-space: nowrap;" valign="top"><span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span></td>
-      <td valign="top"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></td>
+      <td valign="top"><a class="post-link" target="_self" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></td>
     </tr>
   {% endfor %}
 </table>
@@ -37,13 +37,13 @@ redirect_from:
 <!-- Pagination links - bottom -->
 <div class="pagination">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous"><< Previous</a>
+    <a href="{{ paginator.previous_page_path }}" target="_self" class="previous"><< Previous</a>
   {% else %}
     <!-- nothing? -->
   {% endif %}
   <span class="page_number ">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next >> </a>
+    <a href="{{ paginator.next_page_path }}" target="_self" class="next">Next >> </a>
   {% else %}
     <!-- nothing? -->
   {% endif %}
