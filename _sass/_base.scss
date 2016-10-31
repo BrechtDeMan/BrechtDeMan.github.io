@@ -315,7 +315,19 @@ ul.topnav li a {
 }
 
 /* Change color of links on hover */
-ul.topnav li a:hover {color: lighten($brand-color, 7%); text-decoration: underline;}
+ul.topnav li a:hover {
+  color: lighten($brand-color, 7%); 
+  text-decoration: underline;
+}
+
+/* Active menu items */
+ul.topnav li.active a {
+  background-color: $brand-color;
+}
+
+ul.topnav li.active a {
+  color: #FFF;
+}
 
 /* Hide the list item that contains the link that should open and close the topnav on small screens */
 ul.topnav li.icon {display: none;}

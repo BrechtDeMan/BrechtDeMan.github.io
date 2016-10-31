@@ -6,25 +6,24 @@
         <div class="trigger">
             <!-- http://www.w3schools.com/howto/howto_js_topnav.asp -->
             <ul class="topnav" id="myTopnav">
-
-                <li>
-                  <a class="page-scroll" href="/blog/" target="_self">Blog</a>
+                <li {% if page.url contains "/blog/" %}class="active"{% endif %}>
+                  <a href="/blog/" target="_self">Blog</a>
                 </li>
 
                 <li>
-                  <a class="page-scroll" href="/downloads/CV/BrechtDeMan-CV.pdf">CV</a>
+                  <a href="/downloads/CV/BrechtDeMan-CV.pdf">CV</a>
                 </li>
 
-                <li>
-                  <a class="page-scroll" href="/music/" target="_self">Music</a>
+                <li {% if page.url contains "/music/" %}class="active"{% endif %}>
+                  <a href="/music/" target="_self">Music</a>
                 </li>
 
-                <li>
-                  <a class="page-scroll" href="/publications/" target="_self">Publications</a>
+                <li {% if page.url contains "/publications/" %}class="active"{% endif %}>
+                  <a href="/publications/" target="_self">Publications</a>
                 </li>
 
-                <li>
-                  <a class="page-scroll" href="/software/" target="_self">Software</a>
+                <li {% if page.url contains "/software/" %}class="active"{% endif %}>
+                  <a href="/software/" target="_self">Software</a>
                 </li>
 
                 <li class="icon" onclick="hamburgerClicked()">
