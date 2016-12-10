@@ -1,0 +1,5 @@
+---
+name: "SAFE plugins"
+projecturl: "http://www.semanticaudio.co.uk"
+image: "/images/software/safe.png"
+---
