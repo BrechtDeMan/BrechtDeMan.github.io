@@ -23,8 +23,6 @@ redirect_from:
 
 [Nicholas Jillings](http://nicholasjillings.com/), [Brecht De Man](http://brechtdeman.com/), [David Moffat](http://davemoffat.com/), [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/index.htm) and [Ryan Stables](http://www.ryanstables.co.uk), “[Web Audio Evaluation Tool: A framework for subjective assessment of audio](https://smartech.gatech.edu/bitstream/handle/1853/54595/WAC2016-67.pdf),” 2nd Web Audio Conference, April 2016\. [[pdf](https://smartech.gatech.edu/bitstream/handle/1853/54595/WAC2016-67.pdf) &#124; [github](https://github.com/BrechtDeMan/WebAudioEvaluationTool) &#124; [SoundSoftware](https://code.soundsoftware.ac.uk/projects/webaudioevaluationtool)]
 
-[Brecht De Man](/) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/index.htm), "Crowd-sourced learning of music production practices through large-scale perceptual evaluation of mixes," Innovation In Music _(to appear)_, 2015.	
-
 [Nicholas Jillings](http://nicholasjillings.com/), [Brecht De Man](http://brechtdeman.com/), [David Moffat](http://davemoffat.com/) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/index.htm), "[Web Audio Evaluation Tool: A browser-based listening test environment](http://smcnetwork.org/node/1940)," 12th Sound and Music Computing Conference, July 2015\. [[pdf](http://smcnetwork.org/system/files/SMC2015_submission_88.pdf) &#124; [BibTeX](http://www.brechtdeman.com/publications/BibTeX-txt/smc10.txt) &#124; [github](https://github.com/BrechtDeMan/WebAudioEvaluationTool) &#124; [SoundSoftware](https://code.soundsoftware.ac.uk/projects/webaudioevaluationtool)]	
 
 [Brecht De Man](http://www.brechtdeman.com), [Brett Leonard](http://www.blpaudio.com), [Richard King](http://www.rkrecording.com) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/), “[An analysis and evaluation of audio features for multitrack music mixtures](http://www.terasoft.com.tw/conf/ismir2014/proceedings/T025_293_Paper.pdf),” 15th International Society for Music Information Retrieval Conference (ISMIR 2014), October 2014\. [[pdf](http://www.terasoft.com.tw/conf/ismir2014/proceedings/T025_293_Paper.pdf) &#124; [BibTeX](http://www.brechtdeman.com/publications/BibTeX-txt/ismir2014.txt) &#124; [poster](http://www.brechtdeman.com/publications/posters/ismir2014poster.pdf)]
@@ -55,6 +53,9 @@ redirect_from:
 
 [Brecht De Man](http://www.brechtdeman.com/) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/), “[A pairwise and multiple stimuli approach to perceptual evaluation of microphone types](http://www.aes.org/e-lib/browse.cfm?elib=16738),” 134th Convention of the Audio Engineering Society, May 2013\. [[pdf](http://www.eecs.qmul.ac.uk/~josh/documents/DeMan%20Reiss%20-%20A%20Pairwise%20and%20Multiple%20Stimuli%20Approach%20to%20Perceptual%20Evaluation%20of%20Microphone%20Types.pdf) &#124; [BibTeX](http://www.brechtdeman.com/publications/BibTeX-txt/aes134.txt) &#124; [video](https://www.youtube.com/playlist?list=PL6sBrt7VZHLwd_Nymf2qNJxipRPLCqRr4)]	
 
+### Book chapters
+
+[Brecht De Man](/) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/index.htm), "Crowd-sourced learning of music production practices through large-scale perceptual evaluation of mixes," Innovation In Music II (R. Hepworth-Sawyer, J. Hodgson, J. L. Paterson, and R. Toulson, eds.), Future Technology Press, 2016.	
 	
 
 ### Patents

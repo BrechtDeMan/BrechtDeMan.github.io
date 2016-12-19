@@ -377,7 +377,7 @@ a.hovertext {
 }
   a.hovertext:after {
     content: attr(title);
-    font-size: 24px;
+    font-size: 20px;
     text-transform: lowercase;
     position: absolute;
     left: 0;
