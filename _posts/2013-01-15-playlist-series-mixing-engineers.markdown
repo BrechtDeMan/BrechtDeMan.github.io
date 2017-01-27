@@ -2,7 +2,7 @@
 layout: post
 title:  "Playlist series: Mixing engineers"
 date:   2013-01-15 13:57:01 +0200
-tags: mixing engineering
+tags: [mix engineering]
 excerpt_separator: <!--more-->
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Double last names in BibTeX"
 date:   2016-08-04 17:46:01 +0200
-tags: developer
+tags: [developer, LaTeX]
 excerpt_separator: <!--more-->
 ---
 
