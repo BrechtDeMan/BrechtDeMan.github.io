@@ -3,6 +3,8 @@ layout: page
 title: Tags
 ---
 
+<!-- From http://pavdmyt.com/how-to-implement-tags-at-jekyll-website/ -->
+
 <!-- Get the tag name for every tag on the site and set them
 to the `site_tags` variable. -->
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
@@ -15,7 +17,7 @@ to the `site_tags` variable. -->
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
     {% capture this_word %}{{ tag_words[item] }}{% endcapture %}
     <li>
-      <a href="#{{ this_word | cgi_escape }}" class="tag">{{ this_word }}
+      <a href="#{{ this_word | cgi_escape }}" class="tag" target="_self">{{ this_word }}
         <span>({{ site.tags[this_word].size }})</span>
       </a>
     </li>
