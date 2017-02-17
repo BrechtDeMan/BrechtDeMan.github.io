@@ -1,0 +1,9 @@
+@article{deman2017perceptual,
+	Author = {De Man, Brecht and McNally, Kirk and Reiss, Joshua D.},
+	Journal = {Journal of the Audio Engineering Society},
+	Month = {January/February},
+	Number = {1/2},
+	Pages = {108--116},
+	Title = {Perceptual evaluation and analysis of reverberation in multitrack music production},
+	Volume = {65},
+	Year = {2017}}

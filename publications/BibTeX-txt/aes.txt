@@ -40,10 +40,14 @@
 	Title = {Perceptual evaluation of music mixing practices},
 	Year = {2015}}
 
-@article{macompression,
+@article{ma2015intelligent,
 	Author = {Ma, Zheng and De Man, Brecht and Pestana, Pedro Duarte and Black, Dawn A. A. and Reiss, Joshua D.},
 	Journal = {Journal of the Audio Engineering Society},
+	Month = {June},
+	Number = {6},
+	Pages = {412--426},
 	Title = {Intelligent Multitrack Dynamic Range Compression},
+	Volume = {63},
 	Year = {2015}}
 
 @conference{ronan2015subgrouping,
@@ -52,3 +56,14 @@
 	Month = {October},
 	Title = {The impact of subgrouping practices on the perception of multitrack mixes},
 	Year = {2015}}
+
+@article{deman2017perceptual,
+	Author = {De Man, Brecht and McNally, Kirk and Reiss, Joshua D.},
+	Journal = {Journal of the Audio Engineering Society},
+	Month = {January/February},
+	Number = {1/2},
+	Pages = {108--116},
+	Title = {Perceptual evaluation and analysis of reverberation in multitrack music production},
+	Volume = {65},
+	Year = {2017}}
+
