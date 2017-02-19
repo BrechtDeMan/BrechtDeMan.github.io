@@ -1,0 +1,55 @@
+\documentclass{article}
+\usepackage[parfill]{parskip}    		% Activate to begin paragraphs with an empty line rather than an indent
+
+\usepackage{hyperref} % you need this package
+
+% Make clickable footnote
+\newcommand{\hyperfootnote}[1][]{\def\ArgI{{#1}}\hyperfootnoteRelay}
+  % relay to new command to make extra optional command possible
+\newcommand\hyperfootnoteRelay[2][]{\href{#1#2}{\ArgI}\footnote{\href{#1#2}{#2}}}
+  % the first optional argument is now in \ArgI, the second is in #1
+  
+% Takes at most 3 parameters (see http://www.tex.ac.uk/FAQ-twooptarg.html for info on multiple optional parameters)
+% If first parameter isn't given, it's value is '' (empty string in text before footnote reference)
+% If second parameter isn't given, it's value is '' (string before visible URL, e.g. 'http://')
+% Makes a clickable footnote (alternatively: \url{}) with optional reference in the text as well
+% Use 1: \hyperfootnote{www.mywebsite.com}: creates a footnote consisting of a clickable URL
+% Use 2: \hyperfootnote[My website]{www.mywebsite.com}: creates a clickable piece of text in the text ('My website') plus a footnote consisting of a clickable URL
+% Note: requires the hyperref package.
+% Note: use xspace package to add/absorb spaces when necessary (e.g. to avoid a space between the footnote number and a punctuation mark)
+
+% Info on how to define a LaTeX command: https://www.sharelatex.com/learn/Commands
+
+
+\title{Minimal Working Example of the \texttt{\char`\\ hyperfootnote} command}
+	% I used \char`\\ instead of \textbackslah to avoid "Font shape `OMS/cmtt/m/n' undefined" warnings. 
+\author{Brecht De Man}
+\date{19 February 2017}
+
+
+\begin{document}
+
+\maketitle % MANDATORY! 
+
+
+	Have a look at \hyperfootnote[my website][http://]{www.brechtdeman.com}! 
+
+	You will notice that while a short URL is shown in the footnote, both the clickable text in the paragraph and the footnote itself link to the full URL, i.e. including `http://' or `https://', which you add as an optional argument. 
+
+	You can also have non-clickable text\hyperfootnote{https://www.latex-project.org} with a full clickable link as footnote if you prefer. 
+
+	\vspace{2em}
+	Syntax:\\
+	\texttt{\char`\\ hyperfootnote[<optional text>][<optional invisible URL prefix>]\char`\{URL\char`\}}\\
+	E.g. \\
+	\texttt{\char`\\ hyperfootnote[my website][http://]\char`\{www.brechtdeman.com\char`\}}\\
+	\texttt{\char`\\ hyperfootnote\char`\{https://www.latex-project.org\char`\}}\\
+
+	\vspace{2em}
+	Therefore, \\
+	\texttt{\char`\\ href\char`\{http://www.brechtdeman.com\char`\}\char`\{my website\char`\}\\
+		\char`\\ footnote\char`\{ \char`\\ href \char`\{http://www.brechtdeman.com\char`\} \char`\{www.brechtdeman.com\char`\} \char`\} } \\
+	can be replaced by \\
+	\texttt{\char`\\ hyperfootnote[my website][http://]\char`\{www.brechtdeman.com\char`\}}\\
+
+\end{document}
