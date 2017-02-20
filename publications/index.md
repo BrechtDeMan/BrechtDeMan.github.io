@@ -20,8 +20,8 @@ redirect_from:
 
 ### Journal papers
 
-[Brecht De Man](/), [Kirk McNally](http://www.stereosonic.org/phd/cv.html) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/), “[Perceptual Evaluation and Analysis of Reverberation in Multitrack Music Production](http://www.aes.org/e-lib/browse.cfm?elib=18548),” Journal of the Audio Engineering Society, Vol. 65 (1/2), pp. 108-116, January/February 2017\. 
-[[pdf](/publications/pdf/jaes-DREAMS-hires.pdf) &#124; [BibTeX](/publications/BibTeX-txt/jaes-dreams.txt)] {% include cc-by.html %}
+{% include cc-by.html %} [Brecht De Man](/), [Kirk McNally](http://www.stereosonic.org/phd/cv.html) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/), “[Perceptual Evaluation and Analysis of Reverberation in Multitrack Music Production](http://www.aes.org/e-lib/browse.cfm?elib=18548),” Journal of the Audio Engineering Society, Vol. 65 (1/2), pp. 108-116, January/February 2017\. 
+[[pdf](/publications/pdf/jaes-DREAMS-hires.pdf) &#124; [BibTeX](/publications/BibTeX-txt/jaes-dreams.txt)]
 
 [Brecht De Man](/) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/), “[Analysis of peer reviews in music production](http://arpjournal.com/analysis-of-peer-reviews-in-music-production/),” Journal on the Art of Record Production, Vol. 10, July 2015\. [[html](http://arpjournal.com/analysis-of-peer-reviews-in-music-production/) &#124; [pdf](/publications/pdf/jarp10.pdf) &#124; [BibTeX](/publications/BibTeX-txt/jarp10.txt)]	
 
@@ -29,32 +29,33 @@ redirect_from:
 
 [Brecht De Man](/) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/), “[A semantic approach to autonomous mixing](http://arpjournal.com/2639/a-semantic-approach-to-autonomous-mixing/)”, Journal on the Art of Record Production, Vol. 8, December 2013\. [[html](http://arpjournal.com/2639/a-semantic-approach-to-autonomous-mixing/) &#124; [pdf](/publications/pdf/jarp8.pdf) &#124; [BibTeX](/publications/BibTeX-txt/jarp8.txt)]	
 
-	
 
 ### Conference papers (peer-reviewed)
 
 [Ryan Stables](http://www.ryanstables.co.uk), [Sean Enderby](http://www.bcu.ac.uk/computing-engineering-and-the-built-environment/research/phd/current-students/sean-enderby), [Brecht De Man](/), [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/), [György Fazekas](http://www.eecs.qmul.ac.uk/~gyorgyf/about.html) and [Thomas Wilmering](http://www.eecs.qmul.ac.uk/people/view/4665), “[Semantic description of timbral transformations in music production](http://dl.acm.org/citation.cfm?id=2967238),” Proceedings of the ACM International Conference on Multimedia, October 2016. [[ACM Digital Library](http://dl.acm.org/citation.cfm?id=2967238) &#124; [BibTeX](/publications/BibTeX-txt/acm16.txt) &#124; [website](http://www.semanticaudio.co.uk)]
 
-[Nicholas Jillings](http://nicholasjillings.com/), [Brecht De Man](/), [David Moffat](http://davemoffat.com/), [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/index.htm) and [Ryan Stables](http://www.ryanstables.co.uk), “[Web Audio Evaluation Tool: A framework for subjective assessment of audio](https://smartech.gatech.edu/bitstream/handle/1853/54595/WAC2016-67.pdf),” 2nd Web Audio Conference, April 2016\. 
+{% include cc-by.html %} [Nicholas Jillings](http://nicholasjillings.com/), [Brecht De Man](/), [David Moffat](http://davemoffat.com/), [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/index.htm) and [Ryan Stables](http://www.ryanstables.co.uk), "[Subjective comparison of music production practices using the Web Audio Evaluation Tool](http://c4dm.eecs.qmul.ac.uk/events/wimp2/DeMan-WAET.pdf)," 2nd AES Workshop on Intelligent Music Production, September 2016\. 
+[[pdf](http://c4dm.eecs.qmul.ac.uk/events/wimp2/DeMan-WAET.pdf) &#124; [BibTeX](http://c4dm.eecs.qmul.ac.uk/events/wimp2/DeMan-WAET.bib) &#124; [github](https://github.com/BrechtDeMan/WebAudioEvaluationTool) &#124; [SoundSoftware](https://code.soundsoftware.ac.uk/projects/webaudioevaluationtool)]
+
+
+{% include cc-by.html %} [Brecht De Man](/) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/), "[The Open Multitrack Testbed: Features, content and use cases](http://c4dm.eecs.qmul.ac.uk/events/wimp2/DeMan-OMTB.pdf)," 2nd AES Workshop on Intelligent Music Production, September 2016\. 
+[[pdf](http://c4dm.eecs.qmul.ac.uk/events/wimp2/DeMan-OMTB.pdf) &#124; [BibTeX](http://c4dm.eecs.qmul.ac.uk/events/wimp2/DeMan-OMTB.bib) &#124; [website](http://multitrack.eecs.qmul.ac.uk/)]
+
+{% include cc-by.html %} [Nicholas Jillings](http://nicholasjillings.com/), [Brecht De Man](/), [David Moffat](http://davemoffat.com/), [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/index.htm) and [Ryan Stables](http://www.ryanstables.co.uk), “[Web Audio Evaluation Tool: A framework for subjective assessment of audio](https://smartech.gatech.edu/bitstream/handle/1853/54595/WAC2016-67.pdf),” 2nd Web Audio Conference, April 2016\. 
 [[pdf](https://smartech.gatech.edu/bitstream/handle/1853/54595/WAC2016-67.pdf) &#124; [BibTeX](/publications/BibTeX-txt/wac2.txt) &#124; [github](https://github.com/BrechtDeMan/WebAudioEvaluationTool) &#124; [SoundSoftware](https://code.soundsoftware.ac.uk/projects/webaudioevaluationtool)]
-{% include cc-by.html %}
 
-[Nicholas Jillings](http://nicholasjillings.com/), [Brecht De Man](/), [David Moffat](http://davemoffat.com/) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/index.htm), "[Web Audio Evaluation Tool: A browser-based listening test environment](http://smcnetwork.org/node/1940)," 12th Sound and Music Computing Conference, July 2015\. 
-[[pdf](http://smcnetwork.org/system/files/SMC2015_submission_88.pdf) &#124; [BibTeX](/publications/BibTeX-txt/smc12.txt) &#124; [github](https://github.com/BrechtDeMan/WebAudioEvaluationTool) &#124; [SoundSoftware](https://code.soundsoftware.ac.uk/projects/webaudioevaluationtool)]	
-{% include cc-by.html %}
+{% include cc-by.html %} [Nicholas Jillings](http://nicholasjillings.com/), [Brecht De Man](/), [David Moffat](http://davemoffat.com/) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/index.htm), "[Web Audio Evaluation Tool: A browser-based listening test environment](http://smcnetwork.org/node/1940)," 12th Sound and Music Computing Conference, July 2015\. 
+[[pdf](http://smcnetwork.org/system/files/SMC2015_submission_88.pdf) &#124; [BibTeX](/publications/BibTeX-txt/smc12.txt) &#124; [github](https://github.com/BrechtDeMan/WebAudioEvaluationTool) &#124; [SoundSoftware](https://code.soundsoftware.ac.uk/projects/webaudioevaluationtool)]
 
-[Brecht De Man](/), [Brett Leonard](http://www.blpaudio.com), [Richard King](http://www.rkrecording.com) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/), “[An analysis and evaluation of audio features for multitrack music mixtures](http://www.terasoft.com.tw/conf/ismir2014/proceedings/T025_293_Paper.pdf),” 15th International Society for Music Information Retrieval Conference (ISMIR 2014), October 2014\. 
+{% include cc-by.html %} [Brecht De Man](/), [Brett Leonard](http://www.blpaudio.com), [Richard King](http://www.rkrecording.com) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/), “[An analysis and evaluation of audio features for multitrack music mixtures](http://www.terasoft.com.tw/conf/ismir2014/proceedings/T025_293_Paper.pdf),” 15th International Society for Music Information Retrieval Conference (ISMIR 2014), October 2014\. 
 [[pdf](http://www.terasoft.com.tw/conf/ismir2014/proceedings/T025_293_Paper.pdf) &#124; [BibTeX](/publications/BibTeX-txt/ismir2014.txt) &#124; [poster](/publications/posters/ismir2014poster.pdf)]
-{% include cc-by.html %}
-	
 
-[Ryan Stables](http://www.ryanstables.co.uk), [Sean Enderby](http://www.bcu.ac.uk/computing-engineering-and-the-built-environment/research/phd/current-students/sean-enderby), [Brecht De Man](/), [György Fazekas](http://www.eecs.qmul.ac.uk/~gyorgyf/about.html) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/), “[SAFE: A system for the extraction and retrieval of semantic audio descriptors](http://www.terasoft.com.tw/conf/ismir2014/LBD/LBD15.pdf),” 15th International Society for Music Information Retrieval Conference (ISMIR 2014), October 2014\. 
-[[pdf](http://www.terasoft.com.tw/conf/ismir2014/LBD/LBD15.pdf) &#124; [BibTeX](/publications/BibTeX-txt/ismir2014LBD.txt) &#124; [poster](/publications/posters/ismir2014LBDposter.pdf) &#124; [website](http://www.semanticaudio.co.uk)]	
-{% include cc-by.html %}
+
+{% include cc-by.html %} [Ryan Stables](http://www.ryanstables.co.uk), [Sean Enderby](http://www.bcu.ac.uk/computing-engineering-and-the-built-environment/research/phd/current-students/sean-enderby), [Brecht De Man](/), [György Fazekas](http://www.eecs.qmul.ac.uk/~gyorgyf/about.html) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/), “[SAFE: A system for the extraction and retrieval of semantic audio descriptors](http://www.terasoft.com.tw/conf/ismir2014/LBD/LBD15.pdf),” 15th International Society for Music Information Retrieval Conference (ISMIR 2014), October 2014\. 
+[[pdf](http://www.terasoft.com.tw/conf/ismir2014/LBD/LBD15.pdf) &#124; [BibTeX](/publications/BibTeX-txt/ismir2014LBD.txt) &#124; [poster](/publications/posters/ismir2014LBDposter.pdf) &#124; [website](http://www.semanticaudio.co.uk)]
 
 [Brecht De Man](/) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/), “[Adaptive control of amplitude distortion effects](http://www.aes.org/e-lib/browse.cfm?elib=17118),” 53rd Conference of the Audio Engineering Society, January 2014\. [[pdf](http://www.eecs.qmul.ac.uk/~josh/documents/DeMan%20Reiss%20-%20AES53.pdf) &#124; [BibTeX](/publications/BibTeX-txt/aes53.txt) &#124; [poster](/publications/posters/aes53poster.pdf)]	
 
-	
 
 ### Conference papers (extended abstract peer-reviewed)
 
