@@ -6,7 +6,7 @@ redirect_from:
 ---
 
 <div class="distribute">
-	<div><a href="http://scholar.google.co.uk/citations?user=3ndnho0AAAAJ" target="_blank">Google Scholar</a></div> &#124; <div><a href="https://qmul.academia.edu/BrechtDeMan" target="_blank">Academia.edu</a></div>&#124;
+	<div><a href="http://scholar.google.co.uk/citations?user=3ndnho0AAAAJ" target="_blank">Google&nbsp;Scholar</a></div> &#124; <div><a href="https://qmul.academia.edu/BrechtDeMan" target="_blank">Academia.edu</a></div>&#124;
 	<div><a href="http://uk.linkedin.com/in/brechtdeman/" target="_blank">LinkedIn</a></div>
 	&#124;
 	<div><a href="/publications/bibliography.bib" target="_blank">BibTeX</a></div>
