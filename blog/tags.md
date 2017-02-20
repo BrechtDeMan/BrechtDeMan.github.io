@@ -29,16 +29,21 @@ to the `site_tags` variable. -->
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
     {% capture this_word %}{{ tag_words[item] }}{% endcapture %}
     <h2 id="{{ this_word | cgi_escape }}">{{ this_word }}</h2>
+    <table width="100%">
     {% for post in site.tags[this_word] %}{% if post.title != null %}
-      <div>
-        <span style="float: left;">
-          <a href="{{ post.url }}" target="_self">{{ post.title }}</a>
-        </span>
-        <span style="float: right;">
-          {{ post.date | date_to_string }}
-        </span>
-      </div>
-      <div style="clear: both;"></div>
+      <tr>
+        <td>
+          <span style="float: left; text-align: left;">
+            <a href="{{ post.url }}" target="_self">{{ post.title }}</a>
+          </span>
+        </td>
+        <td>
+          <span style="float: right; text-align: right; white-space: nowrap;">
+            {{ post.date | date_to_string }}
+          </span>
+        </td>
+      </tr>
     {% endif %}{% endfor %}
+    </table>
   {% endunless %}{% endfor %}
 </div>
