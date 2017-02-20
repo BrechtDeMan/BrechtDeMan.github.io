@@ -1,0 +1,8 @@
+@incollection{deman2015crowdsourced,
+	Author = {De Man, Brecht and Reiss, Joshua D.},
+	Booktitle = {Innovation in Music II},
+	Editor = {Hepworth-Sawyer, Russ and Hodgson, Jay and Paterson, Justin L. and Toulson, Rob},
+	Publisher = {Future Technology Press},
+	Title = {Crowd-sourced learning of music production practices through large-scale perceptual evaluation of mixes},
+	Year = {2016}}
+	

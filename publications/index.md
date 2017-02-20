@@ -5,7 +5,16 @@ redirect_from:
 - /publications.html
 ---
 
-[Google Scholar](http://scholar.google.co.uk/citations?user=3ndnho0AAAAJ)   &#124;   [Academia.edu](https://qmul.academia.edu/BrechtDeMan)    &#124;   [LinkedIn](http://uk.linkedin.com/in/brechtdeman/)   &#124;   [BibTeX](/publications/bibliography.bib)   &#124;   [ResearchGate](https://www.researchgate.net/profile/Brecht_De_Man)   &#124;    [pdf](/publications/PublicationsList.pdf)
+<div class="distribute">
+	<div><a href="http://scholar.google.co.uk/citations?user=3ndnho0AAAAJ" target="_blank">Google Scholar</a></div> &#124; <div><a href="https://qmul.academia.edu/BrechtDeMan" target="_blank">Academia.edu</a></div>&#124;
+	<div><a href="http://uk.linkedin.com/in/brechtdeman/" target="_blank">LinkedIn</a></div>
+	&#124;
+	<div><a href="/publications/bibliography.bib" target="_blank">BibTeX</a></div>
+	&#124;
+	<div><a href="https://www.researchgate.net/profile/Brecht_De_Man" target="_blank">ResearchGate</a></div>
+	&#124;
+	<div><a href="/publications/PublicationsList.pdf" target="_blank">pdf</a></div>
+</div>
 
 ### Journal papers
 
@@ -22,14 +31,14 @@ redirect_from:
 
 ### Conference papers (peer-reviewed)
 
-[Ryan Stables](http://www.ryanstables.co.uk), [Sean Enderby](http://www.bcu.ac.uk/computing-engineering-and-the-built-environment/research/phd/current-students/sean-enderby), [Brecht De Man](/), [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/), [György Fazekas](http://www.eecs.qmul.ac.uk/~gyorgyf/about.html) and [Thomas Wilmering](http://www.eecs.qmul.ac.uk/people/view/4665), “[Semantic description of timbral transformations in music production](http://dl.acm.org/citation.cfm?id=2967238),” Proceedings of the ACM International Conference on Multimedia, October 2016. [[website](http://www.semanticaudio.co.uk)]
+[Ryan Stables](http://www.ryanstables.co.uk), [Sean Enderby](http://www.bcu.ac.uk/computing-engineering-and-the-built-environment/research/phd/current-students/sean-enderby), [Brecht De Man](/), [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/), [György Fazekas](http://www.eecs.qmul.ac.uk/~gyorgyf/about.html) and [Thomas Wilmering](http://www.eecs.qmul.ac.uk/people/view/4665), “[Semantic description of timbral transformations in music production](http://dl.acm.org/citation.cfm?id=2967238),” Proceedings of the ACM International Conference on Multimedia, October 2016. [[ACM Digital Library](http://dl.acm.org/citation.cfm?id=2967238) &#124; [BibTeX](/publications/BibTeX-txt/acm16.txt) &#124; [website](http://www.semanticaudio.co.uk)]
 
 [Nicholas Jillings](http://nicholasjillings.com/), [Brecht De Man](/), [David Moffat](http://davemoffat.com/), [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/index.htm) and [Ryan Stables](http://www.ryanstables.co.uk), “[Web Audio Evaluation Tool: A framework for subjective assessment of audio](https://smartech.gatech.edu/bitstream/handle/1853/54595/WAC2016-67.pdf),” 2nd Web Audio Conference, April 2016\. 
-[[pdf](https://smartech.gatech.edu/bitstream/handle/1853/54595/WAC2016-67.pdf) &#124; [github](https://github.com/BrechtDeMan/WebAudioEvaluationTool) &#124; [SoundSoftware](https://code.soundsoftware.ac.uk/projects/webaudioevaluationtool)]
+[[pdf](https://smartech.gatech.edu/bitstream/handle/1853/54595/WAC2016-67.pdf) &#124; [BibTeX](/publications/BibTeX-txt/wac2.txt) &#124; [github](https://github.com/BrechtDeMan/WebAudioEvaluationTool) &#124; [SoundSoftware](https://code.soundsoftware.ac.uk/projects/webaudioevaluationtool)]
 {% include cc-by.html %}
 
 [Nicholas Jillings](http://nicholasjillings.com/), [Brecht De Man](/), [David Moffat](http://davemoffat.com/) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/index.htm), "[Web Audio Evaluation Tool: A browser-based listening test environment](http://smcnetwork.org/node/1940)," 12th Sound and Music Computing Conference, July 2015\. 
-[[pdf](http://smcnetwork.org/system/files/SMC2015_submission_88.pdf) &#124; [BibTeX](/publications/BibTeX-txt/smc10.txt) &#124; [github](https://github.com/BrechtDeMan/WebAudioEvaluationTool) &#124; [SoundSoftware](https://code.soundsoftware.ac.uk/projects/webaudioevaluationtool)]	
+[[pdf](http://smcnetwork.org/system/files/SMC2015_submission_88.pdf) &#124; [BibTeX](/publications/BibTeX-txt/smc12.txt) &#124; [github](https://github.com/BrechtDeMan/WebAudioEvaluationTool) &#124; [SoundSoftware](https://code.soundsoftware.ac.uk/projects/webaudioevaluationtool)]	
 {% include cc-by.html %}
 
 [Brecht De Man](/), [Brett Leonard](http://www.blpaudio.com), [Richard King](http://www.rkrecording.com) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/), “[An analysis and evaluation of audio features for multitrack music mixtures](http://www.terasoft.com.tw/conf/ismir2014/proceedings/T025_293_Paper.pdf),” 15th International Society for Music Information Retrieval Conference (ISMIR 2014), October 2014\. 
@@ -66,7 +75,7 @@ redirect_from:
 
 ### Book chapters
 
-[Brecht De Man](/) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/index.htm), "Crowd-sourced learning of music production practices through large-scale perceptual evaluation of mixes," Innovation In Music II (R. Hepworth-Sawyer, J. Hodgson, J. L. Paterson, and R. Toulson, eds.), Future Technology Press, 2016.	
+[Brecht De Man](/) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/index.htm), "Crowd-sourced learning of music production practices through large-scale perceptual evaluation of mixes," Innovation In Music II (R. Hepworth-Sawyer, J. Hodgson, J. L. Paterson, and R. Toulson, eds.), Future Technology Press, 2016.	[[BibTeX](/publications/BibTeX-txt/inmusic2.txt)]	
 	
 
 ### Patents

@@ -1,0 +1,6 @@
+@conference{stables2016semantic,
+	Author = {Stables, Ryan and Enderby, Sean and De Man, Brecht and Reiss, Joshua D. and Fazekas, Gy\"{o}rgy and Wilmering, Thomas},
+	Booktitle = {Proceedings of the ACM International Conference on Multimedia},
+	Month = {October},
+	Title = {Semantic Description of Timbral Transformations in Music Production},
+	Year = {2016}}

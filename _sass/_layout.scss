@@ -332,3 +332,11 @@
 .tag:hover::after {
    border-left-color: $brand-color; 
 }
+
+/*
+ * distribute evenly over width
+ */
+.distribute {
+ display: flex;
+ justify-content: space-between;
+}
