@@ -18,6 +18,11 @@ redirect_from:
 
 <br>
 
+### Book chapters
+
+[Brecht De Man](/) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/index.htm), "Crowd-sourced learning of music production practices through large-scale perceptual evaluation of mixes," Innovation In Music II (R. Hepworth-Sawyer, J. Hodgson, J. L. Paterson, and R. Toulson, eds.), Future Technology Press, 2016.	[[pdf](http://www.eecs.qmul.ac.uk/~josh/documents/2015/deman2015inmusic.pdf) &#124; [BibTeX](/publications/BibTeX-txt/inmusic2.txt) &#124; [Amazon](https://www.amazon.co.uk/d/cka/Innovation-Music-KES-Transactions-Russ-Hepworth-Sawyer/1911108042/) &#124; [Google Books](https://books.google.be/books?id=1OLvDQAAQBAJ)]	
+
+
 ### Journal papers
 
 {% include cc-by.html %} [Brecht De Man](/), [Kirk McNally](http://www.stereosonic.org/phd/cv.html) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/), “[Perceptual Evaluation and Analysis of Reverberation in Multitrack Music Production](http://www.aes.org/e-lib/browse.cfm?elib=18548),” Journal of the Audio Engineering Society, Vol. 65 (1/2), pp. 108-116, January/February 2017\. 
@@ -30,7 +35,9 @@ redirect_from:
 [Brecht De Man](/) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/), “[A semantic approach to autonomous mixing](http://arpjournal.com/2639/a-semantic-approach-to-autonomous-mixing/)”, Journal on the Art of Record Production, Vol. 8, December 2013\. [[html](http://arpjournal.com/2639/a-semantic-approach-to-autonomous-mixing/) &#124; [pdf](/publications/pdf/jarp8.pdf) &#124; [BibTeX](/publications/BibTeX-txt/jarp8.txt)]	
 
 
-### Conference papers (peer-reviewed)
+### Conference papers
+
+#### Peer-reviewed
 
 [Ryan Stables](http://www.ryanstables.co.uk), [Brecht De Man](/), [Sean Enderby](http://www.bcu.ac.uk/computing-engineering-and-the-built-environment/research/phd/current-students/sean-enderby), [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/), [György Fazekas](http://www.eecs.qmul.ac.uk/~gyorgyf/about.html) and [Thomas Wilmering](http://www.eecs.qmul.ac.uk/people/view/4665), “[Semantic description of timbral transformations in music production](http://dl.acm.org/citation.cfm?id=2967238),” Proceedings of the ACM International Conference on Multimedia, October 2016. [[ACM Digital Library](http://dl.acm.org/citation.cfm?id=2967238) &#124; [BibTeX](/publications/BibTeX-txt/acm16.txt) &#124; [website](http://www.semanticaudio.co.uk)]
 
@@ -57,7 +64,7 @@ redirect_from:
 [Brecht De Man](/) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/), “[Adaptive control of amplitude distortion effects](http://www.aes.org/e-lib/browse.cfm?elib=17118),” 53rd Conference of the Audio Engineering Society, January 2014\. [[pdf](http://www.eecs.qmul.ac.uk/~josh/documents/DeMan%20Reiss%20-%20AES53.pdf) &#124; [BibTeX](/publications/BibTeX-txt/aes53.txt) &#124; [poster](/publications/posters/aes53poster.pdf)]	
 
 
-### Conference papers (extended abstract peer-reviewed)
+#### Extended abstract peer-reviewed
 
 [David M. Ronan](https://scholar.google.com/citations?user=y52JSI4AAAAJ&hl=en), [Brecht De Man](/), [Hatice Gunes](http://www.eecs.qmul.ac.uk/~hatice/) and [Joshua D. Reiss](http://www.elec.qmul.ac.uk/people/josh/index.htm), "[The impact of subgrouping practices on the perception of multitrack mixes](http://www.aes.org/e-lib/browse.cfm?elib=17998)," 139th Convention of the Audio Engineering Society, October 2015\. [[pdf](http://www.eecs.qmul.ac.uk/~josh/documents/2015/Ronan%20-%20The%20impact%20of%20subgrouping%20practices%20on%20the%20perception%20of%20multitrack%20mixes.pdf) &#124; [BibTeX](/publications/BibTeX-txt/aes139.txt)]	
 	
@@ -74,12 +81,7 @@ redirect_from:
 [Brecht De Man](/) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/), “[A knowledge-engineered autonomous mixing system](http://www.aes.org/e-lib/browse.cfm?elib=17011),” 135th Convention of the Audio Engineering Society, October 2013\. [[pdf](http://www.eecs.qmul.ac.uk/~josh/documents/De%20Man%20Reiss%20-%20AES135.pdf) &#124; [BibTeX](/publications/BibTeX-txt/aes135.txt) &#124; [podcast](http://www.thenakedscientists.com/HTML/interviews/interview/1001571/)]
 	
 
-[Brecht De Man](/) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/), “[A pairwise and multiple stimuli approach to perceptual evaluation of microphone types](http://www.aes.org/e-lib/browse.cfm?elib=16738),” 134th Convention of the Audio Engineering Society, May 2013\. [[pdf](http://www.eecs.qmul.ac.uk/~josh/documents/DeMan%20Reiss%20-%20A%20Pairwise%20and%20Multiple%20Stimuli%20Approach%20to%20Perceptual%20Evaluation%20of%20Microphone%20Types.pdf) &#124; [BibTeX](/publications/BibTeX-txt/aes134.txt) &#124; [video](https://www.youtube.com/playlist?list=PL6sBrt7VZHLwd_Nymf2qNJxipRPLCqRr4)]	
-
-### Book chapters
-
-[Brecht De Man](/) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/index.htm), "Crowd-sourced learning of music production practices through large-scale perceptual evaluation of mixes," Innovation In Music II (R. Hepworth-Sawyer, J. Hodgson, J. L. Paterson, and R. Toulson, eds.), Future Technology Press, 2016.	[[pdf](http://www.eecs.qmul.ac.uk/~josh/documents/2015/deman2015inmusic.pdf) &#124; [BibTeX](/publications/BibTeX-txt/inmusic2.txt) &#124; [Amazon](https://www.amazon.co.uk/d/cka/Innovation-Music-KES-Transactions-Russ-Hepworth-Sawyer/1911108042/) &#124; [Google Books](https://books.google.be/books?id=1OLvDQAAQBAJ)]	
-	
+[Brecht De Man](/) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/), “[A pairwise and multiple stimuli approach to perceptual evaluation of microphone types](http://www.aes.org/e-lib/browse.cfm?elib=16738),” 134th Convention of the Audio Engineering Society, May 2013\. [[pdf](http://www.eecs.qmul.ac.uk/~josh/documents/DeMan%20Reiss%20-%20A%20Pairwise%20and%20Multiple%20Stimuli%20Approach%20to%20Perceptual%20Evaluation%20of%20Microphone%20Types.pdf) &#124; [BibTeX](/publications/BibTeX-txt/aes134.txt) &#124; [video](https://www.youtube.com/playlist?list=PL6sBrt7VZHLwd_Nymf2qNJxipRPLCqRr4)]		
 
 ### Patents
 
