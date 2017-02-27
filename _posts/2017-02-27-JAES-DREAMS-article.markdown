@@ -6,12 +6,19 @@ tags: [research, mix engineering]
 excerpt_separator: <!--more-->
 ---
 
+[Brecht De Man](/), [Kirk McNally](http://www.stereosonic.org/phd/cv.html) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/), “[Perceptual Evaluation and Analysis of Reverberation in Multitrack Music Production](http://www.aes.org/e-lib/browse.cfm?elib=18548),” Journal of the Audio Engineering Society, Vol. 65 (1/2), pp. 108-116, January/February 2017\. 
+[[pdf](/publications/pdf/jaes-DREAMS-hires.pdf) &#124; [BibTeX](/publications/BibTeX-txt/jaes-dreams.txt)]
+
+* * * 
+
+<br>
+
 It is with great pleasure that I present a writeup of my latest research project on the perception of reverb in music production, which appeared in [this month's issue of the Journal of the Audio Engineering Society](http://www.aes.org/journal/online/JAES_V65/1_2/). 
 A tip of the veil was lifted at last year's [60th International AES Conference on Dereverberation and Reverberation of Audio, Music, and Speech](http://www.aes.org/conferences/60/) (yes, DREAMS) in Leuven, Belgium, where I presented a poster on preliminary work in this area and was invited to give a [tutorial on artificial reverberation in music production](http://www.brechtdeman.com/blog/aes60-dreams-conference.html). Speakers at this conference were encouraged to submit their extended work to this special issue of the JAES, to which anyone could contribute. 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Automatic mix diagnostics: a thing of the future? Find out this Thursday &amp; Friday at the <a href="https://twitter.com/AESorg">@AESorg</a> <a href="https://twitter.com/hashtag/AES60?src=hash">#AES60</a> conference! <a href="https://t.co/idXdXr9KiV">pic.twitter.com/idXdXr9KiV</a></p>&mdash; Brecht De Man (@BrechtDeMan) <a href="https://twitter.com/BrechtDeMan/status/694608488576765952">February 2, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*Announcement of my lecture which somehow went viral*
+*Announcement of my 2016 lecture which somehow went viral*
 
 This work, which started mid-2015 and saw its final paper review in October 2016, was also an important component of the PhD dissertation I submitted last month. In a way, the whole thesis came together in this project, which proved the concept of understanding a mix process and its impact on perception based on quantitative analysis and subjective evaluation of a corpus of mixes. 
 
