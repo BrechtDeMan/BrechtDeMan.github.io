@@ -12,7 +12,7 @@ This is my Valentine’s gift to you: I took it upon myself to streamline the or
 
 To make sure I would get something out of it myself as well, I forced myself to write it in [Python](https://www.python.org) and get some experience with this very hip and happening language all the cool kids seem to be using, endorsed by among others Randall Munroe ([xkcd](http://xkcd.com)):   
 
-![Picture](/uploads/3/4/4/2/34427003/385724302.png)
+![XKCD: Python](https://imgs.xkcd.com/comics/python.png)
 
 Conversely, if you type  
 
@@ -29,9 +29,9 @@ Also related to xkcd, there is a [Python library](https://pypi.python.org/pypi/
 Back to the Secret Valentine/Secret Santa problem.   
 To be precise, I have used Python before but never beyond introductory exercises, [Software Carpentry](http://software-carpentry.org) workshops, maintaining and debugging scripts from [The Open Multitrack Testbed](http://multitrack.eecs.qmul.ac.uk) (an online multitrack audio repository with semantic database that I recently launched), modelling the navigation system for a robot (modded [Roomba](http://www.irobot.com/For-the-Home/Vacuum-Cleaning/Roomba.aspx)) I helped develop as an undergraduate - I’m told one of them is known as ‘BDM’ and still happily driving around in [IBCN](https://www.ibcn.intec.ugent.be)'s wireless lab at [UGent](https://www.ibcn.intec.ugent.be).   
 
-[![Picture](/uploads/3/4/4/2/34427003/4314438_orig.jpg)](/uploads/3/4/4/2/34427003/4314438_orig.jpg)
+![Valentine preparations](/images/blog/2015/02/valentine-preparation.jpg)
 
-Preparations for the Secret Valentine event by @YvBellingen
+*Preparations for the Secret Valentine event by my partner*
 
 
 While there is some excellent work on elegant solutions to this problem, many rooted in graph theory, I’ve chosen the lazy route - also known as efficient in terms of coding effort if slightly inefficient from a computation point of view. After all it is a weekend project, a solution for a fairly mundane task, that I already spent way too much time on (mainly Googling Python syntax). But as it hurts the proud coder in me, I may update this at some point.   
@@ -56,7 +56,7 @@ If a randomly generated vector did not meet any of these requirements for any el
 
 **Intermezzo:** an [xkcd](http://xkcd.com/1016/) comic about Valentine's day:
 
-![Picture](/uploads/3/4/4/2/34427003/553440289.png)
+![XKCD: Valentine Dilemma](https://imgs.xkcd.com/comics/valentine_dilemma.png)
 
 I created a different Python ‘module’ for pairing and sending out emails, as I wanted to send the organisers of the event a proposal of ‘pairs’ of people, before sending emails to everyone (sending more than one email was not an option).   
 
@@ -69,10 +69,8 @@ It can be a definite drawback that the code is not checked as much as e.g. C++, 
 I have found XCode to be a dreadful editor for Python, even if I like it for C++. I will have to look into other editors (I know there are more than enough out there).   
 
 
-> Going [#Python](https://twitter.com/hashtag/Python?src=hash). Are most on 3.x? How about libraries (especially music&audio related)? [@functiontelechy](https://twitter.com/functiontelechy) [@utstikkar](https://twitter.com/utstikkar) [@chris_cannam](https://twitter.com/chris_cannam) [@RDCLayne](https://twitter.com/RDCLayne)
-> 
-> — Brecht De Man (@BrechtDeMan) [January 12, 2015](https://twitter.com/BrechtDeMan/status/554616315936530432)
-
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Going <a href="https://twitter.com/hashtag/Python?src=hash">#Python</a>. Are most on 3.x? How about libraries (especially music&amp;audio related)? <a href="https://twitter.com/functiontelechy">@functiontelechy</a> <a href="https://twitter.com/utstikkar">@utstikkar</a> <a href="https://twitter.com/chris_cannam">@chris_cannam</a> <a href="https://twitter.com/RDCLayne">@RDCLayne</a></p>&mdash; Brecht De Man (@BrechtDeMan) <a href="https://twitter.com/BrechtDeMan/status/554616315936530432">January 12, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 It seems many are still on version 2.7, even if Python 3 is available and many libraries have been ported to this version - see the above [conversation](https://twitter.com/BrechtDeMan/status/554616315936530432) on Twitter.   
 
@@ -80,7 +78,7 @@ On another note, I have found that documenting my work with a blog post such as 
 
 Finally, I haven’t been able to find a nice alliterating name for a Valentine’s Secret Santa (Veiled Valentine?). All suggestions are welcome.   
 
-[![Picture](/uploads/3/4/4/2/34427003/8015391_orig.jpg)](/uploads/3/4/4/2/34427003/8015391_orig.jpg)
+![Valentine event](/images/blog/2015/02/valentine-event.jpg)
 
 Secret Valentine event
 

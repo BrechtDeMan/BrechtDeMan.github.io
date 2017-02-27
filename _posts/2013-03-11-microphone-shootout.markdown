@@ -13,10 +13,13 @@ This post merely supports the paper and provides some interesting audio and vide
 Please note that due to a wrong position of the Sennheiser MD421-II (facing sideways), its data is irrelevant. 
 
 The preamp settings (Focusrite ISA 428 MkII) were as follows, to obtain roughly equal levels at the converter stage (SSL Alphalink MADI AX):
+![Focusrite ISA 428 MkII](/images/blog/2013/03/isa428.jpg)
 
 The singer in front of the microphone array:
+![Picture](/images/blog/2013/03/maria.jpg)
 
 The microphone array from another perspective:
+![Microphone array](/images/blog/2013/03/mic-array.jpg)
 
 Audio and video (per fragment; each fragment is shown eight times with audio from one of eight different microphones):
 

@@ -27,9 +27,9 @@ Resources can be found here: 
 *   the impulse responses from the [left](http://brechtdeman.com/downloads/Left-01.wav) and [right](http://brechtdeman.com/downloads/Right-01.wav) speaker in the CIRMMT Critical Listening lab (44.1 kHz/24 bit PCM WAV files), with the power spectral density plotted below. 
 
 
-[![PSD left](/uploads/3/4/4/2/34427003/2171298.png?557)](/uploads/3/4/4/2/34427003/2171298_orig.png?557)
+![PSD left](/images/blog/2015/05/psd-left.png)
 
-[![PSD right](/uploads/3/4/4/2/34427003/8906241.png?557)](/uploads/3/4/4/2/34427003/8906241_orig.png?557)
+![PSD right](/images/blog/2015/05/psd-right.png)
 
 
 Impulse responses recorded and graphs plotted by Brett Leonard, with the MATLAB script below.
@@ -65,7 +65,6 @@ toc;
 Furthermore, the resampling of the audio from 96 kHz or 88.2 kHz to 44.1 kHz, for feature extraction from a more perceptually relevant range, was done using [SoX](http://sox.sourceforge.net). The performance of SoX can be compared to other resampling algorithms at [src.infinitewave.ca](http://src.infinitewave.ca). 
 
 
-> HQ batch [#audio](https://twitter.com/hashtag/audio?src=hash) resampling: for i in *.wav; do sox [$i](https://twitter.com/search?q=%24i&src=ctag) -b 24 temp.wav rate -v 48k; done w/ [@TheBaronHimself](https://twitter.com/TheBaronHimself) [#SoX](https://twitter.com/hashtag/SoX?src=hash) [pic.twitter.com/6KfaHBQ0jP](http://t.co/6KfaHBQ0jP)
-> 
-> — Brecht De Man ([@BrechtDeMan](https://twitter.com/BrechtDeMan)) [February 12, 2015](https://twitter.com/BrechtDeMan/status/566008411897462784)
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">HQ batch <a href="https://twitter.com/hashtag/audio?src=hash">#audio</a> resampling: for i in *.wav; do sox <a href="https://twitter.com/search?q=%24i&amp;src=ctag">$i</a> -b 24 temp.wav rate -v 48k; done<br>w/ <a href="https://twitter.com/TheBaronHimself">@TheBaronHimself</a> <a href="https://twitter.com/hashtag/SoX?src=hash">#SoX</a> <a href="http://t.co/6KfaHBQ0jP">pic.twitter.com/6KfaHBQ0jP</a></p>&mdash; Brecht De Man (@BrechtDeMan) <a href="https://twitter.com/BrechtDeMan/status/566008411897462784">February 12, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

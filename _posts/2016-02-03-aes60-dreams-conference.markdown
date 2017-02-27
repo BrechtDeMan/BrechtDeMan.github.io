@@ -19,9 +19,9 @@ This is illustrated using over two thousand 'mix reviews' from experiments at si
 
 The perceptual evaluation tool developed for this purpose, the [Web Audio Evaluation Tool](https://code.soundsoftware.ac.uk/projects/webaudioevaluationtool/), is available to the public and feedback is most welcome. 
 
-![Picture](/uploads/3/4/4/2/34427003/7272395_orig.png)
+![WAET interface](/images/blog/2016/02/WAET-interface.jpeg)
 
-Web Audio Evaluation Tool: example interface
+*Web Audio Evaluation Tool: example interface*
 
 Most of the audio used in these mix experiments is licensed under Creative Commons and can therefore be shared freely. Raw audio tracks, mixes and even DAW session files can be found on the [Open Multitrack Testbed](http://multitrack.eecs.qmul.ac.uk).   
 
