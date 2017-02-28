@@ -16,6 +16,8 @@ excerpt_separator: <!--more-->
 It is with great pleasure that I present a writeup of my latest research project on the perception of reverb in music production, which appeared in [this month's issue of the Journal of the Audio Engineering Society](http://www.aes.org/journal/online/JAES_V65/1_2/). 
 A tip of the veil was lifted at last year's [60th International AES Conference on Dereverberation and Reverberation of Audio, Music, and Speech](http://www.aes.org/conferences/60/) (yes, DREAMS) in Leuven, Belgium, where I presented a poster on preliminary work in this area and was invited to give a [tutorial on artificial reverberation in music production](http://www.brechtdeman.com/blog/aes60-dreams-conference.html). Speakers at this conference were encouraged to submit their extended work to this special issue of the JAES, to which anyone could contribute. 
 
+<!--more-->
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Automatic mix diagnostics: a thing of the future? Find out this Thursday &amp; Friday at the <a href="https://twitter.com/AESorg">@AESorg</a> <a href="https://twitter.com/hashtag/AES60?src=hash">#AES60</a> conference! <a href="https://t.co/idXdXr9KiV">pic.twitter.com/idXdXr9KiV</a></p>&mdash; Brecht De Man (@BrechtDeMan) <a href="https://twitter.com/BrechtDeMan/status/694608488576765952">February 2, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *Announcement of my 2016 lecture which somehow went viral*
@@ -24,8 +26,6 @@ This work, which started mid-2015 and saw its final paper review in October 2016
 
 The article is Open Access, which means anyone can read it, even without membership of the Audio Engineering Society (in my opinion there are many other reasons to become an AES member, one of which is unlimited access to the complete AES library). 
 It is also published under a [Creative Commons 'CC BY' license](https://creativecommons.org/licenses/by/4.0/), meaning you can do whatever you want with it such as reusing exact or modified excerpts from the paper, including figures, as long as you credit the authors. 
-
-<!--more-->
 
 ### Summary
 
