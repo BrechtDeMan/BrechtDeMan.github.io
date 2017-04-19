@@ -18,7 +18,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.brechtdeman.com" # the base hostname & protocol for your site
 twitter_username: BrechtDeMan
 github_username:  BrechtDeMan
-stackoverflow_username: 3193542/bdm
+stackoverflow_username: 3193542/brechtdeman
 linkedin_username: BrechtDeMan
 facebook_username: BrechtDeMan
 scholar_username: 3ndnho0AAAAJ
