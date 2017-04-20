@@ -30,13 +30,15 @@ If you just want to run the script, copy this to the Terminal application line b
 
 {% highlight bash %}
 $ brew install coreutils
+$ cd /Users/John/Library/Messages/Attachments/
+$ mkdir /Users/John/Pictures/iMessage/
 $ OIFS="$IFS"
 $ IFS=$"\n"
-$ find /Users/John/Library/Messages/ -type f | while read f; do gcp --backup=t $ "${f}" "/Users/John/Pictures/iMessage/""$(gdate -r "$f" +"%Y%m%d")"-"$(basename $f)"; done
+$ find . -type f | while read f; do gcp --backup=t "${f}" "/Users/John/Pictures/iMessage/""$(gdate -r "$f" +"%Y%m%d")"-"$(basename $f)"; done
 $ IFS="$OIFS"
 {% endhighlight %}
 
-Make sure to replace both instances of 'John' with the name of your home folder. If you are not sure about this, type `cd ~` and hit enter in the Terminal, then type `pwd` and hit enter to see the correct path of the form `Users/[your_name]`. 
+Make sure to replace all instances of 'John' with the name of your home folder. If you are not sure about this, type `cd ~` and hit enter in the Terminal, then type `pwd` and hit enter to see the correct path of the form `/Users/[your_name]`. 
 
 
 ### Get the GNU developer tools
@@ -90,7 +92,7 @@ $ IFS="$OIFS"
 
 ### Putting it all together
 
-The following bash script copies all files in the current folder `.` (including subdirectories) to the `~/Pictures/iMessage/` folder. Note that the originals will still be there, so this is a non-destructive operation. 
+The following bash script copies all files in the current folder `.`, including subdirectories, to the (existing!) `~/Pictures/iMessage/` folder. Note that the originals will still be there, so this is a non-destructive operation. 
 
 {% highlight bash %}
 $ OIFS="$IFS"
