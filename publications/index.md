@@ -89,6 +89,14 @@ redirect_from:
 
 [Michael J. Terrell](https://www.linkedin.com/pub/michael-terrell/89/a38/464), [Stuart Mansbridge](https://www.linkedin.com/in/stuartmansbridge), [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/) and [Brecht De Man](/), “[System and method for performing automatic audio production using semantic data](https://www.google.com/patents/US20150066481),” US Patent App. 14-471,758, 5 March 2015\. [[Google Patents](https://www.google.com/patents/US20150066481) &#124; [USPTO](http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&s1=20150066481.PGNR.) &#124; [EPO](http://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2015066481A1&KC=A1&FT=D)]	
 
+### Theses
+
+[Brecht De Man](/), “Towards a better understanding of mix engineering,” PhD dissertation, School of Electronic Engineering and Computer Science, Queen Mary University of London, 2017.
+
+[Brecht De Man](/), “[Active compensation for room-independent sound
+reproduction](http://lib.ugent.be/nl/catalog/rug01:001887039),” MSc dissertation, Department of Information Technology, University of Ghent, 2012. [[pdf](http://lib.ugent.be/fulltxt/RUG01/001/887/039/RUG01-001887039_2012_0001_AC.pdf)]
+
+
 
 * * *
 
@@ -120,9 +128,7 @@ _Honourable Mention in the Engineering Sciences category in honour and recogniti
 ### Scholarly service
 
 - Reviewer for the [Journal of the Audio Engineering Society](http://www.aes.org/journal/) and [Audio Engineering Society conventions](http://www.aes.org/events/)
-- Reviewer for the [International Society of Music Information Retrieval](http://www.ismir.net) (ISMIR) conference
-- Reviewer for the [DAFx](http://www.dafx.de) conference
-- Reviewer for the [Sound and Music Computing](http://smcnetwork.org) conference
+- Reviewer for the [International Society of Music Information Retrieval](http://www.ismir.net) (ISMIR), [DAFx](http://www.dafx.de), [Sound and Music Computing](http://smcnetwork.org), and [Web Audio](http://wac.eecs.qmul.ac.uk) conferences
 - Vice Chair of the [AES Education Committee](http://www.aes.org/education/) (2016-...)
 - Chair of the [London UK Student Section](https://www.facebook.com/AESLondonUKStudentSection/) of the Audio Engineering Society (2013-...)
 - Committee member of the [British Section](http://www.aes-uk.org/) of the Audio Engineering Society (2015-2017)

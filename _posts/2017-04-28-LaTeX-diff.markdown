@@ -2,7 +2,7 @@
 layout: post
 title:  "Show changes in modular LaTeX document"
 date:   2017-04-28
-tags: [LaTeX, dev]
+tags: [LaTeX, developer]
 excerpt_separator: <!--more-->
 ---
 
