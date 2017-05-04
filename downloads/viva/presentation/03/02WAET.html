@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="apple-touch-icon" sizes="57x57" href="/favicon/apple-touch-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/favicon/apple-touch-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/favicon/apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/favicon/apple-touch-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/favicon/apple-touch-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/favicon/apple-touch-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/favicon/apple-touch-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/favicon/apple-touch-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon-180x180.png">
+  <link rel="icon" type="image/png" href="/favicon/favicon-32x32.png" sizes="32x32">
+  <link rel="icon" type="image/png" href="/favicon/android-chrome-192x192.png" sizes="192x192">
+  <link rel="icon" type="image/png" href="/favicon/favicon-96x96.png" sizes="96x96">
+  <link rel="icon" type="image/png" href="/favicon/favicon-16x16.png" sizes="16x16">
+  <link rel="manifest" href="/favicon/manifest.json">
+  <link rel="mask-icon" href="/favicon/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="msapplication-TileImage" content="/mstile-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+
+  <title>Web Audio Evaluation Tool</title>
+  <meta name="description" content="">
+
+  <link rel="stylesheet" href="/downloads/viva/css/main.css">
+  <link rel="canonical" href="http://www.brechtdeman.com/presentation/03/02WAET.html">
+  <link rel="alternate" type="application/rss+xml" title="Viva Voce" href="http://www.brechtdeman.com/feed.xml">
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+  <script type="text/javascript">
+    function doc_keyUp(e) {
+      if (e.keyCode == 39 || e.keyCode == 40 || e.keyCode == 32) {
+        // trigger 'Next' link
+        document.getElementById('nextSlide').click();
+      }
+      else if (e.keyCode == 37 || e.keyCode == 38) {
+        document.getElementById('prevSlide').click();
+      }
+      // alternative: switch?
+    }
+    // register the handler 
+    document.addEventListener('keyup', doc_keyUp, false);
+  </script>
+
+  <base target="_blank">
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+
+    <a class="site-title" href="/downloads/viva/" target="_self">Viva Voce</a>
+
+    <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
+    <div class="container-fluid">
+        <!-- See http://jekyll.tips/guide/navigation-and-includes/ -->
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="trigger">
+            <!-- http://www.w3schools.com/howto/howto_js_topnav.asp -->
+            <ul class="topnav" id="myTopnav">
+                <li class="active">
+                  <a href="/downloads/viva/presentation/" target="_self">Presentation</a>
+                </li>
+
+                <li >
+                  <a href="/publications/" target="_self">Publications</a>
+                </li>
+
+                <li class="icon" onclick="hamburgerClicked()">
+                  <a href="javascript:void(0);" onclick="toggleResponsive()">
+                  <!-- &#9776; -->
+                  <div id="nav-icon4">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                  </div>
+                  </a>
+                </li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container-fluid -->
+
+    <script>
+      /* Toggle between adding and removing the "responsive" class to topnav when the user clicks on the icon */
+      function toggleResponsive() {
+          var x = document.getElementById("myTopnav");
+          if (x.className === "topnav") {
+              x.className += " responsive";
+          } else {
+              x.className = "topnav";
+          }
+      }
+
+      /* http://codepen.io/designcouch/pen/Atyop */
+      function hamburgerClicked(){
+        x = document.getElementById("nav-icon4");
+        if (x.className == "open") {
+          x.className = ""
+        }
+        else {
+          x.className = "open";
+        }
+      };
+    </script>
+</nav>
+
+  </div>
+
+</header>
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline">Web Audio Evaluation Tool</h1>
+    <ul class="tags">
+      
+    </ul>
+    <p class="post-meta"></p>
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    <iframe src="http://webprojects.eecs.qmul.ac.uk/bdm30/mixevaluation/test.html?url=CC.xml" width="100%" height="500px"></iframe>
+
+  </div>
+
+<div class="PageNavigation">
+<!-- from http://david.elbe.me/jekyll/2015/06/20/how-to-link-to-next-and-previous-post-with-jekyll.html -->
+  
+    <a id="prevSlide" class="prev" target="_self" href="/downloads/viva/presentation/03/01features.html">&laquo; Previous: Analysis of objective features</a>
+  
+  
+    <a id="nextSlide" class="next" target="_self" href="/downloads/viva/presentation/04/02preference.html">Next: Subjective numerical ratings &raquo;</a>
+  
+</div>
+
+</article>
+
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        Brecht De Man
+      </div>
+
+      <div class="footer-col footer-col-2">
+        
+      </div>
+
+      <div class="footer-col footer-col-3">
+        Tuesday 21 March 2017
+
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>
