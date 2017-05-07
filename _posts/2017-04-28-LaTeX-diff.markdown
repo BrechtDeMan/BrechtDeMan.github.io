@@ -11,7 +11,7 @@ It's somewhat similar to 'track changes' functionality in Microsoft Word or Goog
 
 <!--more-->
 
-## Flatten documents
+### Flatten documents
 
 If the document's structure is modular (which I highly recommend), including or inputting parts, chapters, or sections, you will need to 'flatten' the document, i.e. merge all parts into one big .tex file. 
 
@@ -31,7 +31,7 @@ Then, do the exact same thing with the new version of the document you wish to c
 perl latexpand.pl Thesis.tex > Thesis-new-flat.tex
 {% endhighlight %}
 
-## Diff
+### Diff
 
 Now, put the two flattened documents in the same folder – probably the main folder your document lives in, so that figures and bibliography can be found. 
 
