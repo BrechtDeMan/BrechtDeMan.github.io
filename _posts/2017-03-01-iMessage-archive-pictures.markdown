@@ -32,10 +32,10 @@ If you just want to run the script, copy this to the Terminal application line b
 $ brew install coreutils
 $ cd /Users/John/Library/Messages/Attachments/
 $ mkdir /Users/John/Pictures/iMessage/
-$ OIFS="$IFS"
-$ IFS=$"\n"
+$ OIFS=$IFS
+$ IFS=$'\n'
 $ find . -type f | while read f; do gcp --backup=t "${f}" "/Users/John/Pictures/iMessage/""$(gdate -r "$f" +"%Y%m%d")"-"$(basename $f)"; done
-$ IFS="$OIFS"
+$ IFS=$OIFS
 {% endhighlight %}
 
 Make sure to replace all instances of 'John' with the name of your home folder. If you are not sure about this, type `cd ~` and hit enter in the Terminal, then type `pwd` and hit enter to see the correct path of the form `/Users/[your_name]`. 
@@ -84,10 +84,10 @@ If some of your files are going to contain spaces (e.g. Mac's terrible 'Screen S
 I'd be keen to learn about more elegant ways, but a quick and effective hack seems to be to [temporarily modify the `IFS` variable](http://stackoverflow.com/questions/7039130/iterate-over-list-of-files-with-spaces) (the Internal Field Separator) to separate the file names by newlines:
 
 {% highlight bash %}
-$ OIFS="$IFS" # store to change back later
-$ IFS=$"\n"
+$ OIFS=$IFS # store to change back later
+$ IFS=$'\n'
 $ # ... 
-$ IFS="$OIFS"
+$ IFS=$OIFS
 {% endhighlight %}
 
 ### Putting it all together
@@ -95,13 +95,13 @@ $ IFS="$OIFS"
 The following bash script copies all files in the current folder `.`, including subdirectories, to the (existing!) `~/Pictures/iMessage/` folder. Note that the originals will still be there, so this is a non-destructive operation. 
 
 {% highlight bash %}
-$ OIFS="$IFS"
-$ IFS=$"\n"
+$ OIFS=$IFS
+$ IFS=$'\n'
 $ find . -type f | while read f
 $ do
 $    gcp --backup=t "$f" "/Users/John/Pictures/iMessage/""$(gdate -r "$f" +"%Y%m%d")"-"$(basename $f)"
 $ done
-$ IFS="$OIFS"
+$ IFS=$OIFS
 {% endhighlight %}
 
 Or as a oneliner (minus modifying the IFS): 

@@ -91,7 +91,7 @@ redirect_from:
 
 ### Theses
 
-[Brecht De Man](/), “Towards a better understanding of mix engineering,” PhD dissertation, School of Electronic Engineering and Computer Science, Queen Mary University of London, 2017.
+[Brecht De Man](/), “[Towards a better understanding of mix engineering](/publications/pdf/PhD-thesis.pdf),” PhD dissertation, School of Electronic Engineering and Computer Science, Queen Mary University of London, 2017. [[pdf](/publications/pdf/PhD-thesis.pdf)]
 
 [Brecht De Man](/), “[Active compensation for room-independent sound
 reproduction](http://lib.ugent.be/nl/catalog/rug01:001887039),” MSc dissertation, Department of Information Technology, University of Ghent, 2012. [[pdf](http://lib.ugent.be/fulltxt/RUG01/001/887/039/RUG01-001887039_2012_0001_AC.pdf)]
@@ -128,7 +128,7 @@ _Honourable Mention in the Engineering Sciences category in honour and recogniti
 ### Scholarly service
 
 - Reviewer for the [Journal of the Audio Engineering Society](http://www.aes.org/journal/) and [Audio Engineering Society conventions](http://www.aes.org/events/)
-- Reviewer for the [International Society of Music Information Retrieval](http://www.ismir.net) (ISMIR), [DAFx](http://www.dafx.de), [Sound and Music Computing](http://smcnetwork.org), and [Web Audio](http://wac.eecs.qmul.ac.uk) conferences
+- Reviewer for the [International Society of Music Information Retrieval](http://www.ismir.net) (ISMIR), [DAFx](http://www.dafx.de), [Sound and Music Computing](http://smcnetwork.org), [Audio Mostly](http://audiomostly.com/), and [Web Audio](http://wac.eecs.qmul.ac.uk) conferences
 - Vice Chair of the [AES Education Committee](http://www.aes.org/education/) (2016-...)
 - Chair of the [London UK Student Section](https://www.facebook.com/AESLondonUKStudentSection/) of the Audio Engineering Society (2013-...)
 - Committee member of the [British Section](http://www.aes-uk.org/) of the Audio Engineering Society (2015-2017)
