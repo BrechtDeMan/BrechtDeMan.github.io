@@ -132,14 +132,14 @@ _Honourable Mention in the Engineering Sciences category in honour and recogniti
 - Vice Chair of the [AES Education Committee](http://www.aes.org/education/) (2016-...)
 - Chair of the [London UK Student Section](https://www.facebook.com/AESLondonUKStudentSection/) of the Audio Engineering Society (2013-...)
 - Committee member of the [British Section](http://www.aes-uk.org/) of the Audio Engineering Society (2015-2017)
-- Committee member of the [AES Technical Committee on Perception and Subjective Evaluation of Audio Signals](http://www.aes.org/technical/pseas/)
-- Co-chair of the [AES 2nd Workshop on Intelligent Music Production](http://aes-uk.org/wimp/) (WIMP) in London, 13 Sep 2016
+- Committee member of the [AES Technical Committee on Perception and Subjective Evaluation of Audio Signals](http://www.aes.org/technical/pseas/) and on [Semantic Audio Analysis](http://www.aes.org/technical/saa/)
+- Co-chair of [Sound Talking](https://twitter.com/search?q=%23SoundTalking), an interdisciplinary workshop on the language of sound, at the London [Science Museum](http://www.sciencemuseum.org.uk/), 3 Nov 2017
+- Co-chair of the [2nd Workshop on Intelligent Music Production](http://aes-uk.org/wimp/) (WIMP) in London, 13 Sep 2016
 - Up Your Output! student event in London: Vice Chair [8-9 Mar 2014](http://www.aes-uk.org/up2014/), Chair [7-8 Mar 2015](http://www.aes-uk.org/up/), Past Chair [12-13 Mar 2016](http://www.aes-uk.org/up/)
+- Workshop chair "[New Developments in Listening Test Design](http://www.aes.org/events/142/workshops/?ID=5430)" at the [142nd AES Convention](http://www.aes.org/events/142/) in Berlin, 20-23 May 2017; and at the [143rd AES Convention](http://www.aes.org/events/143/) in NYC, 18-21 Oct 2017. 
 - Workshop chair "[Perceptual Evaluation Interface Design](http://www.aes.org/events/140/workshops/?ID=4896)" at the [140th AES Convention](http://www.aes.org/events/140/) in Paris, 4-7 June 2016
 - Student events organiser as Chair of the Student Delegate Assembly (Europe and International) at the [139th AES Convention](http://www.aes.org/events/139/) in NYC, 29 Oct - 1 Nov 2015 and [140th AES Convention](http://www.aes.org/events/140/) in Paris, 4-7 June 2016
 - Student events organiser as Vice Chair of the Student Delegate Assembly (Europe and International) at the [137th AES Convention](http://www.aes.org/events/137/) in Los Angeles, 9-12 Oct 2014 and [138th AES Convention](http://www.aes.org/events/138/) in Warsaw, 7-10 May 2015
 - Session chair and elected Vice Chair of the Student Delegate Assembly at the [136th AES Convention](http://www.aes.org/events/136/) in Berlin, 26-29 Apr 2014
-- Organising committee member for the [61st AES conf. on Audio for Games](http://www.audioforgames.co.uk/2016/) in London, 10-12 Feb 2016
-- Organising committee member for the [56th AES conf. on Audio for Games](http://www.audioforgames.co.uk/2015/) in London, 11-13 Feb 2015
-- Organising committee member of the [53rd AES conf. on Semantic Audio](http://www.aes.org/conferences/53/) in London, 26-29 Jan 2014
+- Organising committee member for the [3rd Workshop on Intelligent Music Production](http://www.semanticaudio.co.uk/events/wimp2017/) in Manchester, 14-15 September 2017; the [61st AES conf. on Audio for Games](http://www.audioforgames.co.uk/2016/) in London, 10-12 Feb 2016; the [56th AES conf. on Audio for Games](http://www.audioforgames.co.uk/2015/) in London, 11-13 Feb 2015; and the [53rd AES conf. on Semantic Audio](http://www.aes.org/conferences/53/) in London, 26-29 Jan 2014
 - Volunteer at the [54th AES conf. on Forensic Audio](http://www.aes.org/conferences/54/) in London, 12-14 June 2014
