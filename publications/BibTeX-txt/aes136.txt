@@ -1,7 +1,6 @@
 @conference{deman2014ape,
 	Author = {De Man, Brecht and Reiss, Joshua D.},
 	Booktitle = {136th Convention of the Audio Engineering Society},
-	Date-Modified = {2016-04-18 13:31:28 +0000},
 	Month = {April},
 	Title = {{APE}: Audio Perceptual Evaluation toolbox for {MATLAB}},
 	Year = {2014}}

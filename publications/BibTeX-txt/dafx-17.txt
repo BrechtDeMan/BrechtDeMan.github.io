@@ -1,0 +1,7 @@
+@conference{deman2017mix,
+	Author = {De Man, Brecht and Reiss, Joshua D.},
+	Booktitle = {Proceedings of the 20th International Conference on Digital Audio Effects (DAFx-17)},
+	Month = {September},
+	Title = {The {M}ix {E}valuation {D}ataset},
+	Year = {2017}}
+	

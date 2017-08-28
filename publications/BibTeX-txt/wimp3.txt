@@ -1,0 +1,6 @@
+@conference{deman2017ten,
+	Author = {De Man, Brecht and Reiss, Joshua D. and Stables, Ryan},
+	Booktitle = {3rd Workshop on Intelligent Music Production},
+	Month = {September},
+	Title = {Ten Years of Automatic Mixing},
+	Year = {2017}}
