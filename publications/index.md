@@ -43,8 +43,8 @@ redirect_from:
 {% include cc-by.html %} [Brecht De Man](/), [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/) and [Ryan Stables](http://www.ryanstables.co.uk), “[Ten Years of Automatic Mixing](/publications/pdf/WIMP3),” 3rd Workshop on Intelligent Music Production, September 2017\. 
 [[pdf](/publications/pdf/WIMP3.pdf) &#124; [BibTeX](/publications/BibTeX-txt/wimp3.txt)]
 
-[Brecht De Man](/) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/), “[The Mix Evaluation Dataset](/publications/pdf/DAFx-17.pdf),” Proceedings of the 20th International Conference on Digital Audio Effects (DAFx-17), September 2017\. 
-[[pdf](/publications/pdf/DAFx-17.pdf) &#124; [BibTeX](/publications/BibTeX-txt/dafx-17.txt) &#124; [website](http://c4dm.eecs.qmul.ac.uk/multitrack/MixEvaluation/)]
+[Brecht De Man](/) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/), “[The Mix Evaluation Dataset](http://www.dafx17.eca.ed.ac.uk/papers/DAFx17_paper_49.pdf),” Proceedings of the 20th International Conference on Digital Audio Effects (DAFx-17), September 2017\. 
+[[pdf](http://www.dafx17.eca.ed.ac.uk/papers/DAFx17_paper_49.pdf) &#124; [BibTeX](/publications/BibTeX-txt/dafx-17.txt) &#124; [poster](/publications/posters/dafx17poster.pdf) &#124; [website](http://c4dm.eecs.qmul.ac.uk/multitrack/MixEvaluation/)]
 
 
 [Ryan Stables](http://www.ryanstables.co.uk), [Brecht De Man](/), [Sean Enderby](http://www.bcu.ac.uk/computing-engineering-and-the-built-environment/research/phd/current-students/sean-enderby), [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/), [György Fazekas](http://www.eecs.qmul.ac.uk/~gyorgyf/about.html) and [Thomas Wilmering](http://www.eecs.qmul.ac.uk/people/view/4665), “[Semantic description of timbral transformations in music production](http://dl.acm.org/citation.cfm?id=2967238),” Proceedings of the ACM International Conference on Multimedia, October 2016. [[ACM Digital Library](http://dl.acm.org/citation.cfm?id=2967238) &#124; [BibTeX](/publications/BibTeX-txt/acm16.txt) &#124; [website](http://www.semanticaudio.co.uk)]
