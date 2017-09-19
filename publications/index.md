@@ -40,7 +40,7 @@ redirect_from:
 
 #### Peer-reviewed
 
-{% include cc-by.html %} [Brecht De Man](/), [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/) and [Ryan Stables](http://www.ryanstables.co.uk), “[Ten Years of Automatic Mixing](/publications/pdf/WIMP3),” 3rd Workshop on Intelligent Music Production, September 2017\. 
+{% include cc-by.html %} [Brecht De Man](/), [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/) and [Ryan Stables](http://www.ryanstables.co.uk), “[Ten Years of Automatic Mixing](/publications/pdf/WIMP3.pdf),” 3rd Workshop on Intelligent Music Production, September 2017\. 
 [[pdf](/publications/pdf/WIMP3.pdf) &#124; [BibTeX](/publications/BibTeX-txt/wimp3.txt)]
 
 [Brecht De Man](/) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/), “[The Mix Evaluation Dataset](http://www.dafx17.eca.ed.ac.uk/papers/DAFx17_paper_49.pdf),” Proceedings of the 20th International Conference on Digital Audio Effects (DAFx-17), September 2017\. 
