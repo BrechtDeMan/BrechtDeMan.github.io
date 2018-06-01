@@ -75,6 +75,8 @@ redirect_from:
 
 #### Extended abstract peer-reviewed
 
+[Amandine Pras](https://uniweb.uleth.ca/members/1049), [Brecht De Man](/) and [Joshua D. Reiss](http://www.elec.qmul.ac.uk/people/josh/index.htm), "[A case study of cultural influences on mixing practices](http://www.aes.org/e-lib/browse.cfm?elib=19463)," 144th Convention of the Audio Engineering Society, May 2018\. 
+
 [David M. Ronan](https://scholar.google.com/citations?user=y52JSI4AAAAJ&hl=en), [Brecht De Man](/), [Hatice Gunes](http://www.eecs.qmul.ac.uk/~hatice/) and [Joshua D. Reiss](http://www.elec.qmul.ac.uk/people/josh/index.htm), "[The impact of subgrouping practices on the perception of multitrack mixes](http://www.aes.org/e-lib/browse.cfm?elib=17998)," 139th Convention of the Audio Engineering Society, October 2015\. [[pdf](http://www.eecs.qmul.ac.uk/~josh/documents/2015/Ronan%20-%20The%20impact%20of%20subgrouping%20practices%20on%20the%20perception%20of%20multitrack%20mixes.pdf) &#124; [BibTeX](/publications/BibTeX-txt/aes139.txt)]	
 	
 
@@ -136,10 +138,10 @@ _Honourable Mention in the Engineering Sciences category in honour and recogniti
 ### Scholarly service
 
 - Reviewer for the [Journal of the Audio Engineering Society](http://www.aes.org/journal/) and [Audio Engineering Society conventions](http://www.aes.org/events/)
-- Reviewer for the [International Society of Music Information Retrieval](http://www.ismir.net) (ISMIR), [DAFx](http://www.dafx.de), [Sound and Music Computing](http://smcnetwork.org), [Audio Mostly](http://audiomostly.com/), and [Web Audio](http://wac.eecs.qmul.ac.uk) conferences
+- Program Committee member for the [International Society of Music Information Retrieval](http://www.ismir.net) (ISMIR), [DAFx](http://www.dafx.de), [Sound and Music Computing](http://smcnetwork.org) (SMC), [Audio Mostly](http://audiomostly.com/), [Audio Developer Conference](https://juce.com/adc) (ADC), and [Web Audio](http://wac.eecs.qmul.ac.uk) conferences
 - Vice Chair of the [AES Education Committee](http://www.aes.org/education/) (2016-...)
-- Chair of the [London UK Student Section](https://www.facebook.com/AESLondonUKStudentSection/) of the Audio Engineering Society (2013-...)
-- Committee member of the [British Section](http://www.aes-uk.org/) of the Audio Engineering Society (2015-2017)
+- Chair of the Belgian Section of the Audio Engineering Society
+- Committee member of the [British Section](http://www.aes-uk.org/) (2015-2017) and Past Chair of the [London UK Student Section](https://www.facebook.com/AESLondonUKStudentSection/) (2013-...) of the Audio Engineering Society
 - Committee member of the [AES Technical Committee on Perception and Subjective Evaluation of Audio Signals](http://www.aes.org/technical/pseas/) and on [Semantic Audio Analysis](http://www.aes.org/technical/saa/)
 - Co-chair of [Sound Talking](https://twitter.com/search?q=%23SoundTalking), an interdisciplinary workshop on the language of sound, at the London [Science Museum](http://www.sciencemuseum.org.uk/), 3 Nov 2017
 - Co-chair of the [2nd Workshop on Intelligent Music Production](http://aes-uk.org/wimp/) (WIMP) in London, 13 Sep 2016
@@ -150,7 +152,7 @@ _Honourable Mention in the Engineering Sciences category in honour and recogniti
 - Student events organiser as Vice Chair of the Student Delegate Assembly (Europe and International) at the [137th AES Convention](http://www.aes.org/events/137/) in Los Angeles, 9-12 Oct 2014 and [138th AES Convention](http://www.aes.org/events/138/) in Warsaw, 7-10 May 2015
 - Session chair and elected Vice Chair of the Student Delegate Assembly at the [136th AES Convention](http://www.aes.org/events/136/) in Berlin, 26-29 Apr 2014
 - Session chair at the 9th, 10th, 11th and 12th Art of Record Production Conference: [Oslo, Norway, 4-6 Dec 2014](http://www.artofrecordproduction.com/arp-conferences/arp-2014); [Philadelphia, PA, USA, 6-8 Nov 2015](http://www.artofrecordproduction.com/arp-conferences/arp-2015); [Aalborg, Denmark, 2-4 Dec 2016](http://www.artofrecordproduction.com/arp-conferences/arp-2016); [Stockholm, Sweden, 1-3 Dec 2017](http://www.artofrecordproduction.com/arp-conferences/arp-2017).
-- Organising committee member for the [3rd Workshop on Intelligent Music Production](http://www.semanticaudio.co.uk/events/wimp2017/) in Manchester, 14-15 Sep 2017
+- Organising committee member for the [3rd](http://www.semanticaudio.co.uk/events/wimp2017/) and [4th Workshop on Intelligent Music Production](http://www.wimp2018.tk/) in Manchester, 14-15 Sep 2017
 - Organising committee member for the [61st AES conf. on Audio for Games](http://www.audioforgames.co.uk/2016/) in London, 10-12 Feb 2016; the [56th AES conf. on Audio for Games](http://www.audioforgames.co.uk/2015/) in London, 11-13 Feb 2015; and the [53rd AES conf. on Semantic Audio](http://www.aes.org/conferences/53/) in London, 26-29 Jan 2014
 - Organising committee member for the [Audio and Music Hackathon London](https://audioandmusichackathonlondon.devpost.com/), 18-19 July 2015 
 - Volunteer at the [54th AES conf. on Forensic Audio](http://www.aes.org/conferences/54/) in London, 12-14 June 2014
