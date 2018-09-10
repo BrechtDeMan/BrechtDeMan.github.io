@@ -1,0 +1,6 @@
+@conference{deman2018comparing,
+	Author = {De Man, Brecht and Jillings, Nicholas and Stables, Ryan},
+	Booktitle = {4th Workshop on Intelligent Music Production},
+	Month = {September},
+	Title = {Comparing stage metaphor interfaces as a controller for stereo position and level},
+	Year = {2018}}

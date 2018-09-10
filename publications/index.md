@@ -40,6 +40,9 @@ redirect_from:
 
 #### Peer-reviewed
 
+{% include cc-by.html %} [Brecht De Man](/), [Nicholas Jillings](http://nicholasjillings.com/) and [Ryan Stables](http://www.ryanstables.co.uk), “[Comparing stage metaphor interfaces as a controller for stereo position and level](/publications/pdf/WIMP4.pdf),” 4th Workshop on Intelligent Music Production, September 2017\. 
+[[pdf](/publications/pdf/WIMP4.pdf) &#124; [BibTeX](/publications/BibTeX-txt/wimp4.txt)] &#124; [poster](/publications/posters/wimp2018poster.pdf)]
+
 {% include cc-by.html %} [Brecht De Man](/), [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/) and [Ryan Stables](http://www.ryanstables.co.uk), “[Ten Years of Automatic Mixing](/publications/pdf/WIMP3.pdf),” 3rd Workshop on Intelligent Music Production, September 2017\. 
 [[pdf](/publications/pdf/WIMP3.pdf) &#124; [BibTeX](/publications/BibTeX-txt/wimp3.txt)]
 
