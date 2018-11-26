@@ -41,7 +41,7 @@ redirect_from:
 #### Peer-reviewed
 
 {% include cc-by.html %} [Brecht De Man](/), [Nicholas Jillings](https://scholar.google.com/citations?user=oNx9j4sAAAAJ&hl=en) and [Ryan Stables](http://www.ryanstables.co.uk), “[Comparing stage metaphor interfaces as a controller for stereo position and level](/publications/pdf/WIMP4.pdf),” 4th Workshop on Intelligent Music Production, September 2018\. 
-[[pdf](/publications/pdf/WIMP4.pdf) &#124; [BibTeX](/publications/BibTeX-txt/wimp4.txt)] &#124; [poster](/publications/posters/wimp2018poster.pdf)]
+[[pdf](/publications/pdf/WIMP4.pdf) &#124; [BibTeX](/publications/BibTeX-txt/wimp4.txt) &#124; [poster](/publications/posters/wimp2018poster.pdf)]
 
 {% include cc-by.html %} [Brecht De Man](/), [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/) and [Ryan Stables](http://www.ryanstables.co.uk), “[Ten Years of Automatic Mixing](/publications/pdf/WIMP3.pdf),” 3rd Workshop on Intelligent Music Production, September 2017\. 
 [[pdf](/publications/pdf/WIMP3.pdf) &#124; [BibTeX](/publications/BibTeX-txt/wimp3.txt)]
@@ -78,9 +78,9 @@ redirect_from:
 
 #### Extended abstract peer-reviewed
 
-[Brecht De Man](/), “Evaluation of Implementations of the EBU R128 Loudness Measurement,” 145th Convention of the Audio Engineering Society, October 2018. 
+[Brecht De Man](/), “[Evaluation of Implementations of the EBU R128 Loudness Measurement](http://www.aes.org/e-lib/browse.cfm?elib=19790),” 145th Convention of the Audio Engineering Society, October 2018. 
 
-[Nicholas Jillings](https://scholar.google.com/citations?user=oNx9j4sAAAAJ&hl=en), [Brecht De Man](/), [Ryan Stables](http://www.ryanstables.co.uk) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/), “Investigation into the Effects of Subjective Test Interface Choice on the Validity of Results,” 145th Convention of the Audio Engineering Society, October 2018. 
+[Nicholas Jillings](https://scholar.google.com/citations?user=oNx9j4sAAAAJ&hl=en), [Brecht De Man](/), [Ryan Stables](http://www.ryanstables.co.uk) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/), “[Investigation into the Effects of Subjective Test Interface Choice on the Validity of Results](http://www.aes.org/e-lib/browse.cfm?elib=19760),” 145th Convention of the Audio Engineering Society, October 2018. 
 
 [Amandine Pras](https://uniweb.uleth.ca/members/1049), [Brecht De Man](/) and [Joshua D. Reiss](http://www.elec.qmul.ac.uk/people/josh/index.htm), "[A case study of cultural influences on mixing practices](http://www.aes.org/e-lib/browse.cfm?elib=19463)," 144th Convention of the Audio Engineering Society, May 2018\. 
 
