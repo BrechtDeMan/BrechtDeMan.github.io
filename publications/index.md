@@ -65,7 +65,7 @@ redirect_from:
 [[pdf](https://smartech.gatech.edu/bitstream/handle/1853/54595/WAC2016-67.pdf) &#124; [BibTeX](/publications/BibTeX-txt/wac2.txt) &#124; [github](https://github.com/BrechtDeMan/WebAudioEvaluationTool) &#124; [SoundSoftware](https://code.soundsoftware.ac.uk/projects/webaudioevaluationtool)]
 
 {% include cc-by.html %} [Nicholas Jillings](https://scholar.google.com/citations?user=oNx9j4sAAAAJ&hl=en), [Brecht De Man](/), [David Moffat](http://davemoffat.com/) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/index.htm), "[Web Audio Evaluation Tool: A browser-based listening test environment](http://smcnetwork.org/node/1940)," 12th Sound and Music Computing Conference, July 2015\. 
-[[pdf](http://smcnetwork.org/system/files/SMC2015_submission_88.pdf) &#124; [BibTeX](/publications/BibTeX-txt/smc12.txt) &#124; [github](https://github.com/BrechtDeMan/WebAudioEvaluationTool) &#124; [SoundSoftware](https://code.soundsoftware.ac.uk/projects/webaudioevaluationtool)]
+[[pdf](https://www.eecs.qmul.ac.uk/~josh/documents/2015/Jillings%20-%20SMC10%202015.pdf) &#124; [BibTeX](/publications/BibTeX-txt/smc12.txt) &#124; [github](https://github.com/BrechtDeMan/WebAudioEvaluationTool) &#124; [SoundSoftware](https://code.soundsoftware.ac.uk/projects/webaudioevaluationtool)]
 
 {% include cc-by.html %} [Brecht De Man](/), [Brett Leonard](http://www.blpaudio.com), [Richard King](http://www.rkrecording.com) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/), “[An analysis and evaluation of audio features for multitrack music mixtures](http://www.terasoft.com.tw/conf/ismir2014/proceedings/T025_293_Paper.pdf),” 15th International Society for Music Information Retrieval Conference (ISMIR 2014), October 2014\. 
 [[pdf](http://www.terasoft.com.tw/conf/ismir2014/proceedings/T025_293_Paper.pdf) &#124; [BibTeX](/publications/BibTeX-txt/ismir2014.txt) &#124; [poster](/publications/posters/ismir2014poster.pdf)]
@@ -99,10 +99,10 @@ redirect_from:
 	
 
 [Brecht De Man](/) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/), “[A knowledge-engineered autonomous mixing system](http://www.aes.org/e-lib/browse.cfm?elib=17011),” 135th Convention of the Audio Engineering Society, October 2013\. 
-[[pdf](http://www.eecs.qmul.ac.uk/~josh/documents/De%20Man%20Reiss%20-%20AES135.pdf) &#124; [BibTeX](/publications/BibTeX-txt/aes135.txt) &#124; [podcast](http://www.thenakedscientists.com/HTML/interviews/interview/1001571/)]
+[[pdf](http://www.eecs.qmul.ac.uk/~josh/documents/2013/De%20Man%20Reiss%20-%20AES135.pdf) &#124; [BibTeX](/publications/BibTeX-txt/aes135.txt) &#124; [podcast](http://www.thenakedscientists.com/HTML/interviews/interview/1001571/)]
 	
 
-[Brecht De Man](/) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/), “[A pairwise and multiple stimuli approach to perceptual evaluation of microphone types](http://www.aes.org/e-lib/browse.cfm?elib=16738),” 134th Convention of the Audio Engineering Society, May 2013\. [[pdf](http://www.eecs.qmul.ac.uk/~josh/documents/DeMan%20Reiss%20-%20A%20Pairwise%20and%20Multiple%20Stimuli%20Approach%20to%20Perceptual%20Evaluation%20of%20Microphone%20Types.pdf) &#124; [BibTeX](/publications/BibTeX-txt/aes134.txt) &#124; [video](https://www.youtube.com/playlist?list=PL6sBrt7VZHLwd_Nymf2qNJxipRPLCqRr4)]		
+[Brecht De Man](/) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/), “[A pairwise and multiple stimuli approach to perceptual evaluation of microphone types](http://www.aes.org/e-lib/browse.cfm?elib=16738),” 134th Convention of the Audio Engineering Society, May 2013\. [[pdf](http://www.eecs.qmul.ac.uk/~josh/documents/2013/DeMan%20Reiss%20-%20A%20Pairwise%20and%20Multiple%20Stimuli%20Approach%20to%20Perceptual%20Evaluation%20of%20Microphone%20Types.pdf) &#124; [BibTeX](/publications/BibTeX-txt/aes134.txt) &#124; [video](https://www.youtube.com/playlist?list=PL6sBrt7VZHLwd_Nymf2qNJxipRPLCqRr4)]		
 
 ### Patents
 
