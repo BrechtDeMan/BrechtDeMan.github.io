@@ -20,6 +20,8 @@ redirect_from:
 
 ### Book chapters
 
+[Brecht De Man](/), "[Audio Effects in Sound Design](https://www.routledge.com/Foundations-in-Sound-Design-for-Linear-Media-A-Multidisciplinary-Approach/Filimowicz/p/book/9781138093966)," Foundations in Sound Design for Linear Media (M. Filimowicz), Routledge, 2019. [[Routledge](https://www.routledge.com/Foundations-in-Sound-Design-for-Linear-Media-A-Multidisciplinary-Approach/Filimowicz/p/book/9781138093966) &#124; [Amazon](https://www.amazon.co.uk/Foundations-Sound-Design-Linear-Media-ebook/dp/B07Q2DQ2L9/) &#124; [Google Books](https://books.google.co.uk/books?id=fCCeDwAAQBAJ)]
+
 [Brecht De Man](/) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/index.htm), "Crowd-sourced learning of music production practices through large-scale perceptual evaluation of mixes," Innovation In Music II (R. Hepworth-Sawyer, J. Hodgson, J. L. Paterson, and R. Toulson, eds.), Future Technology Press, 2016.	[[pdf](http://www.eecs.qmul.ac.uk/~josh/documents/2015/deman2015inmusic.pdf) &#124; [BibTeX](/publications/BibTeX-txt/inmusic2.txt) &#124; [Amazon](https://www.amazon.co.uk/d/cka/Innovation-Music-KES-Transactions-Russ-Hepworth-Sawyer/1911108042/) &#124; [Google Books](https://books.google.be/books?id=1OLvDQAAQBAJ)]	
 
 
