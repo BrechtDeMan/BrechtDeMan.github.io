@@ -18,22 +18,28 @@ redirect_from:
 
 <br>
 
+### Books
+[Brecht De Man](/), [Ryan Stables](http://www.ryanstables.co.uk) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/), Intelligent Music Production, October 2019 (to appear)\. [[Routledge](https://www.routledge.com/Intelligent-Music-Production/Man-Stables-Reiss/p/book/9781138055193) &#124; [Amazon](https://www.amazon.co.uk/Intelligent-Music-Production-Theoretical-Overview/dp/1138055190/)]
+
 ### Book chapters
 
-[Brecht De Man](/), "[Audio Effects in Sound Design](https://www.routledge.com/Foundations-in-Sound-Design-for-Linear-Media-A-Multidisciplinary-Approach/Filimowicz/p/book/9781138093966)," Foundations in Sound Design for Linear Media (M. Filimowicz), Routledge, 2019. [[Routledge](https://www.routledge.com/Foundations-in-Sound-Design-for-Linear-Media-A-Multidisciplinary-Approach/Filimowicz/p/book/9781138093966) &#124; [Amazon](https://www.amazon.co.uk/Foundations-Sound-Design-Linear-Media-ebook/dp/B07Q2DQ2L9/) &#124; [Google Books](https://books.google.co.uk/books?id=fCCeDwAAQBAJ)]
+[Brecht De Man](/), "Audio Effects in Sound Design," Foundations in Sound Design for Linear Media (M. Filimowicz), Routledge, 2019. [[Routledge](https://www.routledge.com/Foundations-in-Sound-Design-for-Linear-Media-A-Multidisciplinary-Approach/Filimowicz/p/book/9781138093966) &#124; [Amazon](https://www.amazon.co.uk/Foundations-Sound-Design-Linear-Media-ebook/dp/B07Q2DQ2L9/) &#124; [Google Books](https://books.google.co.uk/books?id=fCCeDwAAQBAJ)]
 
 [Brecht De Man](/) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/index.htm), "Crowd-sourced learning of music production practices through large-scale perceptual evaluation of mixes," Innovation In Music II (R. Hepworth-Sawyer, J. Hodgson, J. L. Paterson, and R. Toulson, eds.), Future Technology Press, 2016.	[[pdf](http://www.eecs.qmul.ac.uk/~josh/documents/2015/deman2015inmusic.pdf) &#124; [BibTeX](/publications/BibTeX-txt/inmusic2.txt) &#124; [Amazon](https://www.amazon.co.uk/d/cka/Innovation-Music-KES-Transactions-Russ-Hepworth-Sawyer/1911108042/) &#124; [Google Books](https://books.google.be/books?id=1OLvDQAAQBAJ)]	
 
+### Special Issues (as guest editor)
+
+{% include cc-by.html %} [Kirk McNally](https://www.uvic.ca/finearts/music/people/faculty/profiles/mcnally-kirk.php) and [Brecht De Man](/), [Music and the Machine: Contemporary Music Production \[Special Issue\]](https://www.mdpi.com/journal/arts/special_issues/contemporary_music_production), Arts, Vol. 8. no. 3, August 2019. 
 
 ### Journal papers
 
-{% include cc-by.html %} [Brecht De Man](/), [Kirk McNally](http://www.stereosonic.org/phd/cv.html) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/), “[Perceptual Evaluation and Analysis of Reverberation in Multitrack Music Production](http://www.aes.org/e-lib/browse.cfm?elib=18548),” Journal of the Audio Engineering Society, Vol. 65 (1/2), pp. 108-116, January/February 2017\. 
+{% include cc-by.html %} [Brecht De Man](/), [Kirk McNally](https://www.uvic.ca/finearts/music/people/faculty/profiles/mcnally-kirk.php) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/), “[Perceptual Evaluation and Analysis of Reverberation in Multitrack Music Production](http://www.aes.org/e-lib/browse.cfm?elib=18548),” Journal of the Audio Engineering Society, Vol. 65 (1/2), pp. 108-116, January/February 2017\. 
 [[pdf](/publications/pdf/jaes-DREAMS-hires.pdf) &#124; [BibTeX](/publications/BibTeX-txt/jaes-dreams.txt)]
 
 [Brecht De Man](/) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/), “[Analysis of peer reviews in music production](http://arpjournal.com/analysis-of-peer-reviews-in-music-production/),” Journal on the Art of Record Production, Vol. 10, July 2015\. 
 [[html](http://arpjournal.com/analysis-of-peer-reviews-in-music-production/) &#124; [pdf](/publications/pdf/jarp10.pdf) &#124; [BibTeX](/publications/BibTeX-txt/jarp10.txt)]	
 
-[Zheng Ma](mailto:z.ma@qmul.ac.uk), [Brecht De Man](/), [Pedro D. Pestana](http://www.stereosonic.org/phd/cv.html), [Dawn A. A. Black](http://www.eecs.qmul.ac.uk/~dawn/dr-dawn-black) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/), “[Intelligent dynamic range compression](http://www.aes.org/e-lib/browse.cfm?elib=17821),” Journal of the Audio Engineering Society, Vol. 63 (6), pp. 412-426, June 2015\. [[pdf](http://www.eecs.qmul.ac.uk/~josh/documents/2015/Ma%202015%20-%20Intelligent%20Multitrack%20Compression.pdf) &#124; [BibTeX](/publications/BibTeX-txt/jaes-ma.txt)]	
+[Zheng Ma](mailto:z.ma@qmul.ac.uk), [Brecht De Man](/), [Pedro D. Pestana](https://www.porto.ucp.pt/pt/cv-pedro-pestana), [Dawn A. A. Black](http://www.eecs.qmul.ac.uk/~dawn/dr-dawn-black) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/), “[Intelligent dynamic range compression](http://www.aes.org/e-lib/browse.cfm?elib=17821),” Journal of the Audio Engineering Society, Vol. 63 (6), pp. 412-426, June 2015\. [[pdf](http://www.eecs.qmul.ac.uk/~josh/documents/2015/Ma%202015%20-%20Intelligent%20Multitrack%20Compression.pdf) &#124; [BibTeX](/publications/BibTeX-txt/jaes-ma.txt)]	
 
 [Brecht De Man](/) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/), “[A semantic approach to autonomous mixing](http://arpjournal.com/2639/a-semantic-approach-to-autonomous-mixing/)”, Journal on the Art of Record Production, Vol. 8, December 2013\. [[html](http://arpjournal.com/2639/a-semantic-approach-to-autonomous-mixing/) &#124; [pdf](/publications/pdf/jarp8.pdf) &#124; [BibTeX](/publications/BibTeX-txt/jarp8.txt)]	
 
@@ -148,6 +154,7 @@ _Honourable Mention in the Engineering Sciences category in honour and recogniti
 
 - Reviewer for the [Journal of the Audio Engineering Society](http://www.aes.org/journal/) and the [IEEE/ACM Transactions on Audio, Speech and Language Processing](https://signalprocessingsociety.org/publications-resources/ieeeacm-transactions-audio-speech-and-language-processing/ieeeacm)
 - Program Committee member for the [Audio Engineering Society conventions](http://www.aes.org/events/) and [International Society of Music Information Retrieval](http://www.ismir.net) (ISMIR), [DAFx](http://www.dafx.de), [Sound and Music Computing](http://smcnetwork.org) (SMC), [Audio Mostly](http://audiomostly.com/), [Audio Developer Conference](https://juce.com/adc) (ADC), and [Web Audio](http://wac.eecs.qmul.ac.uk) conferences
+- Governor of the [Audio Engineering Society](http://www.aes.org/) (2020-2021)
 - Vice Chair of the [AES Education Committee](http://www.aes.org/education/) (2016-...)
 - Chair of the Belgian Section of the Audio Engineering Society
 - Committee member of the [British Section](http://www.aes-uk.org/) (2015-2017) and Past Chair of the [London UK Student Section](https://www.facebook.com/AESLondonUKStudentSection/) (2013-...) of the Audio Engineering Society
