@@ -6,7 +6,10 @@ redirect_from:
 ---
 
 <div class="distribute">
-	<div><a href="http://scholar.google.co.uk/citations?user=3ndnho0AAAAJ" target="_blank">Google&nbsp;Scholar</a></div> &#124; <div><a href="https://qmul.academia.edu/BrechtDeMan" target="_blank">Academia.edu</a></div>&#124;
+	<div><a href="http://scholar.google.co.uk/citations?user=3ndnho0AAAAJ" target="_blank">Google&nbsp;Scholar</a></div>
+	&#124; 
+	<div><a href="https://qmul.academia.edu/BrechtDeMan" target="_blank">Academia.edu</a></div>
+	&#124;
 	<div><a href="http://uk.linkedin.com/in/brechtdeman/" target="_blank">LinkedIn</a></div>
 	&#124;
 	<div><a href="/publications/bibliography.bib" target="_blank">BibTeX</a></div>
@@ -153,8 +156,8 @@ _Honourable Mention in the Engineering Sciences category in honour and recogniti
 ### Scholarly service
 
 - Reviewer for the [Journal of the Audio Engineering Society](http://www.aes.org/journal/) and the [IEEE/ACM Transactions on Audio, Speech and Language Processing](https://signalprocessingsociety.org/publications-resources/ieeeacm-transactions-audio-speech-and-language-processing/ieeeacm)
-- Program Committee member for the [Audio Engineering Society conventions](http://www.aes.org/events/) and [International Society of Music Information Retrieval](http://www.ismir.net) (ISMIR), [DAFx](http://www.dafx.de), [Sound and Music Computing](http://smcnetwork.org) (SMC), [Audio Mostly](http://audiomostly.com/), [Audio Developer Conference](https://juce.com/adc) (ADC), and [Web Audio](http://wac.eecs.qmul.ac.uk) conferences
 - Governor of the [Audio Engineering Society](http://www.aes.org/) (2020-2021)
+- Program Committee member for the [Audio Engineering Society conventions](http://www.aes.org/events/) and [International Society of Music Information Retrieval](http://www.ismir.net) (ISMIR), [International Conference on Digital Audio Effects](http://www.dafx.de) (DAFx), [Sound and Music Computing](http://smcnetwork.org) (SMC), [Audio Mostly](http://audiomostly.com/), [Audio Developer Conference](https://juce.com/adc) (ADC), and [Web Audio](http://wac.eecs.qmul.ac.uk) conferences
 - Vice Chair of the [AES Education Committee](http://www.aes.org/education/) (2016-...)
 - Chair of the Belgian Section of the Audio Engineering Society
 - Committee member of the [British Section](http://www.aes-uk.org/) (2015-2017) and Past Chair of the [London UK Student Section](https://www.facebook.com/AESLondonUKStudentSection/) (2013-...) of the Audio Engineering Society

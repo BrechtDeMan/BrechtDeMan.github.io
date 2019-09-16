@@ -5,13 +5,6 @@ redirect_from:
 - /about/
 ---
 
-{% assign post = site.posts.first %}
-<i>Latest blog post:</i>
-<br />
-<a href="{{ post.url | prepend: site.baseurl }}" target="_self">{{ post.title }}</a>
-
-<br />
-<br />
 
 <i>Latest open access journal article:</i>
 <br />
@@ -26,3 +19,12 @@ redirect_from:
 
 <br />
 <br />
+
+{% assign post = site.posts.first %}
+<i>Latest blog post:</i>
+<br />
+<a href="{{ post.url | prepend: site.baseurl }}" target="_self">{{ post.title }}</a>
+
+<br />
+<br />
+
