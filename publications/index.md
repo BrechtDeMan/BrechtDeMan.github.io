@@ -32,7 +32,7 @@ redirect_from:
 
 ### Special Issues (as guest editor)
 
-{% include cc-by.html %} [Kirk McNally](https://www.uvic.ca/finearts/music/people/faculty/profiles/mcnally-kirk.php) and [Brecht De Man](/), _[Music and the Machine: Contemporary Music Production \[Special Issue\]]_(https://www.mdpi.com/journal/arts/special_issues/contemporary_music_production), Arts, Vol. 8. no. 3, August 2019. 
+{% include cc-by.html %} [Kirk McNally](https://www.uvic.ca/finearts/music/people/faculty/profiles/mcnally-kirk.php) and [Brecht De Man](/), _[Music and the Machine: Contemporary Music Production \[Special Issue\]](https://www.mdpi.com/journal/arts/special_issues/contemporary_music_production)_, Arts, Vol. 8. no. 3, August 2019. 
 
 ### Journal papers
 
