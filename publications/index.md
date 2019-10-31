@@ -22,7 +22,7 @@ redirect_from:
 <br>
 
 ### Books
-[Brecht De Man](/), [Ryan Stables](http://www.ryanstables.co.uk) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/), _Intelligent Music Production_, Routledge, October 2019 (to appear)\. [[Routledge](https://www.routledge.com/Intelligent-Music-Production/Man-Stables-Reiss/p/book/9781138055193) &#124; [Amazon](https://www.amazon.co.uk/Intelligent-Music-Production-Theoretical-Overview/dp/1138055190/)]
+[Brecht De Man](/), [Ryan Stables](http://www.ryanstables.co.uk) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/), _Intelligent Music Production_, Routledge, October 2019\. [[Routledge](https://www.routledge.com/Intelligent-Music-Production/Man-Stables-Reiss/p/book/9781138055193) &#124; [Amazon](https://www.amazon.co.uk/Intelligent-Music-Production-Theoretical-Overview/dp/1138055190/)]
 
 ### Book chapters
 
