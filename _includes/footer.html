@@ -25,6 +25,36 @@
               </td>
             </tr>
           {% endif %}
+          
+          {% if site.instagram_username %}
+            <tr>
+              <td>
+                <a href="https://www.instagram.com/{{ site.instagram_username }}">
+                  <i class="fa fa-instagram"></i>
+                </a>
+              </td>
+              <td>
+                <a href="https://www.instagram.com/{{ site.instagram_username }}">
+                  Instagram
+                </a>
+              </td>
+            </tr>
+          {% endif %}
+          
+          {% if site.linkedin_username %}
+              <tr>
+                <td>
+                  <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
+                    <i class="fa fa-linkedin"></i> 
+                  </a>
+                </td>
+                <td>
+                  <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
+                    LinkedIn
+                  </a>
+                </td>
+              </tr>
+          {% endif %}
 
           {% if site.github_username %}
               <tr>
@@ -51,21 +81,6 @@
                 <td>
                   <a href="http://stackoverflow.com/users/{{ site.stackoverflow_username }}">
                     Stack Overflow
-                  </a>
-                </td>
-              </tr>
-          {% endif %}
-          
-          {% if site.linkedin_username %}
-              <tr>
-                <td>
-                  <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
-                    <i class="fa fa-linkedin"></i> 
-                  </a>
-                </td>
-                <td>
-                  <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
-                    LinkedIn
                   </a>
                 </td>
               </tr>
