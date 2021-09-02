@@ -89,6 +89,8 @@ redirect_from:
 
 #### Extended abstract peer-reviewed
 
+[Jakub Pesek](https://jakubpesek.co.uk/) and [Brecht De Man](/), “[touchEQ: An eyes-free audio equalizer for a surface haptic interface](http://www.aes.org/e-lib/browse.cfm?elib=21078),” _150th Convention of the Audio Engineering Society_, May 2021. 
+
 [Brecht De Man](/), “[Evaluation of Implementations of the EBU R128 Loudness Measurement](http://www.aes.org/e-lib/browse.cfm?elib=19790),” _145th Convention of the Audio Engineering Society_, October 2018. 
 
 [Nicholas Jillings](https://scholar.google.com/citations?user=oNx9j4sAAAAJ&hl=en), [Brecht De Man](/), [Ryan Stables](http://www.ryanstables.co.uk) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/), “[Investigation into the Effects of Subjective Test Interface Choice on the Validity of Results](http://www.aes.org/e-lib/browse.cfm?elib=19760),” _145th Convention of the Audio Engineering Society_, October 2018. 
@@ -155,11 +157,11 @@ _Honourable Mention in the Engineering Sciences category in honour and recogniti
 
 ### Scholarly service
 
+- Director at the [Audio Engineering Society](http://www.aes.org/) (2021-2022); Governor (2020-2021)
 - Reviewer for the [Journal of the Audio Engineering Society](http://www.aes.org/journal/) and the [IEEE/ACM Transactions on Audio, Speech and Language Processing](https://signalprocessingsociety.org/publications-resources/ieeeacm-transactions-audio-speech-and-language-processing/ieeeacm)
-- Governor of the [Audio Engineering Society](http://www.aes.org/) (2020-2021)
 - Program Committee member for the [Audio Engineering Society conventions](http://www.aes.org/events/) and [International Society of Music Information Retrieval](http://www.ismir.net) (ISMIR), [International Conference on Digital Audio Effects](http://www.dafx.de) (DAFx), [Sound and Music Computing](http://smcnetwork.org) (SMC), [Audio Mostly](http://audiomostly.com/), [Audio Developer Conference](https://juce.com/adc) (ADC), and [Web Audio](http://wac.eecs.qmul.ac.uk) conferences
-- Vice Chair of the [AES Education Committee](http://www.aes.org/education/) (2016-...)
-- Chair of the Belgian Section of the Audio Engineering Society
+- Vice Chair of the [AES Education Committee](http://www.aes.org/education/) (2016-2020)
+- Chair of the Belgian Section of the Audio Engineering Society (2018-...)
 - Committee member of the [British Section](http://www.aes-uk.org/) (2015-2017) and Past Chair of the [London UK Student Section](https://www.facebook.com/AESLondonUKStudentSection/) (2013-...) of the Audio Engineering Society
 - Committee member of the [AES Technical Committee on Perception and Subjective Evaluation of Audio Signals](http://www.aes.org/technical/pseas/) and on [Semantic Audio Analysis](http://www.aes.org/technical/saa/)
 - Co-chair of [Sound Talking](https://twitter.com/search?q=%23SoundTalking), an interdisciplinary workshop on the language of sound, at the London [Science Museum](http://www.sciencemuseum.org.uk/), 3 Nov 2017
