@@ -5,21 +5,8 @@ redirect_from:
 - /publications.html
 ---
 
-<div class="distribute">
-	<div><a href="http://scholar.google.co.uk/citations?user=3ndnho0AAAAJ" target="_blank">Google&nbsp;Scholar</a></div>
-	&#124; 
-	<div><a href="https://qmul.academia.edu/BrechtDeMan" target="_blank">Academia.edu</a></div>
-	&#124;
-	<div><a href="http://uk.linkedin.com/in/brechtdeman/" target="_blank">LinkedIn</a></div>
-	&#124;
-	<div><a href="/publications/bibliography.bib" target="_blank">BibTeX</a></div>
-	&#124;
-	<div><a href="https://www.researchgate.net/profile/Brecht_De_Man" target="_blank">ResearchGate</a></div>
-	&#124;
-	<div><a href="/publications/PublicationsList.pdf" target="_blank">pdf</a></div>
-</div>
 
-<br>
+<i>To see who cited and extended my work, refer to my <a href="http://scholar.google.co.uk/citations?user=3ndnho0AAAAJ" target="_blank">Google Scholar profile</a>.</i>
 
 ### Books
 [Brecht De Man](/), [Ryan Stables](http://www.ryanstables.co.uk) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/), _Intelligent Music Production_, Routledge, October 2019\. [[Routledge](https://www.routledge.com/Intelligent-Music-Production/Man-Stables-Reiss/p/book/9781138055193) &#124; [Amazon](https://www.amazon.co.uk/Intelligent-Music-Production-Theoretical-Overview/dp/1138055190/)]
