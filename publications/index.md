@@ -156,7 +156,7 @@ _Honourable Mention in the Engineering Sciences category in honour and recogniti
 - Committee member of the [British Section](http://www.aes-uk.org/) (2015-2017) and Past Chair of the [London UK Student Section](https://www.facebook.com/AESLondonUKStudentSection/) (2013-...) of the Audio Engineering Society
 - Committee member of the [AES Technical Committee on Perception and Subjective Evaluation of Audio Signals](http://www.aes.org/technical/pseas/) and on [Semantic Audio Analysis](http://www.aes.org/technical/saa/)
 - Co-chair of [Sound Talking](https://twitter.com/search?q=%23SoundTalking), an interdisciplinary workshop on the language of sound, at the London [Science Museum](http://www.sciencemuseum.org.uk/), 3 Nov 2017
-- Co-chair of the [2nd Workshop on Intelligent Music Production](http://aes-uk.org/wimp/) (WIMP) in London, 13 Sep 2016
+- Co-chair of the 2nd Workshop on Intelligent Music Production (WIMP) in London, 13 Sep 2016
 - Sponsorship Chair for the [22nd International Conference on Digital Audio Effects (DAFx-19)](http://dafx2019.bcu.ac.uk/) and the [5th Workshop on Intelligent Music Production (WIMP 2019)](http://wimp2019.bcu.ac.uk/)
 - [Up Your Output!](http://www.aes-uk.org/up/) student event in London: Vice Chair 8-9 Mar 2014, Chair 7-8 Mar 2015, Past Chair 12-13 Mar 2016
 - Workshop chair "[New Developments in Listening Test Design](http://www.aes.org/events/142/workshops/?ID=5430)" at the [142nd AES Convention](http://www.aes.org/events/142/) in Berlin, 20-23 May 2017; and at the [143rd AES Convention](http://www.aes.org/events/143/) in NYC, 18-21 Oct 2017. 
